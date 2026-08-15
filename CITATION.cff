@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this research corpus, please cite it as follows."
+title: "Robotics Research Corpus — Data-Driven Agentic Literature Review"
+abstract: "A data-driven, auto-validated literature review corpus for robotics research: manipulation, locomotion, perception, planning, learning, human-robot interaction, multi-robot systems, simulation, and surveys. Papers in papers.yaml, everything else generated."
+authors:
+  - family-names: "Weiß"
+    given-names: "Tobias"
+    orcid: ""
+date-released: "2026-08-15"
+license: MIT
+keywords:
+  - robotics
+  - literature-review
+  - research-corpus
+  - agentic-ai
+  - manipulation
+  - locomotion
+  - reinforcement-learning
+  - human-robot-interaction
+  - vision-language-action
+repository-code: "https://github.com/tobias-weiss-ai-xr/robotics-research"

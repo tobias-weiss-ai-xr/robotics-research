@@ -1,0 +1,324 @@
+# ⚙️ Research Taxonomy & Discovery Config — Robotics Research
+#
+# This is the ONLY file you need to adapt for your own research topic.
+# Edit categories/subcategories + discovery queries, then re-run the pipeline.
+#
+# Pipeline:  config/taxonomy.yaml → papers.yaml → validate → README → reports
+
+# ── Topic ────────────────────────────────────────────────────────────────────
+topic:
+  name: "Robotics Research"
+  short: "robotics"
+  description: "Robotics research corpus: manipulation, locomotion, perception, planning, learning, and human-robot interaction."
+  openalex_mailto: "research@tobias-weiss-ai-xr.de"
+
+# ── Taxonomy ─────────────────────────────────────────────────────────────────
+# Categories = the main axis (robotics subfields).
+# Subcategories = the secondary axis (research aspects).
+# Every paper in papers.yaml must carry one category + one subcategory.
+taxonomy:
+  categories:
+    - id: manipulation
+      display: "Manipulation & Grasping"
+    - id: locomotion
+      display: "Locomotion & Mobility"
+    - id: perception
+      display: "Perception & Sensing"
+    - id: planning
+      display: "Planning & Control"
+    - id: learning
+      display: "Learning & Adaptation"
+    - id: human-robot
+      display: "Human-Robot Interaction"
+    - id: multi-robot
+      display: "Multi-Robot Systems"
+    - id: simulation
+      display: "Simulation & World Models"
+    - id: survey
+      display: "Surveys & Taxonomies"
+  subcategories:
+    - id: theory
+      display: "Theory"
+    - id: mechanism
+      display: "Mechanism"
+    - id: method
+      display: "Method"
+    - id: application
+      display: "Application"
+    - id: development
+      display: "Development"
+    - id: systems
+      display: "Systems & Technology"
+    - id: evaluation
+      display: "Evaluation & Benchmarks"
+    - id: review
+      display: "Reviews & Surveys"
+
+# ── Discovery: arXiv queries (fetch_new_papers.py) ───────────────────────────
+# Each entry is an arXiv API query string (cat: + abs:/ti: operators).
+# Dict entries can carry optional category/subcategory_hint for auto-classification.
+arxiv_queries:
+  - query: 'cat:cs.RO AND (abs:"manipulation" OR abs:"grasping" OR abs:"dexterous")'
+    category: manipulation
+    subcategory_hint: method
+  - query: 'cat:cs.RO AND (abs:"locomotion" OR abs:"legged" OR abs:"quadruped" OR abs:"bipedal")'
+    category: locomotion
+    subcategory_hint: method
+  - query: 'cat:cs.RO AND (abs:"aerial" OR abs:"quadrotor" OR abs:"drone" OR abs:"UAV")'
+    category: locomotion
+    subcategory_hint: application
+  - query: 'cat:cs.RO AND (abs:"motion planning" OR abs:"trajectory optimization" OR abs:"model predictive control")'
+    category: planning
+    subcategory_hint: method
+  - query: 'cat:cs.RO AND (abs:"reinforcement learning" OR abs:"imitation learning" OR abs:"learning from demonstration")'
+    category: learning
+    subcategory_hint: method
+  - query: 'cat:cs.RO AND (abs:"sim-to-real" OR abs:"sim2real" OR (abs:"domain adaptation" AND abs:"robot"))'
+    category: simulation
+    subcategory_hint: method
+  - query: 'cat:cs.RO AND (abs:"human-robot interaction" OR abs:"human-robot collaboration" OR abs:"shared autonomy")'
+    category: human-robot
+    subcategory_hint: application
+  - query: 'cat:cs.RO AND (abs:"multi-robot" OR abs:"swarm" OR (abs:"multi-agent" AND abs:"robot"))'
+    category: multi-robot
+    subcategory_hint: systems
+  - query: 'cat:cs.RO AND (abs:"world model" OR (abs:"simulation" AND abs:"robot") OR abs:"differentiable simulation")'
+    category: simulation
+    subcategory_hint: systems
+  - query: 'cat:cs.RO AND (abs:"visuomotor" OR abs:"tactile" OR abs:"proprioception" OR abs:"multimodal perception")'
+    category: perception
+    subcategory_hint: method
+  - query: 'cat:cs.RO AND (abs:"vision-language-action" OR abs:"VLA" OR (abs:"foundation model" AND abs:"robot"))'
+    category: manipulation
+    subcategory_hint: method
+  - query: 'cat:cs.RO AND (abs:"survey" OR abs:"review" OR abs:"taxonomy")'
+    category: survey
+    subcategory_hint: review
+  - query: 'cat:cs.LG AND abs:"robot" AND (abs:"learning" OR abs:"control" OR abs:"manipulation")'
+    category: learning
+    subcategory_hint: method
+  - query: 'cat:cs.AI AND abs:"robot" AND (abs:"planning" OR abs:"manipulation" OR abs:"navigation")'
+    category: planning
+    subcategory_hint: method
+
+# ── Discovery: multi-source queries (fetch_other_sources.py) ─────────────────
+# Each entry defines one query against a source (dblp, crossref, europepmc, …).
+other_sources_queries:
+  - source: dblp
+    query: robotic manipulation grasping
+    category: manipulation
+    subcategory_hint: method
+  - source: dblp
+    query: legged robot locomotion
+    category: locomotion
+    subcategory_hint: method
+  - source: dblp
+    query: robot motion planning
+    category: planning
+    subcategory_hint: method
+  - source: dblp
+    query: robot learning reinforcement imitation
+    category: learning
+    subcategory_hint: method
+  - source: dblp
+    query: human-robot interaction
+    category: human-robot
+    subcategory_hint: application
+  - source: dblp
+    query: multi-robot swarm coordination
+    category: multi-robot
+    subcategory_hint: systems
+  - source: crossref
+    query: robotic manipulation learning
+    category: manipulation
+    subcategory_hint: method
+  - source: crossref
+    query: quadrupedal locomotion reinforcement learning
+    category: locomotion
+    subcategory_hint: method
+  - source: crossref
+    query: robot perception multimodal sensing
+    category: perception
+    subcategory_hint: systems
+  - source: crossref
+    query: vision-language-action model robotics
+    category: manipulation
+    subcategory_hint: method
+  - source: crossref
+    query: sim-to-real transfer robotics
+    category: simulation
+    subcategory_hint: method
+  - source: crossref
+    query: human-robot interaction survey
+    category: human-robot
+    subcategory_hint: review
+  - source: crossref
+    query: multi-robot systems survey
+    category: multi-robot
+    subcategory_hint: review
+  - source: crossref
+    query: robotics survey review
+    category: survey
+    subcategory_hint: review
+  - source: europepmc
+    query: robot manipulation grasping learning
+    category: manipulation
+    subcategory_hint: method
+  - source: europepmc
+    query: robot locomotion reinforcement learning
+    category: locomotion
+    subcategory_hint: method
+
+# ── OpenAlex bulk fetch (fetch_openalex_bulk.py) ─────────────────────────────
+# Per-category OpenAlex search phrases.
+openalex_queries:
+  - category: manipulation
+    query: "robotic manipulation grasping dexterous"
+  - category: locomotion
+    query: "robot locomotion legged quadruped bipedal"
+  - category: perception
+    query: "robot perception sensing multimodal tactile"
+  - category: planning
+    query: "robot motion planning trajectory optimization control"
+  - category: learning
+    query: "robot learning reinforcement imitation demonstration"
+  - category: human-robot
+    query: "human-robot interaction collaboration shared autonomy"
+  - category: multi-robot
+    query: "multi-robot swarm coordination cooperative"
+  - category: simulation
+    query: "robot simulation world model sim-to-real transfer"
+  - category: survey
+    query: "robotics survey review taxonomy"
+
+# ── Trend / burst keywords ───────────────────────────────────────────────────
+# Topic-specific keywords for keyword-burst analysis (standard_stats.py,
+# trend_scanner.py, landscape_analyzer.py).
+trend_keywords:
+  - "manipulation"
+  - "grasping"
+  - "dexterous"
+  - "locomotion"
+  - "legged"
+  - "quadruped"
+  - "bipedal"
+  - "aerial"
+  - "quadrotor"
+  - "drone"
+  - "navigation"
+  - "slam"
+  - "motion planning"
+  - "trajectory"
+  - "model predictive control"
+  - "reinforcement learning"
+  - "imitation learning"
+  - "learning from demonstration"
+  - "diffusion policy"
+  - "visuomotor"
+  - "tactile"
+  - "proprioception"
+  - "multimodal"
+  - "sim-to-real"
+  - "sim2real"
+  - "domain adaptation"
+  - "world model"
+  - "differentiable simulation"
+  - "human-robot interaction"
+  - "shared autonomy"
+  - "multi-robot"
+  - "swarm"
+  - "foundation model"
+  - "vision-language-action"
+  - "VLA"
+  - "large language model"
+  - "feedback"
+  - "contact-rich"
+  - "whole-body"
+  - "autonomous"
+  - "real-world"
+  - "generalization"
+  - "benchmark"
+  - "dataset"
+
+# ── Subclassification keywords ───────────────────────────────────────────────
+# Maps subcategory IDs to keyword lists for auto-classification.
+# The first matching rule wins. Falls back to heuristic ordering.
+subcategory_keywords:
+  - id: theory
+    keywords: ["theory", "theoretical", "formal", "proof", "convergence", "bound", "analysis of", "complexity"]
+  - id: mechanism
+    keywords: ["mechanism", "explainab", "interpretab", "attention", "saliency", "feature importance", "why does"]
+  - id: method
+    keywords: ["method", "algorithm", "approach", "technique", "framework", "novel method", "our method", "propose"]
+  - id: application
+    keywords: ["application", "applied", "deploy", "real-world", "case study", "use case", "experiment", "field"]
+  - id: development
+    keywords: ["implementation", "system", "platform", "toolkit", "library", "open-source", "software", "pipeline", "hardware", "SDK", "API"]
+  - id: systems
+    keywords: ["simulator", "simulation", "engine", "benchmark", "testbed", "environment", "infrastructure", "sensor", "actuator", "gym"]
+  - id: evaluation
+    keywords: ["benchmark", "evaluation", "comparison", "baseline", "state-of-the-art", "sota", "leaderboard", "metric", "ablation"]
+  - id: review
+    keywords: ["survey", "review", "literature", "systematic review", "meta-analysis", "overview", "taxonomy"]
+
+# ── GitHub repository discovery (fetch_github_repos.py) ─────────────────────
+github_queries:
+  - query: "topic:robotics+stars:>100"
+    category: manipulation
+  - query: "robot+manipulation+framework+stars:>200"
+    category: manipulation
+    subcategory_hint: development
+  - query: "robot+learning+reinforcement+stars:>100"
+    category: learning
+  - query: "robot+simulator+stars:>200"
+    category: simulation
+    subcategory_hint: systems
+  - query: "motion+planning+robot+stars:>100"
+    category: planning
+  - query: "locomotion+robot+stars:>50"
+    category: locomotion
+  - query: "human-robot+interaction+stars:>50"
+    category: human-robot
+  - query: "multi-robot+swarm+stars:>50"
+    category: multi-robot
+  - query: "robot+perception+stars:>100"
+    category: perception
+  - query: "awesome+robotics+stars:>100"
+    category: survey
+    subcategory_hint: review
+
+# ── GitLab repository discovery (fetch_gitlab_repos.py) ──────────────────────
+gitlab_queries:
+  - query: "robot manipulation"
+    category: manipulation
+  - query: "robot learning"
+    category: learning
+  - query: "robot simulator"
+    category: simulation
+    subcategory_hint: systems
+  - query: "motion planning"
+    category: planning
+
+# ── Codeberg repository discovery (fetch_codeberg_repos.py) ──────────────────
+codeberg_queries:
+  - query: "robot"
+    category: manipulation
+  - query: "robotics"
+    category: survey
+    subcategory_hint: review
+
+# ── Relevance signals for repo fetchers ──────────────────────────────────────
+# Extra keyword tokens shared by ALL repo fetchers to filter out irrelevant repos.
+# Auto-extracted from: topic.name, topic.description, taxonomy IDs.
+repo_signals:
+  - "robot"
+  - "robotics"
+  - "manipulation"
+  - "grasping"
+  - "locomotion"
+  - "planning"
+  - "control"
+  - "reinforcement learning"
+  - "imitation learning"
+  - "sim-to-real"
+  - "human-robot"

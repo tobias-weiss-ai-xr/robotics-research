@@ -1,0 +1,127 @@
+# Multi-source discovery queries for robotics research
+# Sources supported: dblp, crossref, europepmc
+# Focus: conference proceedings (DBLP), journal articles (CrossRef), biomed/eng (EuropePMC)
+
+# ── Manipulation & Grasping ──
+- source: dblp
+  query: robotic manipulation grasping
+  category: manipulation
+  subcategory_hint: method
+- source: dblp
+  query: dexterous manipulation learning
+  category: manipulation
+  subcategory_hint: method
+- source: crossref
+  query: robotic manipulation learning
+  category: manipulation
+  subcategory_hint: method
+- source: crossref
+  query: vision-language-action model robotics
+  category: manipulation
+  subcategory_hint: method
+
+# ── Locomotion & Mobility ──
+- source: dblp
+  query: legged robot locomotion
+  category: locomotion
+  subcategory_hint: method
+- source: crossref
+  query: quadrupedal locomotion reinforcement learning
+  category: locomotion
+  subcategory_hint: method
+- source: crossref
+  query: aerial robot navigation
+  category: locomotion
+  subcategory_hint: application
+
+# ── Perception & Sensing ──
+- source: dblp
+  query: robot perception multimodal
+  category: perception
+  subcategory_hint: systems
+- source: crossref
+  query: robot tactile sensing manipulation
+  category: perception
+  subcategory_hint: systems
+
+# ── Planning & Control ──
+- source: dblp
+  query: robot motion planning
+  category: planning
+  subcategory_hint: method
+- source: crossref
+  query: trajectory optimization robot
+  category: planning
+  subcategory_hint: method
+- source: crossref
+  query: model predictive control robot
+  category: planning
+  subcategory_hint: method
+
+# ── Learning & Adaptation ──
+- source: dblp
+  query: robot learning reinforcement imitation
+  category: learning
+  subcategory_hint: method
+- source: crossref
+  query: imitation learning robot manipulation
+  category: learning
+  subcategory_hint: method
+- source: crossref
+  query: sim-to-real transfer robotics
+  category: simulation
+  subcategory_hint: method
+
+# ── Human-Robot Interaction ──
+- source: dblp
+  query: human-robot interaction
+  category: human-robot
+  subcategory_hint: application
+- source: crossref
+  query: human-robot collaboration shared autonomy
+  category: human-robot
+  subcategory_hint: application
+
+# ── Multi-Robot Systems ──
+- source: dblp
+  query: multi-robot swarm coordination
+  category: multi-robot
+  subcategory_hint: systems
+- source: crossref
+  query: multi-robot system survey
+  category: multi-robot
+  subcategory_hint: review
+
+# ── Simulation & World Models ──
+- source: dblp
+  query: robot simulation world model
+  category: simulation
+  subcategory_hint: systems
+- source: crossref
+  query: differentiable simulation robot
+  category: simulation
+  subcategory_hint: method
+
+# ── Surveys ──
+- source: crossref
+  query: robotics survey review
+  category: survey
+  subcategory_hint: review
+- source: crossref
+  query: robot learning survey
+  category: survey
+  subcategory_hint: review
+
+# ── EuropePMC (biomed/engineering) ──
+- source: europepmc
+  query: robot manipulation grasping learning
+  category: manipulation
+  subcategory_hint: method
+- source: europepmc
+  query: robot locomotion reinforcement learning
+  category: locomotion
+  subcategory_hint: method
+- source: europepmc
+  query: surgical robot control
+  category: planning
+  subcategory_hint: application
