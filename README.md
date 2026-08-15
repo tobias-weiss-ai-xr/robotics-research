@@ -88,27 +88,95 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 ## 📚 Paper list
 
 - [📚 Manipulation & Grasping](#manipulation-&-grasping)
-  - [Method](#method)
-- [📚 Locomotion & Mobility](#locomotion-&-mobility)
+  - [Theory](#theory)
+  - [Mechanism](#mechanism)
   - [Method](#method)
   - [Application](#application)
+  - [Development](#development)
+  - [Systems & Technology](#systems-&-technology)
+- [📚 Locomotion & Mobility](#locomotion-&-mobility)
+  - [Theory](#theory)
+  - [Method](#method)
+  - [Application](#application)
+  - [Development](#development)
 - [📚 Perception & Sensing](#perception-&-sensing)
+  - [Theory](#theory)
+  - [Mechanism](#mechanism)
   - [Method](#method)
+  - [Application](#application)
+  - [Development](#development)
+  - [Systems & Technology](#systems-&-technology)
+  - [Evaluation & Benchmarks](#evaluation-&-benchmarks)
 - [📚 Planning & Control](#planning-&-control)
+  - [Theory](#theory)
+  - [Mechanism](#mechanism)
   - [Method](#method)
+  - [Development](#development)
 - [📚 Learning & Adaptation](#learning-&-adaptation)
+  - [Theory](#theory)
+  - [Mechanism](#mechanism)
   - [Method](#method)
 - [📚 Human-Robot Interaction](#human-robot-interaction)
+  - [Theory](#theory)
+  - [Mechanism](#mechanism)
+  - [Method](#method)
   - [Application](#application)
 - [📚 Multi-Robot Systems](#multi-robot-systems)
+  - [Theory](#theory)
+  - [Mechanism](#mechanism)
+  - [Method](#method)
+  - [Development](#development)
   - [Systems & Technology](#systems-&-technology)
 - [📚 Simulation & World Models](#simulation-&-world-models)
+  - [Theory](#theory)
+  - [Mechanism](#mechanism)
   - [Method](#method)
+  - [Application](#application)
+  - [Development](#development)
   - [Systems & Technology](#systems-&-technology)
+  - [Evaluation & Benchmarks](#evaluation-&-benchmarks)
 - [📚 Surveys & Taxonomies](#surveys-&-taxonomies)
+  - [Theory](#theory)
+  - [Mechanism](#mechanism)
+  - [Method](#method)
+  - [Application](#application)
+  - [Evaluation & Benchmarks](#evaluation-&-benchmarks)
   - [Reviews & Surveys](#reviews-&-surveys)
 
 ### Manipulation & Grasping
+
+#### Theory
+
+##### 2026
+
+- [2026] **DCIRNet: Depth completion with iterative refinement for dexterous grasping of transparent and reflective objects** *Neurocomputing* [[paper](https://arxiv.org/abs/2506.09491)]
+- [2026] **Aligning robotic manipulation with human cognitive modalities: studies in perception, language, imitation, and foresight** *University of Edinburgh* [[paper](https://doi.org/10.7488/era/7586)]
+- [2026] **A Bio‐Functional Mimetic Robot for Versatile Tasks From Cross‐Scale Manipulation to Limb‐Tool Integration** *Advanced Science* [[paper](https://doi.org/10.1002/advs.76527)]
+- [2026] **Mechanical Design Strategies of Dexterous Robotic Hands for Enhanced Precision Grasping: A Review** *Robotics* [[paper](https://doi.org/10.3390/robotics15080146)]
+- [2026] **Underwater Grippers for Dexterous Manipulation: A Review on Design and Enabling Technologies** *Journal of Field Robotics* [[paper](https://doi.org/10.1002/rob.70277)]
+- [2026] **When Contact Becomes Support: Auditing and Repairing Contact-Topology Failures in Programmatic Dexterous Grasp Search** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20922500)]
+- [2026] **Functional grasping of floating tools in zero-gravity space using reinforcement learning for dexterous robotic hands** *Science China Technological Sciences* [[paper](https://doi.org/10.1007/s11431-026-3327-y)]
+- [2026] **Towards Advanced Intelligent and Perceptive Soft Grippers** *Advanced Intelligent Systems* [[paper](https://doi.org/10.1002/aisy.202501459)]
+- [2026] **A Tactile-Driven Hierarchical Reinforcement Learning Framework for Dexterous Robotic Manipulation** *Informatica* [[paper](https://doi.org/10.31449/inf.v50i11.13667)]
+- [2026] **Utilizing Spatially Varying Fiber Arrays in Soft Morphing Surfaces for Grasping Applications** *Journal of Mechanisms and Robotics* [[paper](https://doi.org/10.1115/1.4071597)]
+- [2026] **Distributed and stretchable tactile sensing for dexterous robotic hands based on a crosslinked interpenetrating network** *Science China Materials* [[paper](https://doi.org/10.1007/s40843-025-3840-3)]
+- [2026] **Miniaturized 3D Magnetic Force Sensor via Laser‐Assisted Folding and Magnetization for Enhanced Robotic Dexterity** *Advanced Science* [[paper](https://doi.org/10.1002/advs.202524321)]
+
+[⬆ Back to top](#paper-list)
+
+#### Mechanism
+
+##### 2026
+
+- [2026] **Design and evaluation of a tendon-and-linkage hybrid-driven humanoid dexterous hand** *Scientific Reports* [[paper](https://doi.org/10.1038/s41598-026-63917-x)]
+- [2026] **A high-dexterity soft neuroprosthetic hand for daily activities** *Nature Communications* [[paper](https://doi.org/10.1038/s41467-026-75105-6)]
+- [2026] **A modular soft gripper with enhanced in-hand manipulation capabilities** *Bioinspiration & Biomimetics* [[paper](https://doi.org/10.1088/1748-3190/ae901e)]
+- [2026] **MULTIMODAL TACTILE SENSING FOR CONTACT-RICH ROBOTIC MANIPULATION** *Figshare* [[paper](https://figshare.com/articles/thesis/MULTIMODAL_TACTILE_SENSING_FOR_CONTACT-RICH_ROBOTIC_MANIPULATION/32752281)]
+- [2026] **Design and miniaturization of an ultra-fine multi-degree-of-freedom robotic instrument for ophthalmic minimally invasive microsurgery** *ROBOMECH Journal* [[paper](https://doi.org/10.1186/s40648-026-00349-2)]
+- [2026] **KISP Hand: Space Gripper for On-Orbit Servicing Missions** *Aerospace* [[paper](https://doi.org/10.3390/aerospace13060513)]
+- [2026] **Multimodal Perception Technology, Fusion, and Application of Robot Dexterous Hands for Complex Tasks in Intelligent Manufacturing** *Academic Journal of Science and Technology* [[paper](https://doi.org/10.54097/b88jb554)]
+
+[⬆ Back to top](#paper-list)
 
 #### Method
 
@@ -138,6 +206,9 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Artificial Foveated Perception for Mitigating Shortcut Learning in Robotic Foundation Models** [[paper](https://arxiv.org/abs/2607.10655)]
 - [2026] **Data Pyramid for Embodied Manipulation: A Survey** [[paper](https://arxiv.org/abs/2607.24744)]
 - [2026] **S-squared-VLA: Decoupling Semantic and Spatial Streams in Vision-Language-Action Models for Autonomous Driving** [[paper](https://arxiv.org/abs/2607.13926)]
+- [2026] **Designing and Teaching Dexterous Robot Hands** *KiltHub Repository* [[paper](https://doi.org/10.1184/r1/33063809)]
+- [2026] **DexGraspDiffuser: Target-Coupled Grasp and Action Diffusion for Dexterous Grasping** *Biomimetics* [[paper](https://doi.org/10.3390/biomimetics11070465)]
+- [2026] **A versatile and high-precision robotic gripper with universal applicability** [[paper](https://doi.org/10.1117/12.3119650)]
 - [2026] **Mana: Dexterous Manipulation of Articulated Tools** [[paper](https://arxiv.org/abs/2606.13677)]
 - [2026] **From Grasps to Dexterity: Large-Scale Grasp Pretraining for Dexterous Manipulation** [[paper](https://arxiv.org/abs/2606.30749)]
 - [2026] **CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation** [[paper](https://arxiv.org/abs/2606.23680)]
@@ -167,6 +238,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **VLALeaks: Membership Inference Attacks against Vision-Language-Action Models** [[paper](https://arxiv.org/abs/2606.15165)]
 - [2026] **Flow Control: Steering Vision-Language-Action Models with Simple Real-Time Inputs** [[paper](https://arxiv.org/abs/2606.10180)]
 - [2026] **RT-VLA: Real-Time Vision-Language-Action Models via Knowledge Distillation** [[paper](https://arxiv.org/abs/2606.14010)]
+- [2026] **Universal bioinspired adhesives for arbitrary unknown surfaces toward dexterous robotic manipulation** *Microsystems & Nanoengineering* [[paper](https://doi.org/10.1038/s41378-026-01338-6)]
+- [2026] **Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2606.26428)]
 - [2026] **SECOND-Grasp: Semantic Contact-guided Dexterous Grasping** [[paper](https://arxiv.org/abs/2605.13117)]
 - [2026] **Hand-in-the-Loop: Improving VLA Policies for Dexterous Manipulation via Seamless Hand-Arm Intervention** [[paper](https://arxiv.org/abs/2605.15157)]
 - [2026] **DexTwist: Dexterous Hand Retargeting for Twist Motion via Mixed Reality-based Teleoperation** [[paper](https://arxiv.org/abs/2605.12182)]
@@ -182,6 +255,9 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **AttenA+: Rectifying Action Inequality in Robotic Foundation Models** [[paper](https://arxiv.org/abs/2605.13548)]
 - [2026] **Evo-Depth: A Lightweight Depth-Enhanced Vision-Language-Action Model** [[paper](https://arxiv.org/abs/2605.14950)]
 - [2026] **Anticipation-VLA: Solving Long-Horizon Embodied Tasks via Anticipation-based Subgoal Generation** [[paper](https://arxiv.org/abs/2605.01772)]
+- [2026] **Fingertip-scale six-axis tactile interface with high-precision force sensing and position localization for dexterous human–machine interactions** *Microsystems & Nanoengineering* [[paper](https://doi.org/10.1038/s41378-026-01292-3)]
+- [2026] **Safe and Steerable Geometric Motion Policies for Robotic Dexterous Manipulation** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2605.21811)]
+- [2026] **Virtual reality-enabled embodied intelligence: An adaptive planning method for coordinated dual-arm grasping** *Expert Systems with Applications* [[paper](https://doi.org/10.1016/j.eswa.2026.132714)]
 - [2026] **HANDFUL: Sequential Grasp-Conditioned Dexterous Manipulation with Resource Awareness** [[paper](https://arxiv.org/abs/2604.25126)]
 - [2026] **HRDexDB: A Paired Human-Robot Dataset for Cross-Embodiment Dexterous Grasping** [[paper](https://arxiv.org/abs/2604.14944)]
 - [2026] **A Benchmark of Dexterity for Anthropomorphic Robotic Hands** [[paper](https://arxiv.org/abs/2604.09294)]
@@ -203,6 +279,10 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Vision-Language-Action Jump-Starting for Reinforcement Learning Robotic Agents** [[paper](https://arxiv.org/abs/2604.13733)]
 - [2026] **Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms** [[paper](https://arxiv.org/abs/2604.23775)]
 - [2026] **Can Explicit Physical Feasibility Benefit VLA Learning? An Empirical Study** [[paper](https://arxiv.org/abs/2604.17896)]
+- [2026] **ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning Dexterous Manipulation** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2604.20295)]
+- [2026] **Embedded Haptic Control for Robotic Grasping using a Tactile Sensor System** *reposiTUm (TU Wien)* [[paper](https://doi.org/10.34749/3061-1466.2026.16)]
+- [2026] **FastGrasp: Learning-based Whole-body Control method for Fast Dexterous Grasping with Mobile Manipulators** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2604.12879)]
+- [2026] **Multimodal Quad‐Finger Soft Robotic Hand With Dual‐Chamber Origami Actuator for Large‐Workspace Manipulation** *Advanced Intelligent Systems* [[paper](https://doi.org/10.1002/aisy.70388)]
 - [2026] **AdaClearGrasp: Learning Adaptive Clearing for Zero-Shot Robust Dexterous Grasping in Densely Cluttered Environments** [[paper](https://arxiv.org/abs/2603.10616)]
 - [2026] **End-to-End Dexterous Grasp Learning from Single-View Point Clouds via a Multi-Object Scene Dataset** [[paper](https://arxiv.org/abs/2603.15410)]
 - [2026] **Concurrent Prehensile and Nonprehensile Manipulation: A Practical Approach to Multi-Stage Dexterous Tasks** [[paper](https://arxiv.org/abs/2603.11655)]
@@ -228,6 +308,10 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **PhysiFlow: Physics-Aware Humanoid Whole-Body VLA via Multi-Brain Latent Flow Matching and Robust Tracking** [[paper](https://arxiv.org/abs/2603.05410)]
 - [2026] **MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation** [[paper](https://arxiv.org/abs/2603.25406)]
 - [2026] **DyQ-VLA: Temporal-Dynamic-Aware Quantization for Embodied Vision-Language-Action Models** [[paper](https://arxiv.org/abs/2603.07904)]
+- [2026] **Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors** *Proceedings of the AAAI Conference on Artificial Intelligence* [[paper](https://doi.org/10.1609/aaai.v40i15.38313)]
+- [2026] **WGrasp: A Universal Dexterous Grasping Framework Guided by Vision and Tactile Perception** [[paper](https://doi.org/10.1109/aaiml67890.2026.11498158)]
+- [2026] **Grasping by interconnection: robust manipulation with minimal object information** *ORBi (University of Liège)* [[paper](https://orbi.uliege.be/handle/2268/341416)]
+- [2026] **Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction for Robot Learning** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2603.26660)]
 - [2026] **Grasp to Act: Dexterous Grasping for Tool Use in Dynamic Settings** [[paper](https://arxiv.org/abs/2602.20466)]
 - [2026] **DexRepNet++: Learning Dexterous Robotic Manipulation with Geometric and Spatial Hand-Object Representations** [[paper](https://arxiv.org/abs/2602.21811)]
 - [2026] **Dexterous Manipulation Policies from RGB Human Videos via 3D Hand-Object Trajectory Reconstruction** [[paper](https://arxiv.org/abs/2602.09013)]
@@ -244,6 +328,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Are Foundation Models the Route to Full-Stack Transfer in Robotics?** [[paper](https://arxiv.org/abs/2602.22001)]
 - [2026] **Scaling World Model for Hierarchical Manipulation Policies** [[paper](https://arxiv.org/abs/2602.10983)]
 - [2026] **Latent Reasoning VLA: Latent Thinking and Prediction for Vision-Language-Action Models** [[paper](https://arxiv.org/abs/2602.01166)]
+- [2026] **Task-oriented grasping for dexterous robots using postural synergies and reinforcement learning** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2602.20915)]
+- [2026] **Generalization of finger-joint kinematics for cleaning tasks** *Frontiers in Robotics and AI* [[paper](https://doi.org/10.3389/frobt.2026.1725261)]
 - [2026] **DextER: Language-driven Dexterous Grasp Generation with Embodied Reasoning** [[paper](https://arxiv.org/abs/2601.16046)]
 - [2026] **TOSC: Task-Oriented Shape Completion for Open-World Dexterous Grasp Generation from Partial Point Clouds** [[paper](https://arxiv.org/abs/2601.05499)]
 - [2026] **Generate, Transfer, Adapt: Learning Functional Dexterous Grasping from a Single Human Demonstration** [[paper](https://arxiv.org/abs/2601.05243)]
@@ -314,7 +400,40 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 [⬆ Back to top](#paper-list)
 
+#### Application
+
+##### 2026
+
+- [2026] **Hong Kong Operation Robot for Chang‘E-8 Mission** [[paper](https://doi.org/10.5194/epsc2026-1285)]
+- [2026] **Soft Pop-up Serial Robot with Cable-Hydraulic Hybrid Actuation for Advanced Endoscopy** [[paper](https://doi.org/10.1109/robosoft67810.2026.11522891)]
+
+[⬆ Back to top](#paper-list)
+
+#### Development
+
+##### 2026
+
+- [2026] **Strong yet backdrivable robots through capstan-amplified electroadhesive clutches** *npj Robotics* [[paper](https://doi.org/10.1038/s44182-026-00084-1)]
+
+[⬆ Back to top](#paper-list)
+
+#### Systems & Technology
+
+##### 2026
+
+- [2026] **Helix-coupled spherical joint for anthropomorphic CMC dexterity in robotic hands: Achieving three trajectories with one actuator** *Sensors and Actuators A Physical* [[paper](https://doi.org/10.1016/j.sna.2026.118178)]
+
+[⬆ Back to top](#paper-list)
+
 ### Locomotion & Mobility
+
+#### Theory
+
+##### 2026
+
+- [2026] **Locomotion on three legs: the tripedal gaits of canine amputees** [[paper](https://doi.org/10.52843/cassyni.tcr2v6)]
+
+[⬆ Back to top](#paper-list)
 
 #### Method
 
@@ -366,6 +485,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Dynamic Modeling and Attitude Control of a Reaction-Wheel-Based Low-Gravity Bipedal Hopper** [[paper](https://arxiv.org/abs/2603.10670)]
 - [2026] **SteadyTray: Learning Object Balancing Tasks in Humanoid Tray Transport via Residual Reinforcement Learning** [[paper](https://arxiv.org/abs/2603.10306)]
 - [2026] **Learning Whole-Body Control for a Salamander Robot** [[paper](https://arxiv.org/abs/2603.16683)]
+- [2026] **Jumping in legged robots: A review of advances in jumping abilities, methods, challenges, and future directions** *Robotics and Autonomous Systems* [[paper](https://doi.org/10.1016/j.robot.2026.105434)]
 - [2026] **Agile asymmetric multi-legged locomotion: contact planning via geometric mechanics and spin model duality** [[paper](https://arxiv.org/abs/2602.09123)]
 - [2026] **Dynamic Modeling and MPC for Locomotion of Tendon-Driven Soft Quadruped** [[paper](https://arxiv.org/abs/2602.16371)]
 - [2026] **Enhancing Navigation Efficiency of Quadruped Robots via Leveraging Personal Transportation Platforms** [[paper](https://arxiv.org/abs/2602.03397)]
@@ -536,7 +656,56 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 [⬆ Back to top](#paper-list)
 
+#### Development
+
+##### 2026
+
+- [2026] **Agile legged locomotion in reconfigurable modular robots** *Proceedings of the National Academy of Sciences* [[paper](https://doi.org/10.1073/pnas.2519129123)]
+
+[⬆ Back to top](#paper-list)
+
 ### Perception & Sensing
+
+#### Theory
+
+##### 2026
+
+- [2026] **Bifurcation-Gated Kresling Origami Triboelectric Mechanoreceptor Enabling Self-Powered Multimodal Tactile Sensing for Intelligent Human-Robot Interaction** *Nano Energy* [[paper](https://doi.org/10.1016/j.nanoen.2026.112280)]
+- [2026] **A Fully Silicone Flexible Self-Powered Teng Tactile Skin for Multimodal Sensing and Material Recognition on Robotic Hands** *ECS Meeting Abstracts* [[paper](https://doi.org/10.1149/ma2026-01341594mtgabs)]
+- [2026] **Flexible 3D Tactile Sensor With Cube‐Shaped Microstructure for Multimodal Force‐Temperature Decoupled Perception for Soft Robotic Hands** *Advanced Sensor Research* [[paper](https://doi.org/10.1002/adsr.202600003)]
+- [2026] **Intrinsic Force–TemperatureSelf-DecouplingEnables Human-like Tactile Sensing in a Soft Ionic Skin** *ACS Nano* [[paper](https://doi.org/10.1021/acsnano.6c09063)]
+- [2026] **Object Shape Recognition Using Sparse Soft Capacitive Tactile Sensors for Robotic Hands** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202607.0606.v1)]
+- [2026] **Tactile electronic skin: From mechanical perception to intelligent interfaces** *Sensors and Actuators A Physical* [[paper](https://doi.org/10.1016/j.sna.2026.118150)]
+- [2026] **Bioinspired perception: Advancements for underwater robots** *Ocean Engineering* [[paper](https://doi.org/10.1016/j.oceaneng.2026.125943)]
+- [2026] **Triboelectric Tactile Sensors for Intelligent Systems** *SmartSys* [[paper](https://doi.org/10.1002/sys3.70023)]
+- [2026] **Strain-localized luminescent e-skin for high-resolution pressure mapping and visual force feedback** *Nature Communications* [[paper](https://doi.org/10.1038/s41467-026-73073-5)]
+- [2026] **3D-printed coaxial intelligent fibers with multimodal sensing capabilities for e-skin** *Chemical Engineering Journal* [[paper](https://doi.org/10.1016/j.cej.2026.176102)]
+- [2026] **An Intrinsically Multimodal Self‐Powered Sensor Enhanced by Microstructured Powder Layer for AI‐Enabled Tactile Perception** *Interdisciplinary materials* [[paper](https://doi.org/10.1002/idm2.70045)]
+- [2026] **Recent progresses on multifunctional tactile sensors for electronic skins and human-machine interaction applications** *Sensors and Actuators Reports* [[paper](https://doi.org/10.1016/j.snr.2026.100459)]
+
+[⬆ Back to top](#paper-list)
+
+#### Mechanism
+
+##### 2026
+
+- [2026] **TouchReal: an online neuromorphic tactile framework for biomimetic afferent spike generation based on TouchSim** *Neuromorphic Computing and Engineering* [[paper](https://doi.org/10.1088/2634-4386/ae98b0)]
+- [2026] **Multimodal Flexible Sensors Based on Porous Laser-Induced Graphene with Tunable Thermal Therapy and Haptic Perception** *ACS Applied Electronic Materials* [[paper](https://doi.org/10.1021/acsaelm.6c00853)]
+- [2026] **High-resolution flexible tactile sensors** *Soft Science* [[paper](https://doi.org/10.20517/ss.2026.77)]
+- [2026] **A Review of Intelligent Identification Technologies for the Collection of Tree-Derived Bio-Based Polymer Materials: Multimodal Perception and Machine Learning Methods** *Forests* [[paper](https://doi.org/10.3390/f17060727)]
+- [2026] **Multidimensional Parameter Monitoring and Cross-Sensitivity Decoupling in Force-Sensing Optical Fibers: Mechanisms, Algorithms, and Experimental Validation** *Journal of engineering system.* [[paper](https://doi.org/10.62517/jes.202602226)]
+- [2026] **Robotic Tactile Sensing for Early Detection of Frost-Damaged Citrus Fruits with Pressure–Vibration Multimodal Fusion** *Foods* [[paper](https://doi.org/10.3390/foods15091597)]
+- [2026] **Flexible tactile sensors toward intelligent perception: Mechanisms, architectures and functional applications** *Chemical Engineering Journal* [[paper](https://doi.org/10.1016/j.cej.2026.177827)]
+- [2026] **Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from Vision, Touch, and Language** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2605.27886)]
+- [2026] **Tutkimus deformoituvien objektien robottimanipulaatiosta: Havaitseminen, mallintaminen, suunnittelu ohjaus** *Aaltodoc (Aalto University)* [[paper](https://aaltodoc.aalto.fi/handle/123456789/144904)]
+- [2026] **Manufacturing, Sensing, and Applications of Data Gloves: A Review** *IEEE Sensors Journal* [[paper](https://doi.org/10.1109/jsen.2026.3681433)]
+- [2026] **FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic Manipulation** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2603.10871)]
+- [2026] **3DA-VTG: An Explicitly Aligned Visuo-Tactile Grasp Dataset and Dual-Branch Fusion Method for Robotic Stable Grasp** *Chinese Journal of Mechanical Engineering* [[paper](https://doi.org/10.1016/j.cjme.2026.100283)]
+- [2026] **A Multimodal Sensor-Vision Fusion Dataset for Robotic Task Classification and Behavior Analysis in Industrial Environments** *International Multidisciplinary Knowledge Exchange Journal* [[paper](https://doi.org/10.65282/imke.vol.1.issue.02.038)]
+- [2026] **Synergy-Driven Flexible Fragile Object Slip Detection Enhanced by Visuo-Tactile Abstract Representation Fusion** *IEEE Sensors Journal* [[paper](https://doi.org/10.1109/jsen.2026.3672447)]
+- [2026] **TactEx: An Explainable Multimodal Robotic Interaction Framework for Human-Like Touch and Hardness Estimation** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2602.18967)]
+
+[⬆ Back to top](#paper-list)
 
 #### Method
 
@@ -547,6 +716,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **AdaDexGrasp: Adaptive Dexterous Grasping via 3D Visuo-Tactile Representation Fusion** [[paper](https://arxiv.org/abs/2608.07600)]
 - [2026] **Transcutaneous Spinal Cord Stimulation Disrupts Conscious Ankle Proprioception and Produces a More Constrained Locomotor Pattern in Unimpaired Adults** [[paper](https://arxiv.org/abs/2608.05635)]
 - [2026] **ReTouch: Empowering Contact-Rich Dexterous Manipulation with Online-Refined Tactile Prediction** [[paper](https://arxiv.org/abs/2608.01824)]
+- [2026] **Intrinsic Environmental Referencing in Coaxial Nanofiber Yarns Enables Humidity‐Robust Triboelectric Tactile Recognition** *Advanced Functional Materials* [[paper](https://doi.org/10.1002/adfm.77610)]
 - [2026] **Imagining the Sense of Touch: Touch-Informed Manipulation via Imagined Tactile Representations** [[paper](https://arxiv.org/abs/2607.01684)]
 - [2026] **A Model-Based Decoupling Strategy for Proprioception and Contact Sensing in an Architected Soft Manipulator** [[paper](https://arxiv.org/abs/2607.15582)]
 - [2026] **TAC-LOCO: Unified Whole-Body Control for Quadrupedal TACtile-Informed LOCO-Manipulation** [[paper](https://arxiv.org/abs/2607.10132)]
@@ -558,6 +728,10 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation** [[paper](https://arxiv.org/abs/2607.01067)]
 - [2026] **VT-WAM: Visual-Tactile World Action Model for Contact-Rich Manipulation** [[paper](https://arxiv.org/abs/2607.02503)]
 - [2026] **TacWAM: Anchor-Guided World Action Model with Mechanics-Aware Tactile Prediction** [[paper](https://arxiv.org/abs/2607.28391)]
+- [2026] **Self‐Driven Hybrid Piezomagnetic–Iontronic Mechanoreceptors for Bimodal SA/RA Perception and Tactile Synthesis** *Small* [[paper](https://doi.org/10.1002/smll.74799)]
+- [2026] **Bioinspired Rheological Sensing for Robotic Liquid Identification in Sealed Containers via Ultrafast Incipient Slip Detection** *Advanced Materials* [[paper](https://doi.org/10.1002/adma.73955)]
+- [2026] **Pressure-Dependent Facial Expression Control Using Calibrated Force-Sensitive Sensors** *Hardware* [[paper](https://doi.org/10.3390/hardware4030013)]
+- [2026] **Integrating Structured Knowledge for State and Geometry Estimation** *KiltHub Repository* [[paper](https://doi.org/10.1184/r1/33063812.v1)]
 - [2026] **NoContactNoWorries: Estimating Contact through Vision and Proprioception for In-Hand Dexterous Manipulation** [[paper](https://arxiv.org/abs/2606.24450)]
 - [2026] **Geometric Reconstruction of Extrinsic Contact Trajectories using Tactile Sensing and Proprioception for Tool Manipulation** [[paper](https://arxiv.org/abs/2606.22251)]
 - [2026] **Tactile Genesis: Exploring Tactile Sensors at Scale for Learning Dexterous Tasks** [[paper](https://arxiv.org/abs/2606.22332)]
@@ -573,18 +747,34 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **UniTacVLA: Unified Tactile Understanding and Prediction in Vision Language Action Models** [[paper](https://arxiv.org/abs/2606.31723)]
 - [2026] **FTP-1: A Generalist Foundation Tactile Policy Across Tactile Sensors for Contact-Rich Manipulation** [[paper](https://arxiv.org/abs/2606.13102)]
 - [2026] **UniTac: A Unified Multimodal Model for Cross-Sensor Tactile Understanding and Generation** [[paper](https://arxiv.org/abs/2606.31451)]
+- [2026] **Tactile sensing for material identification in robotics: a review of piezoelectric, triboelectric and multimodal approaches** [[paper](https://doi.org/10.7148/2026-0133)]
+- [2026] **TouchWGNN: spatio-temporal tactile perception for multimodal dexterous manipulation** *Frontiers in Robotics and AI* [[paper](https://doi.org/10.3389/frobt.2026.1791424)]
+- [2026] **Special Issue on Tactile and Proximity Sensing** *Journal of Robotics and Mechatronics* [[paper](https://doi.org/10.20965/jrm.2026.p0681)]
+- [2026] **Haptics in Robotics: A Systematic Literature Review** *Studies in health technology and informatics* [[paper](https://doi.org/10.3233/shti260905)]
 - [2026] **Tactile-based Multimodal Fusion in Embodied Intelligence: A Survey of Vision, Language, and Contact-Driven Paradigms** [[paper](https://arxiv.org/abs/2605.17336)]
 - [2026] **roto 2.0: The Robot Tactile Olympiad** [[paper](https://arxiv.org/abs/2605.21429)]
 - [2026] **Learning Robust Dexterous In-Hand Manipulation from Joint Sensors with Proprioceptive Transformer** [[paper](https://arxiv.org/abs/2605.21330)]
 - [2026] **ShapeGrasp: Simultaneous Visuo-Haptic Shape Completion and Grasping for Improved Robot Manipulation** [[paper](https://arxiv.org/abs/2605.02347)]
 - [2026] **ARISTO Hand: Sensing-Driven Distal Hyperextension for Fine-Grained Manipulation** [[paper](https://arxiv.org/abs/2605.30508)]
 - [2026] **TacO: Benchmarking Tactile Sensors for Object Manipulation** [[paper](https://arxiv.org/abs/2605.21976)]
+- [2026] **Speckle Skin‐Based Multimodal Tactile Perception for Fine Robotic Manipulation** *Advanced Intelligent Systems* [[paper](https://doi.org/10.1002/aisy.70420)]
+- [2026] **Multimodal Autonomous Navigation by Fusing Visual and Tactile Perception for Deformable Obstacle Traversal** *Academic Journal of Emerging Technologies* [[paper](https://doi.org/10.63313/ajet.9056)]
+- [2026] **A review of adaptive intelligence in tactile sensing robotic hands for human centered dexterous control** *Discover Mechanical Engineering* [[paper](https://doi.org/10.1007/s44245-026-00275-y)]
+- [2026] **Multimodal Vision-Haptic Fusion and Bio-Haptic Intelligence for AI-Driven Surgical Robotics** *Advances in computational intelligence and robotics book series* [[paper](https://doi.org/10.4018/979-8-2600-0358-9.ch005)]
+- [2026] **Thin and soft optical tactile sensor for highly sensitive object perception** *Optics Express* [[paper](https://doi.org/10.1364/oe.592013)]
+- [2026] **Neuromorphic AI-Based e-Skin for Emotion-Sensitive Humanoid Robots** [[paper](https://doi.org/10.3390/engproc2026124114)]
+- [2026] **AI-Driven Bio-Haptic Feedback Architectures for Semi-Autonomous Surgical Robotic Systems** *Advances in computational intelligence and robotics book series* [[paper](https://doi.org/10.4018/979-8-2600-0358-9.ch007)]
+- [2026] **Smart Gripper with Triboelectric Sensors and Data-driven Machine Learning for Object Classification** *Nazarbayev University Repository (Nazarbayev University)* [[paper](https://nur.nu.edu.kz/handle/123456789/18910)]
+- [2026] **A Biomimetic Palpation Platform for the Quantitative and Non‐Invasive Assessment of Tissue Compliance** *Advanced Healthcare Materials* [[paper](https://doi.org/10.1002/adhm.71212)]
 - [2026] **Learning Tactile-Aware Quadrupedal Loco-Manipulation Policies** [[paper](https://arxiv.org/abs/2604.27224)]
 - [2026] **OmniUMI: Towards Physically Grounded Robot Learning via Human-Aligned Multimodal Interaction** [[paper](https://arxiv.org/abs/2604.10647)]
 - [2026] **Learning Versatile Humanoid Manipulation with Touch Dreaming** [[paper](https://arxiv.org/abs/2604.13015)]
 - [2026] **FingerViP: Learning Real-World Dexterous Manipulation with Fingertip Visual Perception** [[paper](https://arxiv.org/abs/2604.21331)]
 - [2026] **Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch** [[paper](https://arxiv.org/abs/2604.09100)]
 - [2026] **Learning Structured Robot Policies from Vision-Language Models via Synthetic Neuro-Symbolic Supervision** [[paper](https://arxiv.org/abs/2604.02812)]
+- [2026] **Multimodal Electronic Skin Integrating Discrete Wavelet Transform and Deep Learning for Accurate Tactile Perception** *Advanced Functional Materials* [[paper](https://doi.org/10.1002/adfm.75219)]
+- [2026] **Multimodal Haptic Object Recognition: Can Kinesthetic Inference Compensate for the Lack of Tactile Sensing Resolution?** *IEEE Sensors Journal* [[paper](https://doi.org/10.1109/jsen.2026.3684076)]
+- [2026] **Robust bionic distributed multimodal flexible sensor for extreme-condition sensing and intelligent operation** *Communications Engineering* [[paper](https://doi.org/10.1038/s44172-026-00653-0)]
 - [2026] **PTLD: Sim-to-real Privileged Tactile Latent Distillation for Dexterous Manipulation** [[paper](https://arxiv.org/abs/2603.04531)]
 - [2026] **ReTac-ACT: A State-Gated Vision-Tactile Fusion Transformer for Precision Assembly** [[paper](https://arxiv.org/abs/2603.09565)]
 - [2026] **Cable-driven Continuum Robotics: Proprioception via Proximal-integrated Force Sensing** [[paper](https://arxiv.org/abs/2603.07426)]
@@ -593,6 +783,10 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **MuxGel: Simultaneous Dual-Modal Visuo-Tactile Sensing via Spatially Multiplexing and Deep Reconstruction** [[paper](https://arxiv.org/abs/2603.09761)]
 - [2026] **FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model** [[paper](https://arxiv.org/abs/2603.10712)]
 - [2026] **CHOP: Counterfactual Human Preference Labels Improve Obstacle Avoidance in Visuomotor Navigation Policies** [[paper](https://arxiv.org/abs/2603.02004)]
+- [2026] **CLTP: Contrastive Language-Tactile Pre-training for 3D contact geometry understanding** *Biomimetic Intelligence and Robotics* [[paper](https://doi.org/10.1016/j.birob.2026.100324)]
+- [2026] **Localization Based Grasping for Robotic Grippers** *Academic Journal of Science and Technology* [[paper](https://doi.org/10.54097/948twa81)]
+- [2026] **Edge-intelligent bimodal iontronic skin for human−robot collaboration** *National Science Review* [[paper](https://doi.org/10.1093/nsr/nwag194)]
+- [2026] **High-Precision 3-D Reconstruction of a Vision-Based Tactile Sensor Using a Dense Color Marker Array** *IEEE Sensors Journal* [[paper](https://doi.org/10.1109/jsen.2026.3675787)]
 - [2026] **DECO: Decoupled Multimodal Diffusion Transformer for Bimanual Dexterous Manipulation with a Plugin Tactile Adapter** [[paper](https://arxiv.org/abs/2602.05513)]
 - [2026] **Why Look at It at All?: Vision-Free Multifingered Blind Grasping Using Uniaxial Fingertip Force Sensing** [[paper](https://arxiv.org/abs/2602.07326)]
 - [2026] **When would Vision-Proprioception Policies Fail in Robotic Manipulation?** [[paper](https://arxiv.org/abs/2602.12032)]
@@ -600,6 +794,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **UniVTAC: A Unified Simulation Platform for Visuo-Tactile Manipulation Data Generation, Learning, and Benchmarking** [[paper](https://arxiv.org/abs/2602.10093)]
 - [2026] **AnyTouch 2: General Optical Tactile Representation Learning For Dynamic Tactile Perception** [[paper](https://arxiv.org/abs/2602.09617)]
 - [2026] **Think Proprioceptively: State-Grounded Visual Token Selection for VLA Policies** [[paper](https://arxiv.org/abs/2602.06575)]
+- [2026] **Mechanoreceptor-inspired multisensory fibers for artificial somatosensation** *npj Flexible Electronics* [[paper](https://doi.org/10.1038/s41528-026-00555-3)]
 - [2026] **TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance** [[paper](https://arxiv.org/abs/2601.20239)]
 - [2026] **Test-Time Adaptation for Tactile-Vision-Language Models** [[paper](https://arxiv.org/abs/2602.15873)]
 - [2026] **Tactile Memory with Soft Robot: Robust Object Insertion via Masked Encoding and Soft Wrist** [[paper](https://arxiv.org/abs/2601.19275)]
@@ -632,7 +827,103 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 [⬆ Back to top](#paper-list)
 
+#### Application
+
+##### 2026
+
+- [2026] **A Haptic Robot Finger Designed for Guqin Instrument Playing** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2608.07002)]
+- [2026] **Advances in material design and applications of electronic skins: From human body to embodied intelligent robots** *Progress in Materials Science* [[paper](https://doi.org/10.1016/j.pmatsci.2026.101786)]
+- [2026] **A Folded, Structure‐Integrated Bimodal Sensor Enabling Non‐Contact and Tactile Perception for Intelligent Robots** *Advanced Science* [[paper](https://doi.org/10.1002/advs.75868)]
+- [2026] **Applications and Challenges of Tactile Sensing Technology in Robotic Grasping** *Applied and Computational Engineering* [[paper](https://doi.org/10.54254/2755-2721/2026.gu33613)]
+- [2026] **Multimodal Haptic Perception Through Synergistic Nanocomposite Sensor Arrays** *Advanced Materials Technologies* [[paper](https://doi.org/10.1002/admt.202600010)]
+- [2026] **From Proximity toContact Perception of PiezoelectricExtended-Gate Amorphous Oxide Thin Film Transistors** *Figshare* [[paper](https://figshare.com/articles/journal_contribution/From_Proximity_to_Contact_Perception_of_Piezoelectric_Extended-Gate_Amorphous_Oxide_Thin_Film_Transistors/32127269)]
+- [2026] **From Proximity to Contact Perception of Piezoelectric Extended-Gate Amorphous Oxide Thin Film Transistors** *ACS Applied Materials & Interfaces* [[paper](https://doi.org/10.1021/acsami.6c00084)]
+
+[⬆ Back to top](#paper-list)
+
+#### Development
+
+##### 2026
+
+- [2026] **Synergistic Integration of Artificial Merkel Disc and Meissner Corpuscle via Dermal Papillary Structures for Mechanically Filtered Multimodal Tactile Sensing** *Advanced Science* [[paper](https://doi.org/10.1002/advs.76069)]
+- [2026] **Neuro-inspired tactile system for robotic embodied perception** *Chemical Engineering Journal* [[paper](https://doi.org/10.1016/j.cej.2026.174954)]
+
+[⬆ Back to top](#paper-list)
+
+#### Systems & Technology
+
+##### 2026
+
+- [2026] **Aligned electrospun nanofiber-engineered triboelectric interface for non-acoustic human-robot communication and material-adaptive manipulation** *Composites Part B Engineering* [[paper](https://doi.org/10.1016/j.compositesb.2026.114060)]
+- [2026] **Bionic Tursiops Truncatus-inspired dual-mode sensor for proximity sensing and high-resolution tactile perception** *Chemical Engineering Journal* [[paper](https://doi.org/10.1016/j.cej.2026.177786)]
+- [2026] **A liquid metal film-based passive tactile sensor for robotic perception** *Science China Technological Sciences* [[paper](https://doi.org/10.1007/s11431-025-3177-6)]
+- [2026] **Integrated in-memory and near-memory sensor for bionic robot perception** *Materials Today* [[paper](https://doi.org/10.1016/j.mattod.2026.103345)]
+
+[⬆ Back to top](#paper-list)
+
+#### Evaluation & Benchmarks
+
+##### 2026
+
+- [2026] **A single-element multimodal tactile interface with geometric signal encoding for robust robotic material and slip intelligence** *Nano Energy* [[paper](https://doi.org/10.1016/j.nanoen.2026.112076)]
+
+[⬆ Back to top](#paper-list)
+
 ### Planning & Control
+
+#### Theory
+
+##### 2026
+
+- [2026] **INVERSE KINEMATICS AND TRAJECTORY PLANNING OF ROBOTIC SYSTEMS USING REINFORCEMENT LEARNING TECHNIQUES** *Purdue* [[paper](https://doi.org/10.25394/pgs.33183827)]
+- [2026] **GASP: GPU-Accelerated Safe Planner for Real-Time Collision-Aware Motion Generation with Latent Trajectory Sampling** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2608.04612)]
+- [2026] **ACO-optimized S-curve trajectory and HTSMC-PPC-ESO control for robust sloshing suppression in liquid transportation using a biglide parallel robot** *European Journal of Control* [[paper](https://doi.org/10.1016/j.ejcon.2026.101555)]
+- [2026] **Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring Robotic Boats** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.20352)]
+- [2026] **Method for Motion Route Planning of a Ground Robotic System for Substation Equipment Condition Monitoring and Technical Diagnostics** *Intellekt Sist Proizv* [[paper](https://doi.org/10.22213/2410-9304-2026-2-90-99)]
+- [2026] **Asymmetric S-Curve Velocity Control for Smooth Obstacle-Avoidance Trajectory Execution in Stepper-Motor-Driven Selective Compliance Assembly Robot Arms** *Machines* [[paper](https://doi.org/10.3390/machines14070764)]
+- [2026] **Robust model predictive control of robots in confined spaces** *FreiDok plus (Universitätsbibliothek Freiburg)* [[paper](https://freidok.uni-freiburg.de/data/284779)]
+- [2026] **Control of a Polishing pResearch on Trajectory Planning and Motion Parallel Robot for the Aspheric Optical Mirror** *Mechanisms and machine science* [[paper](https://doi.org/10.1007/978-981-95-7904-4_72)]
+- [2026] **Nonlinear kinematic modeling and remote center of motion optimization of flexible surgical robots** *Nonlinear Dynamics* [[paper](https://doi.org/10.1007/s11071-026-12734-y)]
+- [2026] **Manipulator Hugging Motion Control Based on Optimal Human Tactile Force** *International Journal of Social Robotics* [[paper](https://doi.org/10.1007/s12369-026-01413-y)]
+- [2026] **Motion trajectory planning for industrial robots based on BAS‑IPSO** *DOAJ (DOAJ: Directory of Open Access Journals)* [[paper](https://doaj.org/article/60ab6477058145bdb750d24aaf79a8c2)]
+- [2026] **Biomimetic Trajectory Planning and Implementation of Quadruped Robots Based on Biological Motion Characteristics** *DOAJ (DOAJ: Directory of Open Access Journals)* [[paper](https://doaj.org/article/3aca939e9cf1478f8adb5324a0d51465)]
+- [2026] **General introduction to recent advancements in path and trajectory planning for robots and autonomous machines** *International Journal of Advanced Robotic Systems* [[paper](https://doi.org/10.1177/17298806261446021)]
+- [2026] **Fuzzy-DDPG: Integrating fuzzy logic with continuous deep reinforcement learning for mobile robot motion planning** *Fuzzy Sets and Systems* [[paper](https://doi.org/10.1016/j.fss.2026.109967)]
+- [2026] **Graph-search planning and dual-target Cartesian control for cross-plane dual-arm climbing of a robotic astronaut** *Aerospace Science and Technology* [[paper](https://doi.org/10.1016/j.ast.2026.112708)]
+- [2026] **Calculation and Analysis of the Spatial Motion Trajectory of the Grasping Mechanism of a Pipe Handling Manipulator for Coal Mines** *Journal of Engineering Research and Reports* [[paper](https://doi.org/10.9734/jerr/2026/v28i51891)]
+- [2026] **A dynamic control strategy for thermal management of depositions in robotic wire-arc additive manufacturing** *Journal of Manufacturing Processes* [[paper](https://doi.org/10.1016/j.jmapro.2026.05.048)]
+- [2026] **A Unified Analytical Framework for Dynamically Stable and Energy-Efficient Motion Planning in Humanoid Robots** *Textile & Leather Review* [[paper](https://doi.org/10.31881/tlr.2026.2146)]
+- [2026] **Integrating Adaptive Constraints with an Enhanced Metaheuristic for Zero-Latency Trajectory Planning in Robotic Manufacturing Processes** *Processes* [[paper](https://doi.org/10.3390/pr14081282)]
+- [2026] **BeetleBrush: A bio-inspired and LLM-RAG-augmented framework for trajectory planning in robotic drawing tasks** *Expert Systems with Applications* [[paper](https://doi.org/10.1016/j.eswa.2026.132474)]
+- [2026] **Path planning for fracture reduction robots incorporating physiological tissue response and safety-oriented optimization** *International Journal of Computer Assisted Radiology and Surgery* [[paper](https://doi.org/10.1007/s11548-026-03607-1)]
+- [2026] **Perceptive Whole-body Motion Planning for Multi-legged Robots in Unstructured Confined Environments** *Open MIND* [[paper](https://hdl.handle.net/1880/124702)]
+- [2026] **Smooth Feedback Motion Planning with Reduced Curvature** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2604.01614)]
+- [2026] **Energy and Efficiency Optimization of Six-Axis Robotic Arms Using Taguchi Coupled Principal Component Analysis** *Arabian Journal for Science and Engineering* [[paper](https://doi.org/10.1007/s13369-026-11307-w)]
+- [2026] **Path planning for volumetric flask grasping based on visual guidance and multi-constraint optimization** *PLoS ONE* [[paper](https://doi.org/10.1371/journal.pone.0347043)]
+- [2026] **Optimal motion planning and decoupled control for autonomous mobile robots based on minimum energy consumption** *Expert Systems with Applications* [[paper](https://doi.org/10.1016/j.eswa.2026.131995)]
+- [2026] **Towards the development of a robotic spraying arm: AI-based weed detection and path planning strategies** *Robotics and Autonomous Systems* [[paper](https://doi.org/10.1016/j.robot.2026.105443)]
+- [2026] **Bio-Inspired Metaheuristics for Time-Optimal Trajectory Planning in Cooperative Dual-Arm Bimanipulation** *Biomimetics* [[paper](https://doi.org/10.3390/biomimetics11030173)]
+- [2026] **A Riemannian take on distance fields and geodesic flows in robotics** *The International Journal of Robotics Research* [[paper](https://doi.org/10.1177/02783649261420233)]
+- [2026] **ECA-RRT*: A robotic arm path planning algorithm based on environment complexity adaptive heuristic strategy** *Journal of Computational Science* [[paper](https://doi.org/10.1016/j.jocs.2026.102820)]
+- [2026] **Quantum Computing for Robotics: Algorithms, Optimization, and Future Systems.** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.18759895)]
+- [2026] **RRT$^η$: Sampling-based Motion Planning and Control from STL Specifications using Arithmetic-Geometric Mean Robustness** *Open MIND* [[paper](https://arxiv.org/abs/2602.16825)]
+- [2026] **A Bio-Inspired Fluid Dynamics Approach for Unified and Efficient Path Planning and Control** *Actuators* [[paper](https://doi.org/10.3390/act15030133)]
+
+[⬆ Back to top](#paper-list)
+
+#### Mechanism
+
+##### 2026
+
+- [2026] **Real-Time Coverage Path Planning for Fixed-Wing Aerial Robots Using Partial Gradient-Based MPC and Augmented Dubins Trajectories** *Aerospace* [[paper](https://doi.org/10.3390/aerospace13080713)]
+- [2026] **Learning-Augmented Motion Planning and Control for Legged and Hybrid Locomotion** *CINECA IRIS Institutial Research Information System (University of Genoa)* [[paper](https://hdl.handle.net/11567/1310018)]
+- [2026] **Experimental investigation of automatic operation trajectory planning and tracking of unmanned excavators** *Transactions of the Institute of Measurement and Control* [[paper](https://doi.org/10.1177/01423312261463306)]
+- [2026] **PHYSICS-INFORMED LEARNING FOR MOTION PLANNING** *Purdue* [[paper](https://doi.org/10.25394/pgs.32104864.v1)]
+- [2026] **Cooperative Interaction and Manipulation in Human-Robot and Multi-Robot Systems** *CINECA IRIS Institutial Research Information System (University of Genoa)* [[paper](https://hdl.handle.net/11567/1294736)]
+- [2026] **MULTI-AGENT COOPERATIVE CONTROL ARCHITECTURE FOR AUTONOMOUS INDUSTRIAL ROBOTS IN SMART MANUFACTURING ENVIRONMENTS** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.18863513)]
+- [2026] **Advancements and prospects in key technologies for robotic pollination in greenhouse pepper breeding: a review** *Frontiers in Plant Science* [[paper](https://doi.org/10.3389/fpls.2026.1778541)]
+
+[⬆ Back to top](#paper-list)
 
 #### Method
 
@@ -642,6 +933,9 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Risk-Aware Kinodynamic Motion Planning Under Uncertainty For Safe Navigation on Planetary Environments** [[paper](https://arxiv.org/abs/2608.11175)]
 - [2026] **ContactGuard: Pre-Contact Execution Monitoring with Action-Conditioned Latent World Models** [[paper](https://arxiv.org/abs/2608.13438)]
 - [2026] **Deliberate Practice: Learning Robot Skills under a Budget** [[paper](https://arxiv.org/abs/2608.13415)]
+- [2026] **A Review of Trajectory Planning and Path Tracking Methods for Mobile Robots** *Applied and Computational Engineering* [[paper](https://doi.org/10.54254/2755-2721/2026.35762)]
+- [2026] **Moving horizon-based online collaboration of motion planning and robust control for time-varying nonlinear uncertain system in unstructured environment** *Chinese Journal of Aeronautics* [[paper](https://doi.org/10.1016/j.cja.2026.104409)]
+- [2026] **Multimodal Machine Learning Models Using Zero-Shot Learning to Control Robots** [[paper](https://doi.org/10.3390/engproc2026150104)]
 - [2026] **Motion Planning for Mobile Manipulators Navigating Doorways via Model Predictive Control** [[paper](https://arxiv.org/abs/2608.00206)]
 - [2026] **Model Predictive Planner for UAV Navigation in Non-Convex Air Corridors** [[paper](https://arxiv.org/abs/2607.24369)]
 - [2026] **NeHMO: Neural Hamilton-Jacobi Reachability Learning for Decentralized Safe Multi-Arm Motion Planning** [[paper](https://arxiv.org/abs/2607.00326)]
@@ -659,6 +953,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Affordance-Based Manipulation Planning with Text Goals and Sim-to-Real Generalisation via Real-to-Sim Image Conversion** [[paper](https://arxiv.org/abs/2607.11004)]
 - [2026] **From Passive Video to Editable Experience: Physically Grounded Experience Synthesis for Embodied Intelligence** [[paper](https://arxiv.org/abs/2607.26903)]
 - [2026] **ACME: A Multi-Cultural, Multi-Embodiment Social-Navigation Dataset** [[paper](https://arxiv.org/abs/2607.21964)]
+- [2026] **Robotic arm trajectory planning based on a multi-strategy improved seagull optimization algorithm** *The Journal of Supercomputing* [[paper](https://doi.org/10.1007/s11227-026-08730-z)]
+- [2026] **A Bio-inspired Integrated Framework for Disturbance Rejection Whole-Body Control of Humanoid Robots** *Journal of Bionic Engineering* [[paper](https://doi.org/10.1007/s42235-026-00965-z)]
 - [2026] **Pixels to Proofs: Probabilistically-Safe Latent World Model Control via Parallel Conformal Robust MPC** [[paper](https://arxiv.org/abs/2606.15594)]
 - [2026] **Motion Planning in Dynamic Environments: A Survey from Classical to Modern Methods** [[paper](https://arxiv.org/abs/2606.02677)]
 - [2026] **Short-Horizon Position Accuracy of Single-Track Models: Implications for Motion Planning of Autonomous Vehicles** [[paper](https://arxiv.org/abs/2606.14216)]
@@ -689,6 +985,11 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **SpaceVLN: A Zero-Shot Vision-and-Language Navigation Agent with Online Spatial Cognitive Memory and Reasoning** [[paper](https://arxiv.org/abs/2606.08992)]
 - [2026] **THREAD: Trajectory Planning for Hybrid Rigid-Soft Manipulators with Environment-Aware Diffusion** [[paper](https://arxiv.org/abs/2606.21792)]
 - [2026] **Foresight: Iterative Reasoning About Clues that Matter for Navigation** [[paper](https://arxiv.org/abs/2606.12550)]
+- [2026] **TRAJECTORY OPTIMIZATION OF ROBOTS VIA MODEL PREDICTIVE CONTROL AND REINFORCEMENT LEARNING** *Tạp chí Khoa học Đại học Công Thương.* [[paper](https://doi.org/10.62985/j.huit_ojs.vol26.no2e.413)]
+- [2026] **Vision-Guided Motion Planning for Autonomous Catch with a Robotic Arm** *DigitalCommons - CalPoly (California State Polytechnic University)* [[paper](https://digitalcommons.calpoly.edu/eesp/729)]
+- [2026] **Optimization-Oriented Vision-Guided Robotic Grasping for Bolt Handling in Intelligent Manufacturing** *Mathematics* [[paper](https://doi.org/10.3390/math14122133)]
+- [2026] **Application of hybrid artificial potential field method in local path planning of mobile robots** *Franklin Open* [[paper](https://doi.org/10.1016/j.fraope.2026.100694)]
+- [2026] **An Improved A*-Based Path-Planning Framework for Facility Agricultural Robots** *Applied Sciences* [[paper](https://doi.org/10.3390/app16126138)]
 - [2026] **Feedback Motion Planning for Stochastic Nonlinear Systems with Signal Temporal Logic Specifications** [[paper](https://arxiv.org/abs/2605.02361)]
 - [2026] **IMPACT: An Implicit Active-Set Augmented Lagrangian for Fast Contact-Implicit Trajectory Optimization** [[paper](https://arxiv.org/abs/2605.09127)]
 - [2026] **Probabilistic Recursively Feasible Motion Planning Under Uncertain Environments** [[paper](https://arxiv.org/abs/2605.19015)]
@@ -709,6 +1010,10 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **GSAM: A Generalizable and Safe Robotic Framework for Articulated Object Manipulation** [[paper](https://arxiv.org/abs/2605.30740)]
 - [2026] **No Plan, Yet Human: A Reactive Robotics Model Predicts Human Planning Failures on a Clinical Task** [[paper](https://arxiv.org/abs/2605.16514)]
 - [2026] **World-Ego Modeling for Long-Horizon Evolution in Hybrid Embodied Tasks** [[paper](https://arxiv.org/abs/2605.19957)]
+- [2026] **Motion Planning of a Mobile Robot Using Model Predictive Control** *Nazarbayev University Repository (Nazarbayev University)* [[paper](https://nur.nu.edu.kz/handle/123456789/18979)]
+- [2026] **Optimal control–based trajectory optimization for obstacle-avoiding robotic filament winding** *Transactions of the Institute of Measurement and Control* [[paper](https://doi.org/10.1177/01423312261447563)]
+- [2026] **Time-energy optimal smooth trajectory planning for mobile robots** *Physica Scripta* [[paper](https://doi.org/10.1088/1402-4896/ae72d0)]
+- [2026] **Path Optimization for 6-axis Robot Control Using Open Simulation-based Reinforcement Learning** *Journal of the Korean Society for Precision Engineering* [[paper](https://doi.org/10.7736/jkspe.026.00010)]
 - [2026] **Emergency Stopping for Liquid-manipulating Robots** [[paper](https://arxiv.org/abs/2604.16667)]
 - [2026] **Uncertainty Guided Exploratory Trajectory Optimization for Sampling-Based Model Predictive Control** [[paper](https://arxiv.org/abs/2604.12149)]
 - [2026] **Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach** [[paper](https://arxiv.org/abs/2604.03999)]
@@ -738,6 +1043,16 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Hybrid Framework for Robotic Manipulation: Integrating Reinforcement Learning and Large Language Models** [[paper](https://arxiv.org/abs/2603.30022)]
 - [2026] **Robotic Ultrasound Makes CBCT Alive** [[paper](https://arxiv.org/abs/2603.10220)]
 - [2026] **Long-Short Term Agents for Pure-Vision Bronchoscopy Robotic Autonomy** [[paper](https://arxiv.org/abs/2603.07909)]
+- [2026] **Review article: A review of control technologies for soft robots: from structural design to intelligent control** *Mechanical sciences* [[paper](https://doi.org/10.5194/ms-17-313-2026)]
+- [2026] **A subproblem-based hierarchical framework for multi-AUV cooperative motion planning and robust control** *Ocean Engineering* [[paper](https://doi.org/10.1016/j.oceaneng.2026.125111)]
+- [2026] **Machine learning-based motion optimization in intelligent robotic systems** *i-manager’s Journal on Mechanical Engineering* [[paper](https://doi.org/10.26634/jme.16.1.1251)]
+- [2026] **Research on Modeling and Energy Consumption Optimization of Humanoid Robot Performance Motions Based on Multi-Stage Trajectory Planning Algorithm** *Journal of Applied AI and Interdisciplinary Innovations* [[paper](https://doi.org/10.64549/jaai-ii.v1i2.8)]
+- [2026] **PSO Trajectory Optimization of Robot Arm for Ultrasonic Testing of Complex Curved Surface** *Coatings* [[paper](https://doi.org/10.3390/coatings16030332)]
+- [2026] **Optimal trajectory planning for collaborative robots based on improved adaptive multi-objective particle swarm algorithm** *International Journal of Intelligent Robotics and Applications* [[paper](https://doi.org/10.1007/s41315-026-00523-0)]
+- [2026] **KINEMATIC MODELING AND TRAJECTORY OPTIMIZATION OF INDUSTRIAL ROBOTIC ARMS USING D-H PARAMETERS, B-SPLINE CURVES, AND GENETIC ALGORITHM** *International Journal of Mechatronics and Applied Mechanics* [[paper](https://doi.org/10.17683/ijomam/issue23.16)]
+- [2026] **Non-prehensile Robotic Transportation of Liquid: MPC vs Time-Optimal Trajectory Planning** *AMS Degree Thesis (University of Bologna)* [[paper](https://amslaurea.unibo.it/view/cds/CDS8891/>,)]
+- [2026] **Autonomous Navigation Mobile Robot Based on Robot Operating System** [[paper](https://doi.org/10.1201/9781003770497-12)]
+- [2026] **ToMPC: Task-oriented Model Predictive Control via ADMM for Safe Robotic Manipulation** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2603.13944)]
 - [2026] **Decoupled MPPI-Based Multi-Arm Motion Planning** [[paper](https://arxiv.org/abs/2602.10114)]
 - [2026] **Strategizing at Speed: A Learned Model Predictive Game for Multi-Agent Drone Racing** [[paper](https://arxiv.org/abs/2602.06925)]
 - [2026] **SPOT: Spatio-Temporal Obstacle-free Trajectory Planning for UAVs in Unknown Dynamic Environments** [[paper](https://arxiv.org/abs/2602.01189)]
@@ -749,6 +1064,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **MALLVI: A Multi-Agent Framework for Integrated Generalized Robotics Manipulation** [[paper](https://arxiv.org/abs/2602.16898)]
 - [2026] **MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation** [[paper](https://arxiv.org/abs/2602.11337)]
 - [2026] **Multi Graph Search for High-Dimensional Robot Motion Planning** [[paper](https://arxiv.org/abs/2602.12096)]
+- [2026] **Intelligent assembly of shield tunnel lining segments: A vision-guided integrated approach** *Advanced Engineering Informatics* [[paper](https://doi.org/10.1016/j.aei.2026.104460)]
 - [2026] **LLM-Driven Scenario-Aware Planning for Autonomous Driving** [[paper](https://arxiv.org/abs/2601.21876)]
 - [2026] **HPTune: Hierarchical Proactive Tuning for Collision-Free Model Predictive Control** [[paper](https://arxiv.org/abs/2601.21346)]
 - [2026] **Learning Legged MPC with Smooth Neural Surrogates** [[paper](https://arxiv.org/abs/2601.12169)]
@@ -831,13 +1147,58 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 [⬆ Back to top](#paper-list)
 
+#### Development
+
+##### 2026
+
+- [2026] **augmentedfabricationlab/mobile_motion_planning: Mobile Motion Planning v0.1.0 - Initial Release** *Open MIND* [[paper](https://github.com/augmentedfabricationlab/mobile_motion_planning/tree/v0.1.0)]
+
+[⬆ Back to top](#paper-list)
+
 ### Learning & Adaptation
+
+#### Theory
+
+##### 2026
+
+- [2026] **Applications of Reinforcement Learning for Autonomous Surgical Robotics: A Systematic Review** *Biomimetics* [[paper](https://doi.org/10.3390/biomimetics11080577)]
+- [2026] **VL-I2O: Vision-Language Assisted Imitation-to-Optimization Reinforcement Learning for Robot Manipulation** *Lecture notes in computer science* [[paper](https://doi.org/10.1007/978-981-92-3441-7_20)]
+- [2026] **Enhancing deep reinforcement learning with expert demonstrations for mobile robot navigation in unstructured off-road environments** *Research Online (Edith Cowan University)* [[paper](https://ro.ecu.edu.au/theses/3089)]
+- [2026] **Impact of Continuous Latent Variables on Imitation Learning Efficiency and Stability** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20651591)]
+- [2026] **Enhancing autonomous navigation systems through reinforcement learning** *Automatika* [[paper](https://doi.org/10.1080/00051144.2026.2688597)]
+- [2026] **Editorial: Innovations in industry 4.0: advancing mobility and manipulation in robotics** *Frontiers in Robotics and AI* [[paper](https://doi.org/10.3389/frobt.2026.1889141)]
+- [2026] **From False Positives to Failure Topologies: Heuristic Learning for Auditable Dexterous Grasping Development** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20729635)]
+- [2026] **Single-Demonstration Imitation with Residual Reinforcement Learning for Dual-Arm Robotic Bottle Opening** *Simposios del Comité Español de Automática (CEA)* [[paper](https://doi.org/10.64117/simposioscea.v2i2.209)]
+- [2026] **Editorial: Reinforcement learning for real-world robot navigation** *Frontiers in Robotics and AI* [[paper](https://doi.org/10.3389/frobt.2026.1861947)]
+- [2026] **Toward Reliable Vision-Driven UAV River Navigation: Human-Informed Safe Learning and Navigability Mapping** *Purdue* [[paper](https://doi.org/10.25394/pgs.32125114)]
+- [2026] **KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2604.25788)]
+- [2026] **Learning from Imperfect Demonstrations via Temporal Behavior Tree-Guided Trajectory Repair** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2604.04225)]
+- [2026] **VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2602.16511)]
+
+[⬆ Back to top](#paper-list)
+
+#### Mechanism
+
+##### 2026
+
+- [2026] **ODARRL: Obstacle- and Disturbance-Aware End-to-End Residual Reinforcement Learning for Underwater Robot Trajectory Tracking with Obstacle Avoidance** *Journal of Marine Science and Engineering* [[paper](https://doi.org/10.3390/jmse14161501)]
+- [2026] **One Demonstration Is Enough for Real-World Robotic Reinforcement Learning** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.01651)]
+- [2026] **AI-driven precision: Reinforcement learning-based control for microscope-assisted robotic retina surgery** *AIP Advances* [[paper](https://doi.org/10.1063/5.0341159)]
+- [2026] **A graph isomorphism attention network and graph information embedded reinforcement learning-based dual-arm robot teleoperation and manipulation skill acquisition method** *Journal of Manufacturing Systems* [[paper](https://doi.org/10.1016/j.jmsy.2026.06.023)]
+- [2026] **Designing A Learning-Enabled Non-Anthropomorphic Robotic Hand Framework for Dexterous Manipulation** *KiltHub Repository* [[paper](https://doi.org/10.1184/r1/32984639.v1)]
+- [2026] **OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2606.31993)]
+- [2026] **Humanoid Robot Walking and Grasping Method Using Similarity Reward-Augmented Generative Adversarial Imitation Learning** *Sensors* [[paper](https://doi.org/10.3390/s26092756)]
+- [2026] **Learning to switch safely: terrain-adaptive humanoid locomotion acquisition via hard-routed mixture-of-expert motion imitation** [[paper](https://doi.org/10.1117/12.3111151)]
+- [2026] **Learn Weightlessness: Imitate Non-Self-Stabilizing Motions on Humanoid Robot** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2604.21351)]
+
+[⬆ Back to top](#paper-list)
 
 #### Method
 
 ##### 2026
 
 - [2026] **SAFE-CHEM: Uncertainty-Aware Policy Switching for Robust Robotic Chemistry** [[paper](https://arxiv.org/abs/2608.09303)]
+- [2026] **Combining exploration and imitation in contact-rich task learning on an articulated soft robot arm** *Frontiers in Robotics and AI* [[paper](https://doi.org/10.3389/frobt.2026.1885625)]
 - [2026] **Joint On-and-Off Policy Learning for Vision-and-Language Navigation** [[paper](https://arxiv.org/abs/2607.13461)]
 - [2026] **EA-Nav: Learning Safe Visual Navigation Policies with Embodiment Awareness** [[paper](https://arxiv.org/abs/2607.19880)]
 - [2026] **LAMP: Latent Motion Prior-Guided Real-World Learning for Dexterous Hand Manipulation** [[paper](https://arxiv.org/abs/2607.06323)]
@@ -854,6 +1215,9 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **SymmGrid: Super-Scaling On-Robot Learning with Parallelized Symmetries and Egocentric-Exocentric Visual Perception** [[paper](https://arxiv.org/abs/2607.26985)]
 - [2026] **Learning Task-Sufficient World Models by Synergizing Agentic Exploration and Structured Modeling** [[paper](https://arxiv.org/abs/2607.04409)]
 - [2026] **GenVid2Robot: From Video Generation to Robot Manipulation via Rigid-Geometric Consistency** [[paper](https://arxiv.org/abs/2607.09191)]
+- [2026] **Performant robotic manipulation with real-world reinforcement learning** *Science Robotics* [[paper](https://doi.org/10.1126/scirobotics.aed6267)]
+- [2026] **WorldSample: Closed-loop Real-robot RL with World Modelling** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.02431)]
+- [2026] **CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.29172)]
 - [2026] **Temporal Self-Imitation Learning** [[paper](https://arxiv.org/abs/2606.19752)]
 - [2026] **RE4: Transformation-aware Imitation of Object Interactions Using Manipulation Modes** [[paper](https://arxiv.org/abs/2606.24403)]
 - [2026] **Reinforcement Learning-Guided Retrieval with Soft Fusion for Robust Multimodal Imitation Learning under Missing Modalities** [[paper](https://arxiv.org/abs/2606.15514)]
@@ -875,6 +1239,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Coherent Off-Policy Improvement of Large Behavior Models with Learned Rewards** [[paper](https://arxiv.org/abs/2606.02194)]
 - [2026] **Dexterous Point Policy: Learning Point-based Dexterous Hand Policies from Human Demonstrations** [[paper](https://arxiv.org/abs/2606.10614)]
 - [2026] **Universal Manipulation Exoskeleton: Learning Compliant Whole-body Policies with Real-time Torque Feedback** [[paper](https://arxiv.org/abs/2606.14218)]
+- [2026] **DIRA: Diffusion-Based Imitation-to-Reinforcement Adaptation for Task Automation of Surgical Robots** *IEEE Robotics and Automation Letters* [[paper](https://doi.org/10.1109/lra.2026.3699185)]
+- [2026] **Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2606.18953)]
 - [2026] **ReActor: Reinforcement Learning for Physics-Aware Motion Retargeting** [[paper](https://arxiv.org/abs/2605.06593)]
 - [2026] **Feat2Go: Visual Feature-Grounded Value Estimation for Embodied Reinforcement Learning** [[paper](https://arxiv.org/abs/2605.30795)]
 - [2026] **NavOL: Navigation Policy with Online Imitation Learning** [[paper](https://arxiv.org/abs/2605.11762)]
@@ -904,6 +1270,9 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Deep Reinforcement Learning for Robotic Manipulation under Distribution Shift with Bounded Extremum Seeking** [[paper](https://arxiv.org/abs/2604.01142)]
 - [2026] **AIM: Intent-Aware Unified world action Modeling with Spatial Value Maps** [[paper](https://arxiv.org/abs/2604.11135)]
 - [2026] **Learning-augmented robotic automation for real-world manufacturing** [[paper](https://arxiv.org/abs/2604.22235)]
+- [2026] **Learning from Demonstration with Failure Awareness for Safe Robot Navigation** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2604.23360)]
+- [2026] **Reinforcement Learning in Robotics Bionic Arm Control and Adaptation** *University of Debrecen Electronic Archive (University of Debrecen)* [[paper](https://hdl.handle.net/2437/413147)]
+- [2026] **Vision-driven state-space imitation learning for quadrotor navigation in infrastructure inspection** *Computer-Aided Civil and Infrastructure Engineering* [[paper](https://doi.org/10.1016/j.cacaie.2026.100030)]
 - [2026] **Generative adversarial imitation learning for robot swarms: Learning from human demonstrations and trained policies** [[paper](https://arxiv.org/abs/2603.02783)]
 - [2026] **Fine-tuning is Not Enough: A Parallel Framework for Collaborative Imitation and Reinforcement Learning in End-to-end Autonomous Driving** [[paper](https://arxiv.org/abs/2603.13842)]
 - [2026] **ScanDP: Generalizable 3D Scanning with Diffusion Policy** [[paper](https://arxiv.org/abs/2603.10390)]
@@ -922,6 +1291,10 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **A Real-Time Neuro-Symbolic Ethical Governor for Safe Decision Control in Autonomous Robotic Manipulation** [[paper](https://arxiv.org/abs/2603.14221)]
 - [2026] **MEM: Multi-Scale Embodied Memory for Vision Language Action Models** [[paper](https://arxiv.org/abs/2603.03596)]
 - [2026] **ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K** [[paper](https://arxiv.org/abs/2603.16866)]
+- [2026] **Hybrid Data Curation for Imitation Learning with Physics- Generated Trajectories** *Applied Sciences* [[paper](https://doi.org/10.3390/app16062968)]
+- [2026] **TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning** *Proceedings of the AAAI Conference on Artificial Intelligence* [[paper](https://doi.org/10.1609/aaai.v40i28.39499)]
+- [2026] **A simulation study of decomposition-based inverse reinforcement learning toward construction automation: The case of excavator in challenging environments** *Developments in the Built Environment* [[paper](https://doi.org/10.1016/j.dibe.2026.100908)]
+- [2026] **SutureFormer: Learning Surgical Trajectories via Goal-conditioned Offline RL in Pixel Space** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2603.26720)]
 - [2026] **AdaptManip: Learning Adaptive Whole-Body Object Lifting and Delivery with Online Recurrent State Estimation** [[paper](https://arxiv.org/abs/2602.14363)]
 - [2026] **GRAIL: Goal Recognition Alignment through Imitation Learning** [[paper](https://arxiv.org/abs/2602.14252)]
 - [2026] **Human-to-Robot Interaction: Learning from Video Demonstration for Robot Imitation** [[paper](https://arxiv.org/abs/2602.19184)]
@@ -940,6 +1313,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Primary-Fine Decoupling for Action Generation in Robotic Imitation** [[paper](https://arxiv.org/abs/2602.21684)]
 - [2026] **Latent Diffeomorphic Co-Design of End-Effectors for Deformable and Fragile Object Manipulation** [[paper](https://arxiv.org/abs/2602.17921)]
 - [2026] **IRIS: Learning-Driven Task-Specific Cinema Robot Arm for Visuomotor Motion Control** [[paper](https://arxiv.org/abs/2602.17537)]
+- [2026] **An ensemble reinforcement learning framework for robotic high-precision peg-in-hole assembly via human demonstrations** *Robotics and Computer-Integrated Manufacturing* [[paper](https://doi.org/10.1016/j.rcim.2026.103279)]
 - [2026] **MetaWorld: Skill Transfer and Composition in a Hierarchical World Model for Grounding High-Level Instructions** [[paper](https://arxiv.org/abs/2601.17507)]
 - [2026] **Task-Centric Policy Optimization from Misaligned Motion Priors** [[paper](https://arxiv.org/abs/2601.19411)]
 - [2026] **CLAMP: Contrastive Learning for 3D Multi-View Action-Conditioned Robotic Manipulation Pretraining** [[paper](https://arxiv.org/abs/2602.00937)]
@@ -1028,6 +1402,42 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 [⬆ Back to top](#paper-list)
 
 ### Human-Robot Interaction
+
+#### Theory
+
+##### 2026
+
+- [2026] **Guest editorial: The next wave of innovation. Human, enterprise, and artificial intelligence united for impactful change** *European Journal of Innovation Management* [[paper](https://doi.org/10.1108/ejim-08-2026-150)]
+- [2026] **From testbeds to high-stakes work: a review of Human-AI teaming domains and teaming factors** *Frontiers in Robotics and AI* [[paper](https://doi.org/10.3389/frobt.2026.1733942)]
+- [2026] **NEOMANITAI V7.1 Domain Term-Sets: 15 Fields of Human-AI and Robotics Interaction Phenomena (Restricted)** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20060992)]
+- [2026] **Guest editorial: AI for a better future – advances, challenges and future research directions** *Internet Research* [[paper](https://doi.org/10.1108/intr-06-2026-034)]
+- [2026] **From Fragmentation to Integration: Designing Humanoid Robots for Corporate Service Environments** *TUbilio (Technical University of Darmstadt)* [[paper](https://tubiblio.ulb.tu-darmstadt.de/view/person/Leichtle=3AMarcel=3A=3A.html>)]
+- [2026] **Guest editorial: Digital innovation ecosystem: profiting from technology in the era of twin transition** *European Journal of Innovation Management* [[paper](https://doi.org/10.1108/ejim-02-2026-056)]
+- [2026] **A Human-Centred Tri-Region Shared Autonomy Framework for Adaptive and Safe Human–Robot Interaction** [[paper](https://doi.org/10.1145/3776734.3794536)]
+- [2026] **Agentic AI in services: orchestrating human–machine synergy for service excellence** *International Journal of Quality and Service Sciences* [[paper](https://doi.org/10.1108/ijqss-03-2026-303)]
+- [2026] **Artificial intelligence and machine learning in assessing and promoting health and well‐being: Integrating human insight with computational intelligence** *Applied Psychology Health and Well-Being* [[paper](https://doi.org/10.1111/aphw.70140)]
+- [2026] **Distributed control strategies for cooperative and collaborative object transportation via Multi-Robot systems** *CINECA IRIS Institutial Research Information System (University of Genoa)* [[paper](https://hdl.handle.net/11567/1288096)]
+
+[⬆ Back to top](#paper-list)
+
+#### Mechanism
+
+##### 2026
+
+- [2026] **Feedback modalities in human-cobot collaboration: experimental evaluation of performance, user experience, and physiological responses** *Frontiers in Robotics and AI* [[paper](https://doi.org/10.3389/frobt.2026.1836165)]
+- [2026] **AI-driven quadruped robots: from fundamental locomotion to advanced biomimetic behaviors** *Frontiers in Neurorobotics* [[paper](https://doi.org/10.3389/fnbot.2026.1855550)]
+
+[⬆ Back to top](#paper-list)
+
+#### Method
+
+##### 2026
+
+- [2026] **Imitation learning for human–robot teaming in battery disassembly: enabling technologies and a collaborative manipulation pipeline** [[paper](https://doi.org/10.7148/2026-0161)]
+- [2026] **Advancing Human-Robot Collaboration in Teleoperation: Comparative Evaluation of Shared Control Modalities Across Tasks and Interfaces** *International Journal of Human-Computer Interaction* [[paper](https://doi.org/10.1080/10447318.2026.2633203)]
+- [2026] **Planning, Execution, to After-Action Review (PETAAR): A Toolset for Human-Robot Teaming** [[paper](https://doi.org/10.1145/3776734.3794389)]
+
+[⬆ Back to top](#paper-list)
 
 #### Application
 
@@ -1138,6 +1548,50 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 ### Multi-Robot Systems
 
+#### Theory
+
+##### 2026
+
+- [2026] **Reinforcement-Guided Swarm Drones: Effects of PSO and Pheromones on Collective Behaviour** *Lecture notes in electrical engineering* [[paper](https://doi.org/10.1007/978-981-92-0779-4_13)]
+- [2026] **MROPE: A Multi-Robot Safe Cooperative Strategy via combined Predictive Safety Filters and Ellipse-based Constraint Compression** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.29203)]
+- [2026] **Collective Intelligence in Robotics: A Swarm Solution to Mapping and Payload Transport** *Research Square* [[paper](https://doi.org/10.21203/rs.3.rs-9794763/v1)]
+- [2026] **Swarm AI Micro-Cockroach for Disaster Rescue** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20363989)]
+- [2026] **Energy-Efficient Guided Deep Reinforcement Learning for Cooperative UAV Swarms** [[paper](https://doi.org/10.1109/iatmsi68868.2026.11465514)]
+
+[⬆ Back to top](#paper-list)
+
+#### Mechanism
+
+##### 2026
+
+- [2026] **REAL TIME DECISION MAKING USING REINFORCEMENT LEARNING IN AUTONOMOUS ROBOTICS** [[paper](https://doi.org/10.71443/9789349552050-12)]
+- [2026] **Swarm Robotics and Cooperative AI** *International Journal of Multidisciplinary Sciences and Technology* [[paper](https://doi.org/10.64137/31079911/ijmst-v2i1p103)]
+
+[⬆ Back to top](#paper-list)
+
+#### Method
+
+##### 2026
+
+- [2026] **Multi-robot coordination and control frameworks for achieving resilient emergency management in hyperconnected and sensor-rich smart city environments** *IET conference proceedings.* [[paper](https://doi.org/10.1049/icp.2026.2564)]
+- [2026] **A MODEL FOR SIMULATING RADIO-ELECTRONIC INTERFERENCE IN A DRONE SWARM SIMULATION ENVIRONMENT** [[paper](https://doi.org/10.70286/isu-01.07.2026.015)]
+- [2026] **Adaptive Swarm Intelligence with Meta-Learning for Efficient Autonomous Multi-Robot Navigation and Pick-and-Drop Operations in Warehouse Environments** *International Journal of Novel Research and Development* [[paper](https://doi.org/10.56975/ijnrd.v11i5.325011)]
+- [2026] **A Distributed Computer Vision System for Coordination Among Swarms OF Mobile Robots in Dynamic Warehouse Environments** *Neliti* [[paper](https://www.neliti.com/publications/712051/a-distributed-computer-vision-system-for-coordination-among-swarms-of-mobile-rob)]
+- [2026] **Distributed Holographic Synchronization Algorithm for Cooperative Autonomous Underwater Exploration Robots** [[paper](https://doi.org/10.23919/indiacom70271.2026.11526696)]
+- [2026] **SWARAM BOTS: AN ESP 32-BASED SWARAM ROBOTICS SYSTEM** *International Journal of Versatile Research and Analysis* [[paper](https://doi.org/10.56975/ijvra.v4i4.704045)]
+- [2026] **HADEXION: Hadal Abyss Dynamics & Extreme-Pressure Intelligence** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.18883858)]
+- [2026] **A Comprehensive Survey of Multi-Agent Reinforcement Learning for Autonomous Systems: Algorithms, Applications, and Open Challenges** *Research Square* [[paper](https://doi.org/10.21203/rs.3.rs-8751804/v1)]
+
+[⬆ Back to top](#paper-list)
+
+#### Development
+
+##### 2026
+
+- [2026] **Towards Intelligent UAV Path Planning: A Systematic Review of Hybrid Reinforcement Learning and Metaheuristic Optimization** *Research Square* [[paper](https://doi.org/10.21203/rs.3.rs-10315373/v1)]
+
+[⬆ Back to top](#paper-list)
+
 #### Systems & Technology
 
 ##### 2026
@@ -1247,12 +1701,39 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 ### Simulation & World Models
 
+#### Theory
+
+##### 2026
+
+- [2026] **CAA-X V5.1 Robot Extension (CAA-R): Modular Control for Embodied Agents — Revised and Expanded Edition** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21896904)]
+- [2026] **SIMULATION ENVIRONMENTS FOR TRAINING REINFORCEMENT LEARNING DRIVEN ROBOTIC SYSTEMS** [[paper](https://doi.org/10.71443/9789349552050-09)]
+- [2026] **Physical AI: The Convergence of Foundation Models, Sim-to-Real Transfer, and Embodied Intelligence** *Journal of Multimedia Information System* [[paper](https://doi.org/10.33851/jmis.2026.13.2.53)]
+- [2026] **Closing the Sim-to-Real Loop Through Representation, Interface, and Feedback: How Dynamics-Aware Perception, Factored Policy Structure, and Embodied Feedback Jointly Determine Transfer Fidelity in Robot Learning** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20642294)]
+- [2026] **Embodied Deployment Constraints as a Design Variable: How Edge Inference Budgets, Tactile Representation, Temporal Decoupling, Credit Assignment, and Safety Certification Jointly Constrain Real-World Robot Policy Deployment** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20731139)]
+- [2026] **Physical AI: The Next Frontier in AI and Robotics to Build Truly Autonomous Machines** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202604.0549.v1)]
+- [2026] **Evolutionary Optimization for Tuning Robot Swarms in Coverage Problems** *Open MIND* [[paper](https://doi.org/10.26190/unsworks/32094)]
+
+[⬆ Back to top](#paper-list)
+
+#### Mechanism
+
+##### 2026
+
+- [2026] **Time-to-Collision Based Dynamic Obstacle Avoidance Using Pretrained Vision Models for Robots in Unstructured Environments** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.07885)]
+- [2026] **REALITY STRIKES BACK: A CONCEPT-CENTRIC FRAMEWORK FOR ADDRESSING THE SIM-TO-REAL GAP IN MANUFACTURING SIMULATION** *OSF Preprints (OSF Preprints)* [[paper](https://osf.io/86cgu)]
+- [2026] **Sim-to-Real Transfer of Vision-Language Navigation in Continuous Environments Using an Ackermann-Steered Mobile Robot** [[paper](https://doi.org/10.1109/iccar69571.2026.11549553)]
+
+[⬆ Back to top](#paper-list)
+
 #### Method
 
 ##### 2026
 
 - [2026] **Bridging the Sim-to-Real Gap in Parallel-Link Leg Mechanisms via Simulator-Side Dynamics Normalization** [[paper](https://arxiv.org/abs/2608.01697)]
 - [2026] **LyEvO: Lyapunov-Guided Evolutionary Optimization for Safe and Robust Sim-to-Real Policy Learning** [[paper](https://arxiv.org/abs/2608.06481)]
+- [2026] **Autonomous sailing with sim-to-real reinforcement learning** *Engineering Applications of Artificial Intelligence* [[paper](https://doi.org/10.1016/j.engappai.2026.115804)]
+- [2026] **A Capacitive Tactile Sensor Digital Twin for Real-Time Synthetic Data Generation and Sim-to-Real Transfer in NVIDIA Isaac Sim** *Applied Sciences* [[paper](https://doi.org/10.3390/app16157708)]
+- [2026] **Bridging the Simulation-to-Reality Gap in Reinforcement Learning-Based Autonomous Robot Navigation** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21791119)]
 - [2026] **BIFROST: Bridging Invariant Feature Representation for Observation-space Sim2Real Transfer** [[paper](https://arxiv.org/abs/2607.01410)]
 - [2026] **Efficient Transfer Learning of Robot Dynamic Models Using Morphological Similarity** [[paper](https://arxiv.org/abs/2607.05665)]
 - [2026] **Difference-Based Relational Learning for Zero-Shot Object-Goal Visual Navigation With Direct Sim-to-Real Transfer** [[paper](https://arxiv.org/abs/2607.15642)]
@@ -1260,6 +1741,11 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Bridging the Sim-to-Real Gap under Real-Time Constraints in Autonomous Racing** [[paper](https://arxiv.org/abs/2607.18586)]
 - [2026] **Effective Parameters, Real Behavior: Renormalization for Robotics -- From Infinite Electron Mass to Sim-to-Real Gap** [[paper](https://arxiv.org/abs/2607.24079)]
 - [2026] **Actuator Reality Shaping for Zero-Shot Sim-to-Real Robot Learning** [[paper](https://arxiv.org/abs/2607.02205)]
+- [2026] **Towards bridging the gap: Systematic sim-to-real transfer for diverse legged robots** *The International Journal of Robotics Research* [[paper](https://arxiv.org/abs/2509.06342)]
+- [2026] **Scaling Sim-to-Real Learning for Robot Manipulation** *KiltHub Repository* [[paper](https://doi.org/10.1184/r1/32984711.v1)]
+- [2026] **World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction and Unpaired Domain Translation** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.18154)]
+- [2026] **Vision-Language-Action Models for Embodied AI: A Survey of Robotics, Manipulation, and Autonomous Agents** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21366292)]
+- [2026] **State of World Models 2026 : Taxonomy, Benchmarks and Open Challenges** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21345187)]
 - [2026] **Efficient Sim-to-Real Transfer of World-Action Models from Synthetic Priors** [[paper](https://arxiv.org/abs/2606.31101)]
 - [2026] **FADA: Few-Shot Domain Adaptation via Dynamics Alignment for Humanoid Control** [[paper](https://arxiv.org/abs/2606.28476)]
 - [2026] **A Scalable Embodied Intelligence Platform for Seamless Real-to-Sim-to-Real Transfer of Household Mobile Manipulation Tasks** [[paper](https://arxiv.org/abs/2606.18646)]
@@ -1271,6 +1757,13 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **FalconTrack: Photorealistic Auto-Labeled Perception and Physics-Aware Vision-Based Aerial Tracking** [[paper](https://arxiv.org/abs/2606.29783)]
 - [2026] **CORE Planner: Contextual-memory Oriented Reinforcement-learning in Unknown Environments for Robot Navigation** [[paper](https://arxiv.org/abs/2606.29222)]
 - [2026] **Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video** [[paper](https://arxiv.org/abs/2606.08828)]
+- [2026] **Physics Models for Sim-to-Real Transfer in Professional-Level Robot Table Tennis** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2606.28805)]
+- [2026] **TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real Transfer** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2606.18959)]
+- [2026] **VIRTUS-FPP: Virtual Sensor Modeling for Fringe Projection Profilometry in NVIDIA Isaac Sim** *IEEE Sensors Journal* [[paper](https://arxiv.org/abs/2509.22685)]
+- [2026] **AirDreamer: Generalist Drone Navigation with World Models** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2606.03252)]
+- [2026] **DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2606.22116)]
+- [2026] **TacCoRL: Integrating Tactile Feedback into VLA via Simulation** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2606.11743)]
+- [2026] **Construction of an industrial digital twin platform for multi-robot arm collaborative control** *DOAJ (DOAJ: Directory of Open Access Journals)* [[paper](https://doaj.org/article/e06a7777def141b3b6714e34080ea715)]
 - [2026] **Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation** [[paper](https://arxiv.org/abs/2605.12347)]
 - [2026] **Too Much of a Good Thing: When sim2real Efforts Impede Policy Learning (And What to Do About It)** [[paper](https://arxiv.org/abs/2606.02636)]
 - [2026] **VLA-REPLICA: A Low-Cost, Reproducible Benchmark for Real-World Evaluation of Vision-Language-Action Models** [[paper](https://arxiv.org/abs/2605.20774)]
@@ -1281,10 +1774,14 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **NavRL++: A System-Level Framework for Improving Sim-to-Real Transfer in Reinforcement Learning-Based Robot Navigation** [[paper](https://arxiv.org/abs/2605.15559)]
 - [2026] **Closed-Loop Sim-to-Real Reinforcement Learning for Deformable Microfiber Shape Control** [[paper](https://arxiv.org/abs/2605.21688)]
 - [2026] **Anatomical Landmark-Guided Deep Reinforcement Learning for Autonomous Gastric Navigation** [[paper](https://arxiv.org/abs/2605.08269)]
+- [2026] **DRL-Based Pose Control for Double-Ackermann Robots Under Actuation Uncertainties** *HAL (Le Centre pour la Communication Scientifique Directe)* [[paper](https://arxiv.org/abs/2606.00313)]
 - [2026] **3D Generation for Embodied AI and Robotic Simulation: A Survey** [[paper](https://arxiv.org/abs/2604.26509)]
 - [2026] **Abstract Sim2Real through Approximate Information States** [[paper](https://arxiv.org/abs/2604.15289)]
 - [2026] **Sim2Real-AD: A Modular Sim-to-Real Framework for Deploying VLM-Guided Reinforcement Learning in Real-World Autonomous Driving** [[paper](https://arxiv.org/abs/2604.03497)]
 - [2026] **GaussFly: Contrastive Reinforcement Learning for Visuomotor Policies in 3D Gaussian Fields** [[paper](https://arxiv.org/abs/2604.05062)]
+- [2026] **Generative Simulation for Policy Learning in Physical Human-Robot Interaction** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2604.08664)]
+- [2026] **AI and mechanics driving the rise of bio-inspired robotic swarms** [[paper](https://doi.org/10.1117/12.3089992)]
+- [2026] **DexWorldModel: Causal Latent World Modeling towards Automated Learning of Embodied Tasks** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2604.16484)]
 - [2026] **DRUM: Diffusion-based Raydrop-aware Unpaired Mapping for Sim2Real LiDAR Segmentation** [[paper](https://arxiv.org/abs/2603.26263)]
 - [2026] **CataractSAM-2: A Domain-Adapted Model for Anterior Segment Surgery Segmentation and Scalable Ground-Truth Annotation** [[paper](https://arxiv.org/abs/2603.21566)]
 - [2026] **Robust Sim-to-Real Cloth Untangling through Reduced-Resolution Observations via Adaptive Force-Difference Quantization** [[paper](https://arxiv.org/abs/2603.13785)]
@@ -1293,6 +1790,10 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Grounding Sim-to-Real Generalization in Robotic Manipulation: An Empirical Study with Vision-Language-Action Models** [[paper](https://arxiv.org/abs/2603.22876)]
 - [2026] **AGILE: A Comprehensive Workflow for Humanoid Loco-Manipulation Learning** [[paper](https://arxiv.org/abs/2603.20147)]
 - [2026] **Scaling Sim-to-Real Reinforcement Learning for Robot VLAs with Generative 3D Worlds** [[paper](https://arxiv.org/abs/2603.18532)]
+- [2026] **Tendon Force Modeling for Sim2Real Transfer of Reinforcement Learning Policies for Tendon-Driven Robots** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2603.04351)]
+- [2026] **ExpertGen: Scalable Sim-to-Real Expert Policy Learning from Imperfect Behavior Priors** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2603.15956)]
+- [2026] **V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video Generation Priors** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2603.18811)]
+- [2026] **TactGen: Tactile Sensory Data Generation via Zero-Shot Sim-to-Real Transfer (Abstract Reprint)** *Proceedings of the AAAI Conference on Artificial Intelligence* [[paper](https://doi.org/10.1609/aaai.v40i47.41424)]
 - [2026] **Cooperative-Competitive Team Play of Real-World Craft Robots** [[paper](https://arxiv.org/abs/2602.21119)]
 - [2026] **Instance-Guided Unsupervised Domain Adaptation for Robotic Semantic Segmentation** [[paper](https://arxiv.org/abs/2602.01389)]
 - [2026] **Bridging the Sim-to-Real Gap with multipanda ros2: A Real-Time ROS2 Framework for Multimanual Systems** [[paper](https://arxiv.org/abs/2602.02269)]
@@ -1303,6 +1804,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning** [[paper](https://arxiv.org/abs/2603.00446)]
 - [2026] **CLASH: Collision Learning via Augmented Sim-to-real Hybridization to Bridge the Reality Gap** [[paper](https://arxiv.org/abs/2602.18707)]
 - [2026] **Learning Soccer Skills for Humanoid Robots: A Progressive Perception-Action Framework** [[paper](https://arxiv.org/abs/2602.05310)]
+- [2026] **A High-Fidelity Digital Twin Framework for Multi-Modal Sim-to-Real Transfer for Robust UAV Autonomy** [[paper](https://doi.org/10.1109/i5cps67958.2026.11452535)]
 - [2026] **Sim-to-Real Transfer via a Style-Identified Cycle Consistent Generative Adversarial Network: Zero-Shot Deployment on Robotic Manipulators through Visual Domain Adaptation** [[paper](https://arxiv.org/abs/2601.16677)]
 - [2026] **CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos** [[paper](https://arxiv.org/abs/2601.04061)]
 - [2026] **Sim2real Image Translation Enables Viewpoint-Robust Policies from Fixed-Camera Datasets** [[paper](https://arxiv.org/abs/2601.09605)]
@@ -1348,6 +1850,23 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2025] **HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data for Mobile Dexterous Manipulation** [[paper](https://arxiv.org/abs/2508.20085)]
 - [2025] **Correspondence-Free, Function-Based Sim-to-Real Learning for Deformable Surface Control** [[paper](https://arxiv.org/abs/2509.00060)]
 - [2025] **Impedance Primitive-augmented Hierarchical Reinforcement Learning for Sequential Tasks** [[paper](https://arxiv.org/abs/2508.19607)]
+
+[⬆ Back to top](#paper-list)
+
+#### Application
+
+##### 2026
+
+- [2026] **Ep. 1059: Google's World Models: The Shift from Chatbots to Reality** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.19362286)]
+- [2026] **MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2603.16861)]
+
+[⬆ Back to top](#paper-list)
+
+#### Development
+
+##### 2026
+
+- [2026] **RflySimVision: A distributed hardware-in-the-loop sim-to-real simulator for vision-based unmanned swarm system** *Robotics and Autonomous Systems* [[paper](https://doi.org/10.1016/j.robot.2026.105417)]
 
 [⬆ Back to top](#paper-list)
 
@@ -1457,7 +1976,91 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 
 [⬆ Back to top](#paper-list)
 
+#### Evaluation & Benchmarks
+
+##### 2026
+
+- [2026] **Sim-to-real transfer by hybrid Gaussian Splatting and geometric reconstruction for autonomous driving** *Engineering Applications of Artificial Intelligence* [[paper](https://doi.org/10.1016/j.engappai.2026.114372)]
+
+[⬆ Back to top](#paper-list)
+
 ### Surveys & Taxonomies
+
+#### Theory
+
+##### 2026
+
+- [2026] **Path Planning for Multiple Mobile Robots: A Systematic Review Using Parameter-Mapped Benchmarking** *Machines* [[paper](https://doi.org/10.3390/machines14080870)]
+- [2026] **Reinforcement Learning for Diffusion Policies in Robotics: A Survey and State-Based Locomotion Reproduction** *Robotics* [[paper](https://doi.org/10.3390/robotics15080147)]
+- [2026] **Mobile Robot Localization and SLAM: A Critical Review of Sensors, Multi-Sensor Fusion, and Neural Representations** *Robotics* [[paper](https://doi.org/10.3390/robotics15080142)]
+- [2026] **Recent advances in AI-based mobile robots for human companionship: survey** *Artificial Intelligence Review* [[paper](https://doi.org/10.1007/s10462-026-11603-9)]
+- [2026] **Sensing the Action: Rethinking Sensor Modalities and Multi-Modal Fusion in Vision–Language–Action Models for Robotic Manipulation** *Sensors* [[paper](https://doi.org/10.3390/s26113541)]
+- [2026] **Multi-agent task and motion planning trends analysis: a survey** *Artificial Intelligence Review* [[paper](https://doi.org/10.1007/s10462-026-11588-5)]
+- [2026] **World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2606.00133)]
+- [2026] **World Models and World Action Models (WAM): From Foundation Simulators to Embodied Action** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20046240)]
+- [2026] **Editorial** *Journal of Engineering Design and Technology* [[paper](https://doi.org/10.1108/jedt-05-2026-754)]
+- [2026] **How large-scale foundation models benefit precision livestock farming: A survey** *Artificial Intelligence in Agriculture* [[paper](https://doi.org/10.1016/j.aiia.2026.04.013)]
+- [2026] **Replication materials for the paper "Engineering LLM-Based Multi-Agent Systems: A Taxonomy of Emerging Frameworks"** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.19919085)]
+- [2026] **A Survey-Driven Framework for Autonomous Mobile Robot Navigation Systems: The Perception–Cognition–Operation (PCO) Approach** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202603.0528.v1)]
+- [2026] **Speculative Decoding for Multimodal Models: A Survey** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202603.2344.v1)]
+- [2026] **Surface Offsetting: A Survey From Geometric Construction to Neural Implicit Representations** *IEEE Transactions on Visualization and Computer Graphics* [[paper](https://doi.org/10.1109/tvcg.2026.3676903)]
+
+[⬆ Back to top](#paper-list)
+
+#### Mechanism
+
+##### 2026
+
+- [2026] **Memory in Vision-Language Models: Taxonomy, Mechanisms, and Applications** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202607.1539.v1)]
+- [2026] **Cooperative Perception for Multi-Robot Systems in Natural Outdoor Applications – A Survey** *Journal of Intelligent & Robotic Systems* [[paper](https://doi.org/10.1007/s10846-026-02404-x)]
+- [2026] **Evolutionary Algorithms and Engineering Applications: A Comprehensive Survey of Classical Methods and Emerging Trends** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202606.0126.v1)]
+- [2026] **A Survey of Agent Skills: Toward Procedural Infrastructure for LLM Agents** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202605.1276.v1)]
+- [2026] **Computer Vision for Collaborative Robots in Industry 5.0: A Survey of Techniques, Gaps, and Future Directions** [[paper](https://doi.org/10.3390/engproc2026124099)]
+- [2026] **Talking Head Generation Through Generative Models and Cross-Modal Synthesis Techniques** *Journal of Imaging* [[paper](https://doi.org/10.3390/jimaging12030119)]
+
+[⬆ Back to top](#paper-list)
+
+#### Method
+
+##### 2026
+
+- [2026] **Developing Freshwater Aquatic Invasive Species Watch Lists for British Columbia, Canada and Identifying Possible Early Detection Methods** *ARPHA Conference Abstracts* [[paper](https://doi.org/10.3897/aca.9.e202246)]
+- [2026] **A Survey of Sim-to-Real Transfer Methods in Robot Learning.** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.21101584)]
+- [2026] **Evolutionary algorithms as information fusion architectures: A survey** *Information Fusion* [[paper](https://doi.org/10.1016/j.inffus.2026.104578)]
+- [2026] **Lifelong Representations: A Survey on Continual Self-Supervised Learning for Vision Models** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.09785)]
+- [2026] **Rethinking Multi-Label Image Classification With Deep Learning: Taxonomy, Challenge, and Outlook** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.00839)]
+- [2026] **Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction, Generation, and Embodied Transfer** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2607.28394)]
+- [2026] **Predicting the World via Video Representation: A Comprehensive Survey on Video World Models** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202605.0435.v1)]
+- [2026] **Advances in Feed‐Forward 3D Reconstruction and View Synthesis: A Survey** *Computer Graphics Forum* [[paper](https://arxiv.org/abs/2507.14501)]
+- [2026] **Planning and Evaluation Methods in LLM-Based Autonomous Workflow Systems: A Comprehensive Review** *Research Square* [[paper](https://doi.org/10.21203/rs.3.rs-9460995/v1)]
+- [2026] **Agentic AI Systems for Pattern Analysis and Machine Intelligence: A Layered Survey of Architectures, Evaluation, and Safety** *Zenodo (CERN European Organization for Nuclear Research)* [[paper](https://doi.org/10.5281/zenodo.20247605)]
+- [2026] **Memristor Technologies for Dynamic Vision Sensors: A Critical Assessment and Research Roadmap** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2605.13699)]
+- [2026] **Multi-Modal Radiance Fields in Robotics: A Survey** [[paper](https://doi.org/10.1109/iccc68994.2026.11511655)]
+- [2026] **A Survey of Embodied World Models** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202604.0928.v1)]
+- [2026] **A survey of deep learning techniques for image-based disease detection in dicot plants** *Information Processing in Agriculture* [[paper](https://doi.org/10.1016/j.inpa.2026.03.014)]
+- [2026] **Collaboration in Multi-Robot Systems: Taxonomy and Survey over Frameworks for Collaboration** *arXiv (Cornell University)* [[paper](https://arxiv.org/abs/2603.23898)]
+- [2026] **Robot localization: a comprehensive survey from classical methods to intelligent autonomy** *International Journal of Intelligent Robotics and Applications* [[paper](https://doi.org/10.1007/s41315-026-00528-9)]
+- [2026] **Robotic and AI Enabled Waste Segregation A Systematic Review of Methods Benchmarks and Challenges** *Research Square* [[paper](https://doi.org/10.21203/rs.3.rs-8474173/v1)]
+- [2026] **A Comprehensive Review of Generative Physical Artificial Intelligence** *IEEE Internet of Things Journal* [[paper](https://doi.org/10.1109/jiot.2026.3671268)]
+- [2026] **A Survey of Continual Learning for Robotics in the Foundation Model Era** [[paper](https://doi.org/10.36227/techrxiv.176972367.76460794/v3)]
+
+[⬆ Back to top](#paper-list)
+
+#### Application
+
+##### 2026
+
+- [2026] **Orchestrating LLMs with Specialized Models: A Survey on Heterogeneous Multi-Model Agents** *Preprints.org* [[paper](https://doi.org/10.20944/preprints202607.1041.v1)]
+
+[⬆ Back to top](#paper-list)
+
+#### Evaluation & Benchmarks
+
+##### 2026
+
+- [2026] **Many-objective hyper-heuristics: A state-of-the-art survey** *Computer Science Review* [[paper](https://doi.org/10.1016/j.cosrev.2026.100971)]
+
+[⬆ Back to top](#paper-list)
 
 #### Reviews & Surveys
 
@@ -1469,6 +2072,8 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Coverage Path Planning: Classical Foundations, Recent Advances, and Future Directions** [[paper](https://arxiv.org/abs/2607.10649)]
 - [2026] **The Three Dimensions of ROS 2 Middleware** [[paper](https://arxiv.org/abs/2607.01304)]
 - [2026] **More Structure, Not More Capacity: Object-Centric Representations for Visuomotor Imitation Learning** [[paper](https://arxiv.org/abs/2607.09825)]
+- [2026] **Beyond correlation: a survey on causal inference for dynamics-aware perception and introspective decision-making in robotics** *Nonlinear Dynamics* [[paper](https://doi.org/10.1007/s11071-026-12695-2)]
+- [2026] **3D point cloud processing and analysis: a survey** *Multimedia Tools and Applications* [[paper](https://doi.org/10.1007/s11042-026-21797-3)]
 - [2026] **SoK: Security and Privacy of Foundation-Model-Powered Robots** [[paper](https://arxiv.org/abs/2606.16788)]
 - [2026] **3D Scene Graphs: Open Challenges and Future Directions** [[paper](https://arxiv.org/abs/2606.19383)]
 - [2026] **NVIDIA Isaac Sim: Enabling Scalable, GPU-Accelerated Simulation for Robotics** [[paper](https://arxiv.org/abs/2606.03551)]
@@ -1493,6 +2098,7 @@ This repo is designed to be driven by coding agents (OpenCode, Claude Code, …)
 - [2026] **Safety in Embodied AI: A Survey of Risks, Attacks, and Defenses** [[paper](https://arxiv.org/abs/2605.02900)]
 - [2026] **Underwater Embodied Intelligence for Autonomous Robots: A Constraint-Coupled Perspective on Planning, Control, and Deployment** [[paper](https://arxiv.org/abs/2603.07393)]
 - [2026] **Uni-Skill: Building Self-Evolving Skill Repository for Generalizable Robotic Manipulation** [[paper](https://arxiv.org/abs/2603.02623)]
+- [2026] **Deep Learning-Based Point Cloud Registration: A Comprehensive Survey and Taxonomy** *International Journal of Computer Vision* [[paper](https://doi.org/10.1007/s11263-025-02723-w)]
 - [2026] **Advances in Global Solvers for 3D Vision** [[paper](https://arxiv.org/abs/2602.14662)]
 - [2026] **From Perception to Action: Spatial AI Agents and World Models** [[paper](https://arxiv.org/abs/2602.01644)]
 - [2026] **Cybersecurity of Teleoperated Quadruped Robots: A Systematic Survey of Vulnerabilities, Threats, and Open Defense Gaps** [[paper](https://arxiv.org/abs/2602.23404)]
