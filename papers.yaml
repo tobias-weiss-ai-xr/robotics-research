@@ -29722,3 +29722,4229 @@ papers:
     running in real-time on a Jetson AGX Orin. We will release code, data, and training
     details to support future work on test-time reasoning for robot motion refinement.
     Additional videos at: https://amrl.cs.utexas.edu/foresight'
+- title: Towards Affordance-Aware Robotic Dexterous Grasping with Human-like Priors
+  date: 2026-03
+  url: https://doi.org/10.1609/aaai.v40i15.38313
+  category: manipulation
+  subcategory: method
+  authors:
+  - Haoyu Zhao
+  - Linghao Zhuang
+  - Xingyue Zhao
+  abstract: A dexterous hand capable of generalizable grasping objects is fundamental
+    for the development of general-purpose embodied AI. However, previous methods
+    focus narrowly on low-level grasp stability metr
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+- title: Fingertip-scale six-axis tactile interface with high-precision force sensing
+    and position localization for dexterous human–machine interactions
+  date: 2026-05
+  url: https://doi.org/10.1038/s41378-026-01292-3
+  category: manipulation
+  subcategory: method
+  authors:
+  - Yi Song
+  - Junwei Wang
+  - Zongke Li
+  abstract: Developing microsystem-based tactile sensors that can simultaneously decode
+    multidirectional forces and precise contact locations remains a formidable challenge,
+    limiting robotic dexterity and human-m
+  venue: Microsystems & Nanoengineering
+- title: A high-dexterity soft neuroprosthetic hand for daily activities
+  date: 2026-07
+  url: https://doi.org/10.1038/s41467-026-75105-6
+  category: manipulation
+  subcategory: mechanism
+  authors:
+  - Ningbin Zhang
+  - X L Yang
+  - Zheng Zong
+  abstract: Robotic prostheses are the primary replacement for upper-limb amputees'
+    lost hands. Although various neuroprosthetic hands have been developed, featuring
+    both rigid and soft mechanisms, they typically
+  venue: Nature Communications
+- title: 'Mechanical Design Strategies of Dexterous Robotic Hands for Enhanced Precision
+    Grasping: A Review'
+  date: 2026-07
+  url: https://doi.org/10.3390/robotics15080146
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Quang Tuan Nguyen
+  - Van Linh Tran
+  - Van Sang Huynh
+  abstract: Precision grasping is a fundamental capability for dexterous robotic manipulation,
+    enabling robots to handle small objects, perform delicate tasks, and interact
+    safely with complex environments. Howev
+  venue: Robotics
+- title: Towards Advanced Intelligent and Perceptive Soft Grippers
+  date: 2026-04
+  url: https://doi.org/10.1002/aisy.202501459
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Haneul Kim
+  - Hayeon Shin
+  - Seong-Jin Park
+  abstract: 'Over the last decade, soft robots have expanded the boundaries of robotic
+    horizons, showing strong potential in mimicking the true nature of living organisms
+    as well as addressing real‐world problems '
+  venue: Advanced Intelligent Systems
+- title: Safe and Steerable Geometric Motion Policies for Robotic Dexterous Manipulation
+  date: 2026-05
+  url: https://arxiv.org/abs/2605.21811
+  category: manipulation
+  subcategory: method
+  authors:
+  - Albert Wu
+  - Riccardo Bonalli
+  - Thomas Lew
+  abstract: 'Robotic dexterous manipulation requires continuously reconciling objectives
+    and constraints defined on heterogeneous geometric spaces: a robot controlled
+    on a $\mathbb{R}^7$ configuration manifold may'
+  venue: arXiv (Cornell University)
+- title: Universal bioinspired adhesives for arbitrary unknown surfaces toward dexterous
+    robotic manipulation
+  date: 2026-06
+  url: https://doi.org/10.1038/s41378-026-01338-6
+  category: manipulation
+  subcategory: method
+  authors:
+  - Duorui Wang
+  - Ronghong Wei
+  - Jinyu Zhang
+  abstract: Dexterous robotic hands are pivotal for complex manipulation in unstructured
+    environments, yet they face significant challenges in reliably grasping fragile,
+    heavy, or irregularly shaped objects using
+  venue: Microsystems & Nanoengineering
+- title: A Tactile-Driven Hierarchical Reinforcement Learning Framework for Dexterous
+    Robotic Manipulation
+  date: 2026-04
+  url: https://doi.org/10.31449/inf.v50i11.13667
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Gao Liu
+  - Changyu Li
+  - Ruchao Liao
+  abstract: 'To address the challenges of robotic dexterous manipulation in complex
+    environments, this paper proposes a hierarchical reinforcement learning (HRL)
+    framework driven by tactile information. We design '
+  venue: Informatica
+- title: Functional grasping of floating tools in zero-gravity space using reinforcement
+    learning for dexterous robotic hands
+  date: 2026-05
+  url: https://doi.org/10.1007/s11431-026-3327-y
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Yue Wang
+  - Houcheng Li
+  - Mingyang Li
+  abstract: ''
+  venue: Science China Technological Sciences
+- title: Task-oriented grasping for dexterous robots using postural synergies and
+    reinforcement learning
+  date: 2026-02
+  url: https://arxiv.org/abs/2602.20915
+  category: manipulation
+  subcategory: method
+  authors:
+  - Dimitrios Dimou
+  - José Santos-Victor
+  - Plínio Moreno
+  abstract: In this paper, we address the problem of task-oriented grasping for humanoid
+    robots, emphasizing the need to align with human social norms and task-specific
+    objectives. Existing methods, employ a vari
+  venue: arXiv (Cornell University)
+- title: Designing and Teaching Dexterous Robot Hands
+  date: 2026-07
+  url: https://doi.org/10.1184/r1/33063809
+  category: manipulation
+  subcategory: method
+  authors:
+  - Kenneth Shaw
+  abstract: Consider the simple acts of typing on a keyboard, hammering a nail, or
+    using chopsticks. Our hands combine strength, dexterity, and sensitivity, enabling
+    precise fingertip forces and more than 70 dist
+  venue: KiltHub Repository
+- title: 'DexGraspDiffuser: Target-Coupled Grasp and Action Diffusion for Dexterous
+    Grasping'
+  date: 2026-07
+  url: https://doi.org/10.3390/biomimetics11070465
+  category: manipulation
+  subcategory: method
+  authors:
+  - Juncheng Zhu
+  - Haotian Yang
+  - Zhile Yang
+  abstract: Dexterous grasping with multi-finger robotic hands is essential for general-purpose
+    robotic manipulation, but remains challenging due to high-dimensional hand configurations,
+    multimodal grasp distribu
+  venue: Biomimetics
+- title: 'WGrasp: A Universal Dexterous Grasping Framework Guided by Vision and Tactile
+    Perception'
+  date: 2026-03
+  url: https://doi.org/10.1109/aaiml67890.2026.11498158
+  category: manipulation
+  subcategory: method
+  authors:
+  - Lai Wei
+  - Wuyue Ma
+  - Enchen Zhong
+  abstract: To achieve stable grasping of arbitrary objects with a dexterous robotic
+    hand, this paper proposes a universal grasping framework that fuses vision guidance
+    and tactile perception. Built upon UniDexGr
+  venue: ''
+- title: 'Grasping by interconnection: robust manipulation with minimal object information'
+  date: 2026-03
+  url: https://orbi.uliege.be/handle/2268/341416
+  category: manipulation
+  subcategory: method
+  authors:
+  - Julien Vanderheyden
+  - Guillaume Drion
+  - Pierre Sacré
+  abstract: Dexterous grasping in unstructured environments remains a central open
+    challenge in robotics, requiring simultaneous robustness to perceptual uncertainty
+    and generalization across diverse object geome
+  venue: ORBi (University of Liège)
+- title: 'DCIRNet: Depth completion with iterative refinement for dexterous grasping
+    of transparent and reflective objects'
+  date: 2026-08
+  url: https://arxiv.org/abs/2506.09491
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Guanghu Xie
+  - Zhiduo Jiang
+  - Mingxu Li
+  abstract: ''
+  venue: Neurocomputing
+- title: 'Underwater Grippers for Dexterous Manipulation: A Review on Design and Enabling
+    Technologies'
+  date: 2026-07
+  url: https://doi.org/10.1002/rob.70277
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Canjun Yang
+  - Zilin Xing
+  - Mingwei Lin
+  abstract: ABSTRACT With the advancement of deep‐sea resource exploration and scientific
+    research, underwater operations are evolving from rough manipulation to precise
+    and intelligent tasks, imposing higher dem
+  venue: Journal of Field Robotics
+- title: Distributed and stretchable tactile sensing for dexterous robotic hands based
+    on a crosslinked interpenetrating network
+  date: 2026-03
+  url: https://doi.org/10.1007/s40843-025-3840-3
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Dongsheng Li
+  - Wenjun Huo
+  - Yu Sun
+  abstract: ''
+  venue: Science China Materials
+- title: 'ETac: A Lightweight and Efficient Tactile Simulation Framework for Learning
+    Dexterous Manipulation'
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.20295
+  category: manipulation
+  subcategory: method
+  authors:
+  - Zhe Xu
+  - Feiyu Zhao
+  - Xiyan Huang
+  abstract: Tactile sensors are increasingly integrated into dexterous robotic manipulators
+    to enhance contact perception. However, learning manipulation policies that rely
+    on tactile sensing remains challenging,
+  venue: arXiv (Cornell University)
+- title: Embedded Haptic Control for Robotic Grasping using a Tactile Sensor System
+  date: 2026-04
+  url: https://doi.org/10.34749/3061-1466.2026.16
+  category: manipulation
+  subcategory: method
+  authors:
+  - Thomas Kammerhofer
+  - Thomas Thurner
+  abstract: Tactile sensing is essential for dexterous robotic manipulation, enabling
+    reliable contact detection, grasp assessment, and safe interaction with delicate
+    objects. In this work, we present a finger-sh
+  venue: reposiTUm (TU Wien)
+- title: 'Ruka-v2: Tendon Driven Open-Source Dexterous Hand with Wrist and Abduction
+    for Robot Learning'
+  date: 2026-03
+  url: https://arxiv.org/abs/2603.26660
+  category: manipulation
+  subcategory: method
+  authors:
+  - Xinqi
+  - Ruoxi Hu
+  - Alejandro Ojeda Olarte
+  abstract: Lack of accessible and dexterous robot hardware has been a significant
+    bottleneck to achieving human-level dexterity in robots. Last year, we released
+    Ruka, a fully open-sourced, tendon-driven humanoi
+  venue: arXiv (Cornell University)
+- title: Multimodal Perception Technology, Fusion, and Application of Robot Dexterous
+    Hands for Complex Tasks in Intelligent Manufacturing
+  date: 2026-03
+  url: https://doi.org/10.54097/b88jb554
+  category: manipulation
+  subcategory: mechanism
+  authors:
+  - Wei Guo
+  abstract: To meet the flexible production line requirements of smart manufacturing
+    characterized by variety, small batches, and sub-millimeter precision, traditional
+    single-mode vision solutions suffer from lar
+  venue: Academic Journal of Science and Technology
+- title: 'FastGrasp: Learning-based Whole-body Control method for Fast Dexterous Grasping
+    with Mobile Manipulators'
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.12879
+  category: manipulation
+  subcategory: method
+  authors:
+  - Heng Tao
+  - Yiming Zhong
+  - Zemin Yang
+  abstract: Fast grasping is critical for mobile robots in logistics, manufacturing,
+    and service applications. Existing methods face fundamental challenges in impact
+    stabilization under high-speed motion, real-ti
+  venue: arXiv (Cornell University)
+- title: Design and evaluation of a tendon-and-linkage hybrid-driven humanoid dexterous
+    hand
+  date: 2026-08
+  url: https://doi.org/10.1038/s41598-026-63917-x
+  category: manipulation
+  subcategory: mechanism
+  authors:
+  - Ke Li
+  - Fanlin Meng
+  - Linjie Liu
+  abstract: Dexterous hands are essential for robotic grasping and manipulation; however,
+    existing designs remain limited in achieving both structural and functional biomimicry.
+    In this study, a humanoid dexterou
+  venue: Scientific Reports
+- title: MULTIMODAL TACTILE SENSING FOR CONTACT-RICH ROBOTIC MANIPULATION
+  date: 2026-06
+  url: https://figshare.com/articles/thesis/MULTIMODAL_TACTILE_SENSING_FOR_CONTACT-RICH_ROBOTIC_MANIPULATION/32752281
+  category: manipulation
+  subcategory: mechanism
+  authors:
+  - Sheeraz Athar
+  abstract: Robotic manipulation in unstructured and contact-rich environments requires
+    perceptual capabilities that extend beyond conventional visual sensing. Although
+    robotic locomotion has advanced significant
+  venue: Figshare
+- title: 'Aligning robotic manipulation with human cognitive modalities: studies in
+    perception, language, imitation, and foresight'
+  date: 2026-08
+  url: https://doi.org/10.7488/era/7586
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Yucheng Xu
+  abstract: The transition of robotic manipulation systems from controlled industrial
+    settings to unstructured human environments remains a major challenge. Learning-based
+    methods have reduced the dependence on h
+  venue: University of Edinburgh
+- title: Multimodal Quad‐Finger Soft Robotic Hand With Dual‐Chamber Origami Actuator
+    for Large‐Workspace Manipulation
+  date: 2026-04
+  url: https://doi.org/10.1002/aisy.70388
+  category: manipulation
+  subcategory: method
+  authors:
+  - Qinlin Tan
+  - Sipeng Zhou
+  - Y H Chen
+  abstract: 'Increasing demands for multimodal manipulation and large‐workspace operation
+    in complex environments are driving interest in compliant, safe, morphologically
+    adaptable soft robotic hands for humanoid '
+  venue: Advanced Intelligent Systems
+- title: A Bio‐Functional Mimetic Robot for Versatile Tasks From Cross‐Scale Manipulation
+    to Limb‐Tool Integration
+  date: 2026-08
+  url: https://doi.org/10.1002/advs.76527
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Xin Tong
+  - Tianle Zhang
+  - Fei Mo
+  abstract: ABSTRACT Dexterous hands and robotic manipulators are essential physical
+    interfaces for interacting with diverse environments. Traditional methods seek
+    creature‐like dexterity through structural biomi
+  venue: Advanced Science
+- title: A modular soft gripper with enhanced in-hand manipulation capabilities
+  date: 2026-07
+  url: https://doi.org/10.1088/1748-3190/ae901e
+  category: manipulation
+  subcategory: mechanism
+  authors:
+  - Carlos Relaño
+  - Alberto Rodríguez-Sanz
+  - Lisbeth Karina Mena López
+  abstract: Soft robotic grippers offer exceptional adaptability and safety for grasping
+    diverse objects. However, achieving dexterous in-hand manipulation remains a significant
+    challenge. Traditional tendon-driv
+  venue: Bioinspiration & Biomimetics
+- title: Utilizing Spatially Varying Fiber Arrays in Soft Morphing Surfaces for Grasping
+    Applications
+  date: 2026-04
+  url: https://doi.org/10.1115/1.4071597
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Austin Moss
+  - Nick Sholl
+  - Kamran Mohseni
+  abstract: Abstract Soft robotic grippers have the potential for dexterous manipulation
+    of delicate, irregularly shaped objects that conventional end effectors lack the
+    finesse to handle; however, the infinite d
+  venue: Journal of Mechanisms and Robotics
+- title: 'When Contact Becomes Support: Auditing and Repairing Contact-Topology Failures
+    in Programmatic Dexterous Grasp Search'
+  date: 2026-06
+  url: https://doi.org/10.5281/zenodo.20922500
+  category: manipulation
+  subcategory: theory
+  authors:
+  - EE HERN TEO
+  abstract: Dexterous hands can touch an object, lift it briefly, and still fail the
+    physical task becausecontact has not become load-bearing support. We study this
+    contact-to-support gap inMuJoCo using an open-s
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?'
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.26428
+  category: manipulation
+  subcategory: method
+  authors:
+  - Tyler Ga Wei Lum
+  - Kushal Kedia
+  - C. Karen Liu
+  abstract: Multi-fingered robots promise the speed and dexterity of human hands,
+    yet challenging problems such as precise assembly have remained out of reach.
+    These tasks are contact-rich, making data collection
+  venue: arXiv (Cornell University)
+- title: A versatile and high-precision robotic gripper with universal applicability
+  date: 2026-07
+  url: https://doi.org/10.1117/12.3119650
+  category: manipulation
+  subcategory: method
+  authors:
+  - Yuding Wu
+  - Gan Zhang
+  - Shuang Nie
+  abstract: Robotic grippers, also referred to as robotic end effectors, play a critical
+    role in enabling dexterous manipulation, allowing robots to transition from repetitive
+    fixed tasks to intelligent and flexi
+  venue: ''
+- title: 'Virtual reality-enabled embodied intelligence: An adaptive planning method
+    for coordinated dual-arm grasping'
+  date: 2026-05
+  url: https://doi.org/10.1016/j.eswa.2026.132714
+  category: manipulation
+  subcategory: method
+  authors:
+  - Rui Du
+  - Jiacheng Xie
+  - Xuewen Wang
+  abstract: ''
+  venue: Expert Systems with Applications
+- title: 'Helix-coupled spherical joint for anthropomorphic CMC dexterity in robotic
+    hands: Achieving three trajectories with one actuator'
+  date: 2026-06
+  url: https://doi.org/10.1016/j.sna.2026.118178
+  category: manipulation
+  subcategory: systems
+  authors:
+  - Ruiqi Yin
+  - Huaping Xiao
+  - Xin Wang
+  abstract: ''
+  venue: Sensors and Actuators A Physical
+- title: Soft Pop-up Serial Robot with Cable-Hydraulic Hybrid Actuation for Advanced
+    Endoscopy
+  date: 2026-04
+  url: https://doi.org/10.1109/robosoft67810.2026.11522891
+  category: manipulation
+  subcategory: application
+  authors:
+  - Hanqi Lou
+  - Ying Shu
+  - Jianlin Yang
+  abstract: Endoscopic submucosal dissection (ESD) requires compact and dexterous
+    instruments capable of operating safely within confined gastrointestinal spaces.
+    This paper presents a soft serial pop-up robot de
+  venue: ''
+- title: Strong yet backdrivable robots through capstan-amplified electroadhesive
+    clutches
+  date: 2026-03
+  url: https://doi.org/10.1038/s44182-026-00084-1
+  category: manipulation
+  subcategory: development
+  authors:
+  - Bekir Aksoy
+  - Anthony Shilati
+  - B. C. Forbes
+  abstract: Dexterous manipulation in compact robots requires combining high force
+    output with passive backdrivability; capabilities that conventional geared actuation
+    struggles to deliver. We introduce an electr
+  venue: npj Robotics
+- title: Miniaturized 3D Magnetic Force Sensor via Laser‐Assisted Folding and Magnetization
+    for Enhanced Robotic Dexterity
+  date: 2026-03
+  url: https://doi.org/10.1002/advs.202524321
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Yujie Huang
+  - Huangzhe Dai
+  - Chengqian Zhang
+  abstract: ABSTRACT Magnetic tactile sensor with centripetally magnetization designs
+    is capable of efficient 3D force decoupling sensing, which is essential for advancing
+    robotic dexterity. Nevertheless, the min
+  venue: Advanced Science
+- title: Hong Kong Operation Robot for Chang‘E-8 Mission
+  date: 2026-07
+  url: https://doi.org/10.5194/epsc2026-1285
+  category: manipulation
+  subcategory: application
+  authors:
+  - Yang Gao
+  abstract: The Hong Kong Operation Robot (HKOR) is currently under development led
+    by InnoHK Hong Kong Space Robotics &amp; Energy Centre for China’s Chang’E-8 lunar
+    mission. Chang‘E-8 is scheduled to land in th
+  venue: ''
+- title: Design and miniaturization of an ultra-fine multi-degree-of-freedom robotic
+    instrument for ophthalmic minimally invasive microsurgery
+  date: 2026-05
+  url: https://doi.org/10.1186/s40648-026-00349-2
+  category: manipulation
+  subcategory: mechanism
+  authors:
+  - Makoto Jinno
+  - Ryosuke NONOYAMA
+  - Iulian Iordachita
+  abstract: Abstract Minimally invasive surgery (MIS) has transformed surgical practice
+    by reducing patient trauma and improving postoperative outcomes. In laparoscopic
+    surgery, these benefits have been further e
+  venue: ROBOMECH Journal
+- title: Generalization of finger-joint kinematics for cleaning tasks
+  date: 2026-02
+  url: https://doi.org/10.3389/frobt.2026.1725261
+  category: manipulation
+  subcategory: method
+  authors:
+  - Clara Pham
+  - Jan‐Philipp Tauscher
+  - Colin Groth
+  abstract: Achieving robust, dexterous manipulation in unstructured environments
+    remains a central challenge in robotics, particularly for continuous, contact-rich
+    tasks like cleaning. While motion primitives ca
+  venue: Frontiers in Robotics and AI
+- title: 'KISP Hand: Space Gripper for On-Orbit Servicing Missions'
+  date: 2026-05
+  url: https://doi.org/10.3390/aerospace13060513
+  category: manipulation
+  subcategory: mechanism
+  authors:
+  - Taewon Choi
+  - Daehee Won
+  - Byung-Rok So
+  abstract: In this paper, an engineering model (EM) of a multi-joint space gripper
+    for on-orbit servicing (OOS) is proposed. OOS missions demand robotic systems
+    capable of reliable physical interactions under dy
+  venue: Aerospace
+- title: 'Jumping in legged robots: A review of advances in jumping abilities, methods,
+    challenges, and future directions'
+  date: 2026-03
+  url: https://doi.org/10.1016/j.robot.2026.105434
+  category: locomotion
+  subcategory: method
+  authors:
+  - Jingshuo Xie
+  - Hui Liu
+  - Shida Nie
+  abstract: ''
+  venue: Robotics and Autonomous Systems
+- title: Agile legged locomotion in reconfigurable modular robots
+  date: 2026-03
+  url: https://doi.org/10.1073/pnas.2519129123
+  category: locomotion
+  subcategory: development
+  authors:
+  - Chen Yu
+  - David Matthews
+  - Jingxian Wang
+  abstract: Legged machines are becoming increasingly agile and adaptive, but they
+    have so far lacked the morphological diversity of legged animals, which have been
+    rearranged and reshaped to fill millions of nic
+  venue: Proceedings of the National Academy of Sciences
+- title: 'Locomotion on three legs: the tripedal gaits of canine amputees'
+  date: 2026-04
+  url: https://doi.org/10.52843/cassyni.tcr2v6
+  category: locomotion
+  subcategory: theory
+  authors:
+  - Zoe Self Davies
+  abstract: The bipedal and quadrupedal gaits of mammals are largely well-characterised,
+    however, with no true, naturally occurring tripedal gaits, locomotion on three
+    legs is not well understood. Understanding t
+  venue: ''
+- title: An Intrinsically Multimodal Self‐Powered Sensor Enhanced by Microstructured
+    Powder Layer for AI‐Enabled Tactile Perception
+  date: 2026-03
+  url: https://doi.org/10.1002/idm2.70045
+  category: perception
+  subcategory: theory
+  authors:
+  - Kequan Xia
+  - Song Yang
+  - Dong Qiang
+  abstract: ABSTRACT Artificial intelligence (AI)‐powered robots increasingly rely
+    on advanced tactile sensors to perceive and interpret complex mechanical cues,
+    enabling intelligent interaction with real‐world e
+  venue: Interdisciplinary materials
+- title: A Folded, Structure‐Integrated Bimodal Sensor Enabling Non‐Contact and Tactile
+    Perception for Intelligent Robots
+  date: 2026-05
+  url: https://doi.org/10.1002/advs.75868
+  category: perception
+  subcategory: application
+  authors:
+  - Weixiong Yang
+  - Yuhan Guo
+  - Mingguang Han
+  abstract: ABSTRACT The rapid advancement of embodied intelligent robots demands
+    accurate perception and integration of diverse environmental cues. However, current
+    multimodal sensing systems are hindered by com
+  venue: Advanced Science
+- title: Bionic Tursiops Truncatus-inspired dual-mode sensor for proximity sensing
+    and high-resolution tactile perception
+  date: 2026-05
+  url: https://doi.org/10.1016/j.cej.2026.177786
+  category: perception
+  subcategory: systems
+  authors:
+  - Hang Yu
+  - Xu Zhao
+  - Haowen Chen
+  abstract: ''
+  venue: Chemical Engineering Journal
+- title: 'CLTP: Contrastive Language-Tactile Pre-training for 3D contact geometry
+    understanding'
+  date: 2026-03
+  url: https://doi.org/10.1016/j.birob.2026.100324
+  category: perception
+  subcategory: method
+  authors:
+  - Wenxuan Ma
+  - Xiaoge Cao
+  - Yixiang Zhang
+  abstract: Recent advancements in integrating tactile sensing with vision-language
+    models (VLMs) have demonstrated remarkable potential for robotic multimodal perception.
+    However, existing tactile descriptions r
+  venue: Biomimetic Intelligence and Robotics
+- title: High-resolution flexible tactile sensors
+  date: 2026-06
+  url: https://doi.org/10.20517/ss.2026.77
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Zicheng Shen
+  - Hui Wu
+  - Yuyu Hou
+  abstract: Flexible tactile sensors serve as the essential sensory interfaces for
+    compliant physical interaction in advanced intelligent systems, such as embodied
+    intelligence robotics and smart wearable devices
+  venue: Soft Science
+- title: Mechanoreceptor-inspired multisensory fibers for artificial somatosensation
+  date: 2026-02
+  url: https://doi.org/10.1038/s41528-026-00555-3
+  category: perception
+  subcategory: method
+  authors:
+  - Sungha Jeon
+  - Jungjoon Lee
+  - Joonhee Won
+  abstract: Abstract Human somatosensation arises from one-dimensional (1D) nerve
+    bundles that compactly transmit multimodal sensory signals along linear pathways,
+    where proprioceptive and tactile receptors are i
+  venue: npj Flexible Electronics
+- title: 'Tactile sensing for material identification in robotics: a review of piezoelectric,
+    triboelectric and multimodal approaches'
+  date: 2026-06
+  url: https://doi.org/10.7148/2026-0133
+  category: perception
+  subcategory: method
+  authors:
+  - Axel Renard
+  - Rayane Yettefti Oulad Sellam
+  - Filippo Sanfilippo
+  abstract: 'Tactile sensing has become a key enabler of advanced robotic perception,
+    complementing vision for manipulation and physical interaction. Material identification
+    through touch—distinguishing plastics, '
+  venue: ''
+- title: Speckle Skin‐Based Multimodal Tactile Perception for Fine Robotic Manipulation
+  date: 2026-05
+  url: https://doi.org/10.1002/aisy.70420
+  category: perception
+  subcategory: method
+  authors:
+  - Junhua Zhang
+  - Chong Wang
+  - Yingao Xu
+  abstract: Tactile sensing is crucial for providing physical interaction between
+    the robotic hand and objects, enabling effective and safe grasping and manipulation.
+    Vision‐based tactile sensors have gained incr
+  venue: Advanced Intelligent Systems
+- title: Neuro-inspired tactile system for robotic embodied perception
+  date: 2026-03
+  url: https://doi.org/10.1016/j.cej.2026.174954
+  category: perception
+  subcategory: development
+  authors:
+  - Yiyang Li
+  - Ning Li
+  - Herong Wang
+  abstract: ''
+  venue: Chemical Engineering Journal
+- title: Applications and Challenges of Tactile Sensing Technology in Robotic Grasping
+  date: 2026-05
+  url: https://doi.org/10.54254/2755-2721/2026.gu33613
+  category: perception
+  subcategory: application
+  authors:
+  - Jingyan Suo
+  abstract: The ability to grasp is what turns a robot from a passive observer into
+    something that can act on the world—and how intelligently it grasps hinges, above
+    all, on how well it perceives. For a long time
+  venue: Applied and Computational Engineering
+- title: Robotic Tactile Sensing for Early Detection of Frost-Damaged Citrus Fruits
+    with Pressure–Vibration Multimodal Fusion
+  date: 2026-05
+  url: https://doi.org/10.3390/foods15091597
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Yida Yu
+  - Zihao Wu
+  - Changqing An
+  abstract: Early-stage frost damage in citrus fruits is difficult to detect because
+    external symptoms are often weak or absent, hindering intelligent robotic sorting
+    in postharvest scenarios. To address this cha
+  venue: Foods
+- title: A Fully Silicone Flexible Self-Powered Teng Tactile Skin for Multimodal Sensing
+    and Material Recognition on Robotic Hands
+  date: 2026-07
+  url: https://doi.org/10.1149/ma2026-01341594mtgabs
+  category: perception
+  subcategory: theory
+  authors:
+  - Sheng Chun Hung
+  - Zong‐Hong Lin
+  abstract: In this work, we have developed a fully compliant, silicone-based triboelectric
+    nanogenerator (TENG) “skin” that conformally covers a robotic hand and realizes
+    a self-powered tactile sensing system. T
+  venue: ECS Meeting Abstracts
+- title: Multimodal Autonomous Navigation by Fusing Visual and Tactile Perception
+    for Deformable Obstacle Traversal
+  date: 2026-05
+  url: https://doi.org/10.63313/ajet.9056
+  category: perception
+  subcategory: method
+  authors:
+  - ZiTong Zhou
+  abstract: 'Autonomous mobile robots predominantly rely on visual perception for
+    obstacle avoidance, which inherently treats all detected obstacles as rigid and
+    impenetrable. However, in real-world environments, '
+  venue: Academic Journal of Emerging Technologies
+- title: Bifurcation-Gated Kresling Origami Triboelectric Mechanoreceptor Enabling
+    Self-Powered Multimodal Tactile Sensing for Intelligent Human-Robot Interaction
+  date: 2026-08
+  url: https://doi.org/10.1016/j.nanoen.2026.112280
+  category: perception
+  subcategory: theory
+  authors:
+  - Yu-seop Kim
+  - Junsang Yoon
+  - Sumin Cho
+  abstract: ''
+  venue: Nano Energy
+- title: A liquid metal film-based passive tactile sensor for robotic perception
+  date: 2026-04
+  url: https://doi.org/10.1007/s11431-025-3177-6
+  category: perception
+  subcategory: systems
+  authors:
+  - Mingyuan Sun
+  - Du-An Ge
+  - G L
+  abstract: ''
+  venue: Science China Technological Sciences
+- title: Multimodal Electronic Skin Integrating Discrete Wavelet Transform and Deep
+    Learning for Accurate Tactile Perception
+  date: 2026-04
+  url: https://doi.org/10.1002/adfm.75219
+  category: perception
+  subcategory: method
+  authors:
+  - Hui Kong
+  - Xingguang Chen
+  - Guanghao Huang
+  abstract: 'ABSTRACT Electronic skin, as a key technology for enabling robots and
+    wearable devices to perceive the external environment and achieve intelligent
+    interaction, faces the core challenge of developing '
+  venue: Advanced Functional Materials
+- title: 'TouchWGNN: spatio-temporal tactile perception for multimodal dexterous manipulation'
+  date: 2026-06
+  url: https://doi.org/10.3389/frobt.2026.1791424
+  category: perception
+  subcategory: method
+  authors:
+  - 余 宁 YU Ning
+  - Fuqiang Zhao
+  - Q Liu
+  abstract: Dexterous in-hand manipulation requires robotic hands to estimate object-state
+    reliably under frequent occlusions, contact-rich interactions, and fast dynamics.
+    Tactile sensing provides high-frequency
+  venue: Frontiers in Robotics and AI
+- title: A single-element multimodal tactile interface with geometric signal encoding
+    for robust robotic material and slip intelligence
+  date: 2026-05
+  url: https://doi.org/10.1016/j.nanoen.2026.112076
+  category: perception
+  subcategory: evaluation
+  authors:
+  - Junling Zhang
+  - Tianci Huang
+  - Junyi Ren
+  abstract: ''
+  venue: Nano Energy
+- title: Special Issue on Tactile and Proximity Sensing
+  date: 2026-06
+  url: https://doi.org/10.20965/jrm.2026.p0681
+  category: perception
+  subcategory: method
+  authors:
+  - Yosuke Suzuki
+  - Hikaru Arita
+  - Akio Namiki
+  abstract: In recent years, there has been a paradigm shift in robotics and autonomous
+    systems, with the transition from preprogrammed, structured environments to highly
+    dynamic and unstructured real-world setti
+  venue: Journal of Robotics and Mechatronics
+- title: Flexible 3D Tactile Sensor With Cube‐Shaped Microstructure for Multimodal
+    Force‐Temperature Decoupled Perception for Soft Robotic Hands
+  date: 2026-07
+  url: https://doi.org/10.1002/adsr.202600003
+  category: perception
+  subcategory: theory
+  authors:
+  - Ziwei Liang
+  - Ziheng Wang
+  - Xingwei Zhao
+  abstract: ABSTRACT Realizing human‐like tactile perception is a long‐standing goal
+    for robotic research. Benefiting from advances in materials science, normal‐force
+    and pressure sensing have enabled robots to p
+  venue: Advanced Sensor Research
+- title: A review of adaptive intelligence in tactile sensing robotic hands for human
+    centered dexterous control
+  date: 2026-05
+  url: https://doi.org/10.1007/s44245-026-00275-y
+  category: perception
+  subcategory: method
+  authors:
+  - Mohammed R. Ahmed
+  - Sadeq H. Bakhy
+  - Ihsan A. Baqer
+  abstract: Abstract The development of dexterous hands that can accommodate and reason
+    about contact uncertainty—rather than blindly following pre-planned trajectories—remains
+    one of the most consequential unsol
+  venue: Discover Mechanical Engineering
+- title: 'Bioinspired perception: Advancements for underwater robots'
+  date: 2026-05
+  url: https://doi.org/10.1016/j.oceaneng.2026.125943
+  category: perception
+  subcategory: theory
+  authors:
+  - Fei Nie
+  - Chuang Zhang
+  - Qi Zhang
+  abstract: ''
+  venue: Ocean Engineering
+- title: 'Multimodal Haptic Object Recognition: Can Kinesthetic Inference Compensate
+    for the Lack of Tactile Sensing Resolution?'
+  date: 2026-04
+  url: https://doi.org/10.1109/jsen.2026.3684076
+  category: perception
+  subcategory: method
+  authors:
+  - Francisco Pastor
+  - Da-Hui Lin-Yang
+  - Alfonso J. García-Cerezo
+  abstract: Haptic perception arises from the integration of cutaneous and kinesthetic
+    cues, yet achieving human-level tactile performance in robotic systems remains
+    technically demanding and economically costly.
+  venue: IEEE Sensors Journal
+- title: Intrinsic Force–TemperatureSelf-DecouplingEnables Human-like Tactile Sensing
+    in a Soft Ionic Skin
+  date: 2026-07
+  url: https://doi.org/10.1021/acsnano.6c09063
+  category: perception
+  subcategory: theory
+  authors:
+  - Yu Feng
+  - Jiankun Li
+  - Cong Wu
+  abstract: Soft dual-modal tactile sensors capable of simultaneously sensing force
+    and temperature are essential for enhancing human-like perception and interaction
+    in robots, particularly in the functional sens
+  venue: ACS Nano
+- title: 'FG-CLTP: Fine-Grained Contrastive Language Tactile Pretraining for Robotic
+    Manipulation'
+  date: 2026-03
+  url: https://arxiv.org/abs/2603.10871
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Wenxuan Ma
+  - Chaofan Zhang
+  - Yinghao Cai
+  abstract: Recent advancements in integrating tactile sensing into vision-language-action
+    (VLA) models have demonstrated transformative potential for robotic perception.
+    However, existing tactile representations
+  venue: arXiv (Cornell University)
+- title: 'Flexible tactile sensors toward intelligent perception: Mechanisms, architectures
+    and functional applications'
+  date: 2026-05
+  url: https://doi.org/10.1016/j.cej.2026.177827
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Jiaqi Li
+  - Jie Li
+  - Zhenmin Ding
+  abstract: ''
+  venue: Chemical Engineering Journal
+- title: 'TactEx: An Explainable Multimodal Robotic Interaction Framework for Human-Like
+    Touch and Hardness Estimation'
+  date: 2026-02
+  url: https://arxiv.org/abs/2602.18967
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Felix Verstraete
+  - Lan Wei
+  - Wen Fan
+  abstract: Accurate perception of object hardness is essential for safe and dexterous
+    contact-rich robotic manipulation. Here, we present TactEx, an explainable multimodal
+    robotic interaction framework that unif
+  venue: arXiv (Cornell University)
+- title: Object Shape Recognition Using Sparse Soft Capacitive Tactile Sensors for
+    Robotic Hands
+  date: 2026-07
+  url: https://doi.org/10.20944/preprints202607.0606.v1
+  category: perception
+  subcategory: theory
+  authors:
+  - Xinmeng Ding
+  - Yuting Zhu
+  - Mengdi Chen
+  abstract: Reliable tactile object‑shape recognition on robotic hands is often achieved
+    using dense sensor arrays or vision‑based tactile skins, which increase fabrication
+    complexity and computational cost. This
+  venue: Preprints.org
+- title: Multimodal Vision-Haptic Fusion and Bio-Haptic Intelligence for AI-Driven
+    Surgical Robotics
+  date: 2026-05
+  url: https://doi.org/10.4018/979-8-2600-0358-9.ch005
+  category: perception
+  subcategory: method
+  authors:
+  - Shikha Chaudhary
+  - Vineet Vishnoi
+  - Mohan Vishal Gupta
+  abstract: Recent advancements in artificial intelligence (AI), robotics, and biomedical
+    sensing are transforming modern surgical practices. Bio-haptic intelligence integrates
+    biological sensing, haptic feedback
+  venue: Advances in computational intelligence and robotics book series
+- title: Integrated in-memory and near-memory sensor for bionic robot perception
+  date: 2026-04
+  url: https://doi.org/10.1016/j.mattod.2026.103345
+  category: perception
+  subcategory: systems
+  authors:
+  - Qian Ding
+  - Xinkai Xie
+  - Zheng TONG
+  abstract: ''
+  venue: Materials Today
+- title: Multimodal Haptic Perception Through Synergistic Nanocomposite Sensor Arrays
+  date: 2026-05
+  url: https://doi.org/10.1002/admt.202600010
+  category: perception
+  subcategory: application
+  authors:
+  - Amos Bardea
+  - Fernando Patolsky
+  abstract: ABSTRACT We report a multimodal haptic sensing paradigm based on a synergistic
+    polydimethylsiloxane (PDMS) and multiwall carbon nanotubes (MWCNTs) doped with
+    nickel nanoparticles (NiNPs), integrated i
+  venue: Advanced Materials Technologies
+- title: 3D-printed coaxial intelligent fibers with multimodal sensing capabilities
+    for e-skin
+  date: 2026-04
+  url: https://doi.org/10.1016/j.cej.2026.176102
+  category: perception
+  subcategory: theory
+  authors:
+  - Huilan Jing
+  - Junjian Li
+  - H. Z. Zheng
+  abstract: ''
+  venue: Chemical Engineering Journal
+- title: Synergistic Integration of Artificial Merkel Disc and Meissner Corpuscle
+    via Dermal Papillary Structures for Mechanically Filtered Multimodal Tactile Sensing
+  date: 2026-06
+  url: https://doi.org/10.1002/advs.76069
+  category: perception
+  subcategory: development
+  authors:
+  - Jaehyeong Kim
+  - Bohee Maeng
+  - Seunghwan Seo
+  abstract: Human skin efficiently perceives tactile stimuli through specialized mechanoreceptors
+    strategically arranged around the papillary structure at the epidermis-dermis
+    junction. Here, we demonstrate a coo
+  venue: Advanced Science
+- title: '3DA-VTG: An Explicitly Aligned Visuo-Tactile Grasp Dataset and Dual-Branch
+    Fusion Method for Robotic Stable Grasp'
+  date: 2026-03
+  url: https://doi.org/10.1016/j.cjme.2026.100283
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Yong Tao
+  - Yiru Wang
+  - Haitao Liu
+  abstract: Recent advances in multimodal technologies and tactile sensing have spurred
+    increasing interest in visuo-tactile fusion for enhancing in-contact robotic grasping
+    performance. However, existing visual-
+  venue: Chinese Journal of Mechanical Engineering
+- title: 'Tactile electronic skin: From mechanical perception to intelligent interfaces'
+  date: 2026-06
+  url: https://doi.org/10.1016/j.sna.2026.118150
+  category: perception
+  subcategory: theory
+  authors:
+  - Jincheng Wu
+  - Wenhao Shi
+  - Xiaoguang Hu
+  abstract: ''
+  venue: Sensors and Actuators A Physical
+- title: Robust bionic distributed multimodal flexible sensor for extreme-condition
+    sensing and intelligent operation
+  date: 2026-04
+  url: https://doi.org/10.1038/s44172-026-00653-0
+  category: perception
+  subcategory: method
+  authors:
+  - Baijin Mao
+  - Yedong Huang
+  - Yuyaocen Xiang
+  abstract: Traditional multimodal flexible sensors struggle with system integration,
+    limited node scalability, and overall robustness, posing multiple critical challenges.
+    Inspired by the tiger-shark scalp, we p
+  venue: Communications Engineering
+- title: Thin and soft optical tactile sensor for highly sensitive object perception
+  date: 2026-05
+  url: https://doi.org/10.1364/oe.592013
+  category: perception
+  subcategory: method
+  authors:
+  - Yanchen Shen
+  - Kohei Tsuji
+  - Haruto Koizumi
+  abstract: Tactile sensing is essential for enabling safe and reliable interaction
+    in robotics and wearable systems. Among various approaches, optical tactile sensors
+    are particularly attractive due to their imm
+  venue: Optics Express
+- title: 'Haptics in Robotics: A Systematic Literature Review'
+  date: 2026-06
+  url: https://doi.org/10.3233/shti260905
+  category: perception
+  subcategory: method
+  authors:
+  - Zannatul Ferdousee
+  - Arshia Khan
+  abstract: Tactile sensing has emerged as a critical capability for robotic systems
+    in contact-rich environments where vision and position control alone are insufficient.
+    Following PRISMA 2020 guidelines, this r
+  venue: Studies in health technology and informatics
+- title: A Multimodal Sensor-Vision Fusion Dataset for Robotic Task Classification
+    and Behavior Analysis in Industrial Environments
+  date: 2026-03
+  url: https://doi.org/10.65282/imke.vol.1.issue.02.038
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Ajinkya Salve
+  - M. Bn. Fanisam
+  - Digambar Chaudhari
+  abstract: Reliable classification of robotic task outcomes in industrial environments
+    requires perception frameworks capable of integrating heterogeneous sensor and
+    visual modalities.This study presents an orig
+  venue: International Multidisciplinary Knowledge Exchange Journal
+- title: A Haptic Robot Finger Designed for Guqin Instrument Playing
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.07002
+  category: perception
+  subcategory: application
+  authors:
+  - Tianwei Zhang
+  - Hanming Yan
+  - Yang Yang. Ziya Wang
+  abstract: 'With the rapid advancement of humanoid robotics and embodied intelligence
+    technologies, numerous musical instrument-playing robots have emerged in recent
+    years, such as pianos, chime bells, and taiko '
+  venue: arXiv (Cornell University)
+- title: Synergy-Driven Flexible Fragile Object Slip Detection Enhanced by Visuo-Tactile
+    Abstract Representation Fusion
+  date: 2026-03
+  url: https://doi.org/10.1109/jsen.2026.3672447
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Kai Deng
+  - Mingyou Chen
+  - Huiling Wei
+  abstract: 'Accurate perception of the environment is paramount in robotic manipulation,
+    driving an increasing reliance on multimodal sensing systems. Vision and tactile
+    sensing emerge as two pivotal modalities; '
+  venue: IEEE Sensors Journal
+- title: Triboelectric Tactile Sensors for Intelligent Systems
+  date: 2026-05
+  url: https://doi.org/10.1002/sys3.70023
+  category: perception
+  subcategory: theory
+  authors:
+  - Du Y
+  - Daping Chu
+  - Gehan Amaratunga
+  abstract: Tactile perception underpins high-dimensional HMIs, integrating mechanical
+    and thermal stimuli into rich, multiscale sensory and cognitive information [1-3].
+    Beyond direct physical interactions, touch
+  venue: SmartSys
+- title: Self‐Driven Hybrid Piezomagnetic–Iontronic Mechanoreceptors for Bimodal SA/RA
+    Perception and Tactile Synthesis
+  date: 2026-07
+  url: https://doi.org/10.1002/smll.74799
+  category: perception
+  subcategory: method
+  authors:
+  - Kyoung‐Yong Chun
+  - Sang Hyun Lee
+  - Joongmi Kim
+  abstract: ABSTRACT Artificial tactile systems increasingly use independent transduction
+    of slow‐adapting (SA) signals from static pressure and rapid‐adapting (RA) signals
+    from dynamic vibrations, aiming to mimi
+  venue: Small
+- title: 'TouchReal: an online neuromorphic tactile framework for biomimetic afferent
+    spike generation based on TouchSim'
+  date: 2026-08
+  url: https://doi.org/10.1088/2634-4386/ae98b0
+  category: perception
+  subcategory: mechanism
+  authors:
+  - X. X. Xu
+  - Hannes P. Saal
+  - Benjamin Ward-Cherrier
+  abstract: Abstract Robotic tactile sensors usually provide continuous, sensor-specific
+    signals such as force, pressure, or vibration. Although such signals are useful
+    for many perception tasks, they are not dir
+  venue: Neuromorphic Computing and Engineering
+- title: 'A Review of Intelligent Identification Technologies for the Collection of
+    Tree-Derived Bio-Based Polymer Materials: Multimodal Perception and Machine Learning
+    Methods'
+  date: 2026-06
+  url: https://doi.org/10.3390/f17060727
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Hanyun Gao
+  - Meng Xia
+  - Xinhao Feng
+  abstract: Tree-derived bio-based polymer materials, including natural rubber, raw
+    lacquer, pine resin, and tree gums, are important renewable resources for sustainable
+    forestry and green manufacturing. However,
+  venue: Forests
+- title: Localization Based Grasping for Robotic Grippers
+  date: 2026-03
+  url: https://doi.org/10.54097/948twa81
+  category: perception
+  subcategory: method
+  authors:
+  - S. Li
+  abstract: To meet the demands of grasping in complex environments, robotic grippers
+    are moving from traditional open-loop control to perception-based closed-loop
+    localization for grasping. Open-loop control lac
+  venue: Academic Journal of Science and Technology
+- title: Neuromorphic AI-Based e-Skin for Emotion-Sensitive Humanoid Robots
+  date: 2026-05
+  url: https://doi.org/10.3390/engproc2026124114
+  category: perception
+  subcategory: method
+  authors:
+  - Shubham Gupta
+  - Suhaib Ahmed
+  abstract: Humanoid robots operating in proximity to humans require the ability to
+    perceive and interpret emotional cues conveyed through touch to achieve safe,
+    natural, and socially intelligent interaction. Con
+  venue: ''
+- title: Recent progresses on multifunctional tactile sensors for electronic skins
+    and human-machine interaction applications
+  date: 2026-03
+  url: https://doi.org/10.1016/j.snr.2026.100459
+  category: perception
+  subcategory: theory
+  authors:
+  - Zilu Xue
+  - Jie Du
+  abstract: '• Systematically integrates four core sensing mechanisms with cutting-edge
+    material innovations (2019–2025) : For the first time, it categorizes piezoelectric,
+    piezoresistive, triboelectric, and capac'
+  venue: Sensors and Actuators Reports
+- title: Edge-intelligent bimodal iontronic skin for human−robot collaboration
+  date: 2026-03
+  url: https://doi.org/10.1093/nsr/nwag194
+  category: perception
+  subcategory: method
+  authors:
+  - Daewon Yoon
+  - Dae-Hyeong Kim
+  abstract: 'Human–machine interaction requires sensing systems that can detect physical
+    stimuli and translate them into actionable signals for real-time control and decision-making
+    [1,2]. Recent advances in soft '
+  venue: National Science Review
+- title: Intrinsic Environmental Referencing in Coaxial Nanofiber Yarns Enables Humidity‐Robust
+    Triboelectric Tactile Recognition
+  date: 2026-08
+  url: https://doi.org/10.1002/adfm.77610
+  category: perception
+  subcategory: method
+  authors:
+  - Qijie Qiu
+  - Si Meng
+  - Qiuxiang Xiao
+  abstract: ABSTRACT Triboelectric tactile sensors coupled with machine learning achieve
+    high material recognition accuracy under controlled conditions, but ambient humidity
+    introduces a domain shift that degrade
+  venue: Advanced Functional Materials
+- title: 'Advances in material design and applications of electronic skins: From human
+    body to embodied intelligent robots'
+  date: 2026-07
+  url: https://doi.org/10.1016/j.pmatsci.2026.101786
+  category: perception
+  subcategory: application
+  authors:
+  - Ke Xu
+  - Kai Ke
+  - Yi‐Di Hu
+  abstract: ''
+  venue: Progress in Materials Science
+- title: Multimodal Flexible Sensors Based on Porous Laser-Induced Graphene with Tunable
+    Thermal Therapy and Haptic Perception
+  date: 2026-07
+  url: https://doi.org/10.1021/acsaelm.6c00853
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Chun-Li Luo
+  - Shuxin Ren
+  - Zhao Wei
+  abstract: Abstract Laser-induced technology on polyimide(PI) substrates, as an effective
+    and simple method, is used to prepare patterned and large-area graphene for application
+    in healthcare monitoring and huma
+  venue: ACS Applied Electronic Materials
+- title: High-Precision 3-D Reconstruction of a Vision-Based Tactile Sensor Using
+    a Dense Color Marker Array
+  date: 2026-03
+  url: https://doi.org/10.1109/jsen.2026.3675787
+  category: perception
+  subcategory: method
+  authors:
+  - Jianhua Shan
+  - Weikang Wang
+  - Yifan Gui
+  abstract: In the field of tactile sensors, the key issues limiting the accuracy
+    of 3D reconstruction have been the low density of markers, insufficient sensor
+    sensitivity, and the difficulty of reliably matchin
+  venue: IEEE Sensors Journal
+- title: Bioinspired Rheological Sensing for Robotic Liquid Identification in Sealed
+    Containers via Ultrafast Incipient Slip Detection
+  date: 2026-07
+  url: https://doi.org/10.1002/adma.73955
+  category: perception
+  subcategory: method
+  authors:
+  - Huiwen Ren
+  - Wangyang Li
+  - Hexin Li
+  abstract: ABSTRACT The rapid, non‐invasive identification of sealed liquids is crucial
+    for ensuring counter‐terrorism security and improving operational efficiency in
+    various scenarios such as airports and larg
+  venue: Advanced Materials
+- title: Aligned electrospun nanofiber-engineered triboelectric interface for non-acoustic
+    human-robot communication and material-adaptive manipulation
+  date: 2026-08
+  url: https://doi.org/10.1016/j.compositesb.2026.114060
+  category: perception
+  subcategory: systems
+  authors:
+  - Parag Parashar
+  - Yu‐Hao Lee
+  - Bishal Kumar Nahak
+  abstract: ''
+  venue: Composites Part B Engineering
+- title: AI-Driven Bio-Haptic Feedback Architectures for Semi-Autonomous Surgical
+    Robotic Systems
+  date: 2026-05
+  url: https://doi.org/10.4018/979-8-2600-0358-9.ch007
+  category: perception
+  subcategory: method
+  authors:
+  - Shubneet
+  - Anushka Raj Yadav
+  - Ahmed A. Elngar
+  abstract: This chapter presents AI-driven bio-haptic feedback architectures that
+    advance surgical robotics into semi-autonomous systems. The research demonstrates
+    how multimodal sensing systems that include for
+  venue: Advances in computational intelligence and robotics book series
+- title: 'Manufacturing, Sensing, and Applications of Data Gloves: A Review'
+  date: 2026-04
+  url: https://doi.org/10.1109/jsen.2026.3681433
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Songwen Shao
+  - Mengde Li
+  - Yueming Hu
+  abstract: Data gloves have emerged as essential wearable interfaces for capturing
+    hand motion and enabling natural human-computer interaction. This review traces
+    their evolution from early mechanical and optica
+  venue: IEEE Sensors Journal
+- title: From Proximity toContact Perception of PiezoelectricExtended-Gate Amorphous
+    Oxide Thin Film Transistors
+  date: 2026-04
+  url: https://figshare.com/articles/journal_contribution/From_Proximity_to_Contact_Perception_of_Piezoelectric_Extended-Gate_Amorphous_Oxide_Thin_Film_Transistors/32127269
+  category: perception
+  subcategory: application
+  authors:
+  - Chenru Zhao
+  - Jiawei Xu (394968)
+  - Wanxun Li
+  abstract: In consumer electronics and industrial electronics today, transistors
+    are common devices. With the rapid development of electronic skin and wearable
+    electronics, there has been an escalating demand to
+  venue: Figshare
+- title: From Proximity to Contact Perception of Piezoelectric Extended-Gate Amorphous
+    Oxide Thin Film Transistors
+  date: 2026-04
+  url: https://doi.org/10.1021/acsami.6c00084
+  category: perception
+  subcategory: application
+  authors:
+  - Chenru Zhao
+  - Jiawei Xu
+  - Wanxun Li
+  abstract: In consumer electronics and industrial electronics today, transistors
+    are common devices. With the rapid development of electronic skin and wearable
+    electronics, there has been an escalating demand to
+  venue: ACS Applied Materials & Interfaces
+- title: 'Multidimensional Parameter Monitoring and Cross-Sensitivity Decoupling in
+    Force-Sensing Optical Fibers: Mechanisms, Algorithms, and Experimental Validation'
+  date: 2026-06
+  url: https://doi.org/10.62517/jes.202602226
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Xin Liu
+  - Zhonglin Xu
+  - Tao He
+  abstract: The demand for high-precision, multi-analyte sensing in complex environments
+    has established optical fiber sensors as a cornerstone technology for intelligent
+    robotics, structural health monitoring, a
+  venue: Journal of engineering system.
+- title: Smart Gripper with Triboelectric Sensors and Data-driven Machine Learning
+    for Object Classification
+  date: 2026-05
+  url: https://nur.nu.edu.kz/handle/123456789/18910
+  category: perception
+  subcategory: method
+  authors:
+  - Sabyrzhan Oralkhan
+  abstract: Reliable material recognition during robotic grasping remains challenging
+    when visual perception is degraded by poor illumination, occlusion, or similarity
+    in object appearance, such as in the case of
+  venue: Nazarbayev University Repository (Nazarbayev University)
+- title: 'Tabero: Learning Gentle Manipulation with Closed-Loop Force Feedback from
+    Vision, Touch, and Language'
+  date: 2026-05
+  url: https://arxiv.org/abs/2605.27886
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Qiwei Wu
+  - Rui Zhang
+  - Xin Xiang
+  abstract: Tactile sensing is essential for robots to achieve human-like gentle manipulation.
+    However, existing Vision-Language-Action (VLA) models struggle to exploit tactile
+    feedback for gentle manipulation du
+  venue: arXiv (Cornell University)
+- title: Strain-localized luminescent e-skin for high-resolution pressure mapping
+    and visual force feedback
+  date: 2026-05
+  url: https://doi.org/10.1038/s41467-026-73073-5
+  category: perception
+  subcategory: theory
+  authors:
+  - Zixiong Wu
+  - Shuwen Chen
+  - Shicheng Fan
+  abstract: Electronic skins (e-skins) that emulate human intuitive tactile perception
+    with visual feedback capabilities are vital for next-generation wearables, robotics,
+    and biomedical applications. However, ex
+  venue: Nature Communications
+- title: Pressure-Dependent Facial Expression Control Using Calibrated Force-Sensitive
+    Sensors
+  date: 2026-07
+  url: https://doi.org/10.3390/hardware4030013
+  category: perception
+  subcategory: method
+  authors:
+  - Naoya Morikawa
+  - Emi Yuda
+  abstract: This study presents a compact affective sensing system that converts physical
+    touch into intuitive multimodal feedback through dynamic facial expressions and
+    optional audio responses. The system was d
+  venue: Hardware
+- title: 'Tutkimus deformoituvien objektien robottimanipulaatiosta: Havaitseminen,
+    mallintaminen, suunnittelu ohjaus'
+  date: 2026-05
+  url: https://aaltodoc.aalto.fi/handle/123456789/144904
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Daniel Söderlund
+  abstract: Many objects such as cloth, cables, food items, and biological tissues
+    deform constantly during interaction,making their manipulation a challenging problem
+    in robotics. Unlike rigid objects, deformabl
+  venue: Aaltodoc (Aalto University)
+- title: Integrating Structured Knowledge for State and Geometry Estimation
+  date: 2026-07
+  url: https://doi.org/10.1184/r1/33063812.v1
+  category: perception
+  subcategory: method
+  authors:
+  - Mohamad Qadri
+  abstract: Reliable state and geometry estimation from limited observations is a
+    fundamental challenge in robotics and perception. Observations are often noisy,
+    partial, or ambiguous, making estimation ill-posed
+  venue: KiltHub Repository
+- title: A Biomimetic Palpation Platform for the Quantitative and Non‐Invasive Assessment
+    of Tissue Compliance
+  date: 2026-05
+  url: https://doi.org/10.1002/adhm.71212
+  category: perception
+  subcategory: method
+  authors:
+  - Junsu Kim
+  - Y M Lee
+  - Myoung-Ock Cho
+  abstract: Physiological palpation serves as a primary clinical modality for identifying
+    pathological changes in tissue compliance. However, its diagnostic precision is
+    inherently limited by the subjective natur
+  venue: Advanced Healthcare Materials
+- title: 'Review article: A review of control technologies for soft robots: from structural
+    design to intelligent control'
+  date: 2026-03
+  url: https://doi.org/10.5194/ms-17-313-2026
+  category: planning
+  subcategory: method
+  authors:
+  - Huijun Yu
+  - Min Lv
+  - Bin Hu
+  abstract: Abstract. Soft robots, with flexible materials and biomimetic structures,
+    show great potential in medical rehabilitation, the exploration of unstructured
+    environments, and precision operations. Howeve
+  venue: Mechanical sciences
+- title: 'Advancements and prospects in key technologies for robotic pollination in
+    greenhouse pepper breeding: a review'
+  date: 2026-02
+  url: https://doi.org/10.3389/fpls.2026.1778541
+  category: planning
+  subcategory: mechanism
+  authors:
+  - Minqiu Kuang
+  - Xiaojian Li
+  - Xiaojian Li
+  abstract: Robotic pollination represents a pivotal component of smart agriculture,
+    with foundational architectures for target recognition, path planning, and motion
+    control having been progressively established
+  venue: Frontiers in Plant Science
+- title: Optimal motion planning and decoupled control for autonomous mobile robots
+    based on minimum energy consumption
+  date: 2026-03
+  url: https://doi.org/10.1016/j.eswa.2026.131995
+  category: planning
+  subcategory: theory
+  authors:
+  - Xu Sun
+  - Ming Yue
+  - Xiang Li
+  abstract: ''
+  venue: Expert Systems with Applications
+- title: 'Towards the development of a robotic spraying arm: AI-based weed detection
+    and path planning strategies'
+  date: 2026-03
+  url: https://doi.org/10.1016/j.robot.2026.105443
+  category: planning
+  subcategory: theory
+  authors:
+  - Guifu Ma
+  - Seyed Mohamad Javidan
+  - Yiannis Ampatzidis
+  abstract: ''
+  venue: Robotics and Autonomous Systems
+- title: A subproblem-based hierarchical framework for multi-AUV cooperative motion
+    planning and robust control
+  date: 2026-03
+  url: https://doi.org/10.1016/j.oceaneng.2026.125111
+  category: planning
+  subcategory: method
+  authors:
+  - Jintao Zhao
+  - Tao Liu
+  - Junhao Huang
+  abstract: ''
+  venue: Ocean Engineering
+- title: Bio-Inspired Metaheuristics for Time-Optimal Trajectory Planning in Cooperative
+    Dual-Arm Bimanipulation
+  date: 2026-03
+  url: https://doi.org/10.3390/biomimetics11030173
+  category: planning
+  subcategory: theory
+  authors:
+  - Mario Peñacoba Yagüe
+  - Jesús-Enrique Sierra-García
+  - M. Santos-Peñas
+  abstract: This paper addresses the generation of time-efficient, collision-free
+    cooperative motions for a dual-arm robotic system transporting a shared payload
+    in constrained industrial workspaces. Trajectory g
+  venue: Biomimetics
+- title: A Riemannian take on distance fields and geodesic flows in robotics
+  date: 2026-03
+  url: https://doi.org/10.1177/02783649261420233
+  category: planning
+  subcategory: theory
+  authors:
+  - Yiming Li
+  - Jiacheng Qiu
+  - Sylvain Calinon
+  abstract: Distance functions are crucial in robotics for representing spatial relationships
+    between a robot and its environment. They provide an implicit, continuous, and
+    differentiable representation that inte
+  venue: The International Journal of Robotics Research
+- title: 'ECA-RRT*: A robotic arm path planning algorithm based on environment complexity
+    adaptive heuristic strategy'
+  date: 2026-02
+  url: https://doi.org/10.1016/j.jocs.2026.102820
+  category: planning
+  subcategory: theory
+  authors:
+  - Huiyuan Zhu
+  - Yingxue Wang
+  - Yingxue Wang
+  abstract: ''
+  venue: Journal of Computational Science
+- title: Motion trajectory planning for industrial robots based on BAS‑IPSO
+  date: 2026-05
+  url: https://doaj.org/article/60ab6477058145bdb750d24aaf79a8c2
+  category: planning
+  subcategory: theory
+  authors:
+  - YAO Jiangyun
+  - WANG Kuantian
+  - Bin Liu
+  abstract: ObjectiveTo address the mutual constraint between assembly efficiency
+    and assembly quality of robots in complex assembly scenarios, a beetle antennae
+    search (BAS) strategy was combined with the partic
+  venue: 'DOAJ (DOAJ: Directory of Open Access Journals)'
+- title: Control of a Polishing pResearch on Trajectory Planning and Motion Parallel
+    Robot for the Aspheric Optical Mirror
+  date: 2026-06
+  url: https://doi.org/10.1007/978-981-95-7904-4_72
+  category: planning
+  subcategory: theory
+  authors:
+  - Lunjia Zhang
+  - Shuai Fan
+  - Zelin Su
+  abstract: ''
+  venue: Mechanisms and machine science
+- title: Biomimetic Trajectory Planning and Implementation of Quadruped Robots Based
+    on Biological Motion Characteristics
+  date: 2026-05
+  url: https://doaj.org/article/3aca939e9cf1478f8adb5324a0d51465
+  category: planning
+  subcategory: theory
+  authors:
+  - CHEN Jiupeng
+  - Chunlei Li
+  - 伞红军 San Hongjun
+  abstract: ObjectiveQuadruped robots gain widespread attention in hazardous and complex
+    tasks such as search and rescue, mine clearance, and steep slope climbing due
+    to their superior terrain adaptability compar
+  venue: 'DOAJ (DOAJ: Directory of Open Access Journals)'
+- title: Motion Planning of a Mobile Robot Using Model Predictive Control
+  date: 2026-05
+  url: https://nur.nu.edu.kz/handle/123456789/18979
+  category: planning
+  subcategory: method
+  authors:
+  - Aray Zhaisanbek
+  - Sanzhar Kuandyk
+  abstract: Autonomous navigation in indoor environments requires robots to plan safe
+    and efficient trajectories while sharing space with humans and obstacles. Model
+    Predictive Control (MPC) has emerged as a powe
+  venue: Nazarbayev University Repository (Nazarbayev University)
+- title: TRAJECTORY OPTIMIZATION OF ROBOTS VIA MODEL PREDICTIVE CONTROL AND REINFORCEMENT
+    LEARNING
+  date: 2026-06
+  url: https://doi.org/10.62985/j.huit_ojs.vol26.no2e.413
+  category: planning
+  subcategory: method
+  authors:
+  - Le Anh Hao
+  - Vi Do Tran
+  abstract: Trajectory optimization for industrial robots remains a critical challenge
+    due to complex kinematic constraints, environmental disturbances, and strict real-time
+    performance requirements in modern aut
+  venue: Tạp chí Khoa học Đại học Công Thương.
+- title: Robotic arm trajectory planning based on a multi-strategy improved seagull
+    optimization algorithm
+  date: 2026-07
+  url: https://doi.org/10.1007/s11227-026-08730-z
+  category: planning
+  subcategory: method
+  authors:
+  - Tao Li
+  - Haodong Luo
+  - Shiwei Yang
+  abstract: ''
+  venue: The Journal of Supercomputing
+- title: Optimal control–based trajectory optimization for obstacle-avoiding robotic
+    filament winding
+  date: 2026-05
+  url: https://doi.org/10.1177/01423312261447563
+  category: planning
+  subcategory: method
+  authors:
+  - Hai Yang
+  - Y J Li
+  - Bo You
+  abstract: With the advancement of modern industrial technology, square composite
+    tubes have seen increasing application across various critical engineering fields.
+    Traditional square steel and aluminum tubes ar
+  venue: Transactions of the Institute of Measurement and Control
+- title: Machine learning-based motion optimization in intelligent robotic systems
+  date: 2026-03
+  url: https://doi.org/10.26634/jme.16.1.1251
+  category: planning
+  subcategory: method
+  authors:
+  - Vishal Khanna
+  - Priya Khanna
+  - Sheetal Thakur
+  abstract: Motion optimization is a critical challenge in intelligent robotic systems,
+    directly influencing efficiency, accuracy, and energy consumption. Traditional
+    control and trajectory planning methods often
+  venue: i-manager’s Journal on Mechanical Engineering
+- title: Time-energy optimal smooth trajectory planning for mobile robots
+  date: 2026-05
+  url: https://doi.org/10.1088/1402-4896/ae72d0
+  category: planning
+  subcategory: method
+  authors:
+  - Zhaoping Tang
+  - Ziyue Tang
+  - Yang Bin
+  abstract: 'Abstract Aiming at the time-energy-smooth problem of mobile robot paths,
+    the issues of obstacle avoidance in zero-width line paths, and the trajectory
+    motion control problem, this paper constructs an '
+  venue: Physica Scripta
+- title: A Review of Trajectory Planning and Path Tracking Methods for Mobile Robots
+  date: 2026-08
+  url: https://doi.org/10.54254/2755-2721/2026.35762
+  category: planning
+  subcategory: method
+  authors:
+  - Hanyi Huang
+  abstract: Driven by the rapid advances in artificial intelligence, autonomous driving,
+    and intelligent manufacturing, mobile robots have been widely applied in industrial
+    production and logistics transportation
+  venue: Applied and Computational Engineering
+- title: Vision-Guided Motion Planning for Autonomous Catch with a Robotic Arm
+  date: 2026-06
+  url: https://digitalcommons.calpoly.edu/eesp/729
+  category: planning
+  subcategory: method
+  authors:
+  - Kayla Go-Oco
+  - Ashik K Islam
+  - Raegan Gritzmacher
+  abstract: Modern robotic systems are often evaluated using static and highly controlled
+    tasks, such as pick-and-place demonstrations, which do not fully represent the
+    uncertainty and adaptability required in re
+  venue: DigitalCommons - CalPoly (California State Polytechnic University)
+- title: Research on Modeling and Energy Consumption Optimization of Humanoid Robot
+    Performance Motions Based on Multi-Stage Trajectory Planning Algorithm
+  date: 2026-03
+  url: https://doi.org/10.64549/jaai-ii.v1i2.8
+  category: planning
+  subcategory: method
+  authors:
+  - Tāo Luò
+  - Na Zhang
+  abstract: With the rapid development of humanoid robot and intelligent service robot
+    technologies, balancing motion stability and energy consumption in complex dynamic
+    performance tasks has become a critical re
+  venue: Journal of Applied AI and Interdisciplinary Innovations
+- title: General introduction to recent advancements in path and trajectory planning
+    for robots and autonomous machines
+  date: 2026-05
+  url: https://doi.org/10.1177/17298806261446021
+  category: planning
+  subcategory: theory
+  authors:
+  - David Vošahlík
+  - Marek Obitko
+  abstract: 'This article examines robot motion planning, comprising path and trajectory
+    planning, which represents one of the most challenging aspects of robot software
+    architecture. These functionalities enable '
+  venue: International Journal of Advanced Robotic Systems
+- title: PSO Trajectory Optimization of Robot Arm for Ultrasonic Testing of Complex
+    Curved Surface
+  date: 2026-03
+  url: https://doi.org/10.3390/coatings16030332
+  category: planning
+  subcategory: method
+  authors:
+  - Rao Yao
+  - Yahui Lv
+  - Kai Wang
+  abstract: 'In ultrasonic nondestructive testing, maintaining the ultrasonic sensor
+    in normal contact with curved surfaces is pivotal for acquiring valid defect signals.
+    Replacing manual operation with a robotic '
+  venue: Coatings
+- title: INVERSE KINEMATICS AND TRAJECTORY PLANNING OF ROBOTIC SYSTEMS USING REINFORCEMENT
+    LEARNING TECHNIQUES
+  date: 2026-08
+  url: https://doi.org/10.25394/pgs.33183827
+  category: planning
+  subcategory: theory
+  authors:
+  - Mengji Yao
+  abstract: Precise trajectory generation for robotic manipulators requires a delicate
+    balance between end-effector spatial accuracy and dynamic execution smoothness.
+    Traditional trajectory planning methods often
+  venue: Purdue
+- title: 'Intelligent assembly of shield tunnel lining segments: A vision-guided integrated
+    approach'
+  date: 2026-02
+  url: https://doi.org/10.1016/j.aei.2026.104460
+  category: planning
+  subcategory: method
+  authors:
+  - Yeting Zhu
+  - Keyu Chen
+  - Yanfei Zhu
+  abstract: ''
+  venue: Advanced Engineering Informatics
+- title: Nonlinear kinematic modeling and remote center of motion optimization of
+    flexible surgical robots
+  date: 2026-06
+  url: https://doi.org/10.1007/s11071-026-12734-y
+  category: planning
+  subcategory: theory
+  authors:
+  - T. Zhang
+  - Jiazheng Du
+  - Fuxin Du
+  abstract: ''
+  venue: Nonlinear Dynamics
+- title: A Unified Analytical Framework for Dynamically Stable and Energy-Efficient
+    Motion Planning in Humanoid Robots
+  date: 2026-04
+  url: https://doi.org/10.31881/tlr.2026.2146
+  category: planning
+  subcategory: theory
+  authors:
+  - Junning Fu
+  abstract: With the increasing complexity of tasks assigned to humanoid robots, planning
+    dynamically stable and energy-efficient motions remains a significant challenge.
+    This study addresses the problem of gener
+  venue: Textile & Leather Review
+- title: Optimal trajectory planning for collaborative robots based on improved adaptive
+    multi-objective particle swarm algorithm
+  date: 2026-03
+  url: https://doi.org/10.1007/s41315-026-00523-0
+  category: planning
+  subcategory: method
+  authors:
+  - Shoutao Li
+  - Zhidong Hu
+  - Liangzhi Ren
+  abstract: ''
+  venue: International Journal of Intelligent Robotics and Applications
+- title: ACO-optimized S-curve trajectory and HTSMC-PPC-ESO control for robust sloshing
+    suppression in liquid transportation using a biglide parallel robot
+  date: 2026-07
+  url: https://doi.org/10.1016/j.ejcon.2026.101555
+  category: planning
+  subcategory: theory
+  authors:
+  - Duc-Toan Le
+  - Quy-Thinh Dao
+  abstract: ''
+  venue: European Journal of Control
+- title: Integrating Adaptive Constraints with an Enhanced Metaheuristic for Zero-Latency
+    Trajectory Planning in Robotic Manufacturing Processes
+  date: 2026-04
+  url: https://doi.org/10.3390/pr14081282
+  category: planning
+  subcategory: theory
+  authors:
+  - Houxue Xia
+  - Zhenyu Sun
+  - Huagang Tong
+  abstract: In flexible manufacturing systems, the composite mobile manipulator (CMM)
+    is subject to nonlinear inertial disturbances arising from the dynamic coupling
+    between the mobile platform and the robotic ar
+  venue: Processes
+- title: Learning-Augmented Motion Planning and Control for Legged and Hybrid Locomotion
+  date: 2026-07
+  url: https://hdl.handle.net/11567/1310018
+  category: planning
+  subcategory: mechanism
+  authors:
+  - Andrea Patrizi
+  abstract: Replicating physical intelligence—the ability of natural systems to perceive,
+    reason, act, and learn in the physical world—has long been a central ambition
+    of robotics, and remains far from being achi
+  venue: CINECA IRIS Institutial Research Information System (University of Genoa)
+- title: 'BeetleBrush: A bio-inspired and LLM-RAG-augmented framework for trajectory
+    planning in robotic drawing tasks'
+  date: 2026-04
+  url: https://doi.org/10.1016/j.eswa.2026.132474
+  category: planning
+  subcategory: theory
+  authors:
+  - Ameer Tamoor Khan
+  - Xinwei Cao
+  - Shuai Li
+  abstract: Natural language programming of robotic systems presents significant challenges
+    in bridging high-level intent with low-level motion planning, particularly for
+    redundant manipulators in artistic or spa
+  venue: Expert Systems with Applications
+- title: Path planning for fracture reduction robots incorporating physiological tissue
+    response and safety-oriented optimization
+  date: 2026-04
+  url: https://doi.org/10.1007/s11548-026-03607-1
+  category: planning
+  subcategory: theory
+  authors:
+  - Pengyun Liu
+  - Qianxin Wang
+  - Bin Shi
+  abstract: ''
+  venue: International Journal of Computer Assisted Radiology and Surgery
+- title: 'Fuzzy-DDPG: Integrating fuzzy logic with continuous deep reinforcement learning
+    for mobile robot motion planning'
+  date: 2026-05
+  url: https://doi.org/10.1016/j.fss.2026.109967
+  category: planning
+  subcategory: theory
+  authors:
+  - Fenghua Wu
+  - Wenbing Tang
+  - Yuan Zhou
+  abstract: ''
+  venue: Fuzzy Sets and Systems
+- title: Distributed Motion Planning with Safety Guarantees for Self-Reconfiguring
+    Robotic Boats
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.20352
+  category: planning
+  subcategory: theory
+  authors:
+  - Alejandro González-García
+  - Wei Wang
+  - Wei Xiao
+  abstract: Aquatic self-reconfigurable robots must assemble into desired shapes while
+    ensuring safe interactions among multiple agents. This paper proposes a hybrid
+    framework that combines distributed Model Pred
+  venue: arXiv (Cornell University)
+- title: Method for Motion Route Planning of a Ground Robotic System for Substation
+    Equipment Condition Monitoring and Technical Diagnostics
+  date: 2026-07
+  url: https://doi.org/10.22213/2410-9304-2026-2-90-99
+  category: planning
+  subcategory: theory
+  authors:
+  - Ya. V. Brenchuk
+  - S. A. Eroshenko
+  - I. V. Matveev
+  abstract: This paper presents a method for planning and verifying motion routes
+    of ground robotic systems intended for automated diagnostics of high-voltage substation
+    equipment. The relevance of the study is d
+  venue: Intellekt Sist Proizv
+- title: KINEMATIC MODELING AND TRAJECTORY OPTIMIZATION OF INDUSTRIAL ROBOTIC ARMS
+    USING D-H PARAMETERS, B-SPLINE CURVES, AND GENETIC ALGORITHM
+  date: 2026-03
+  url: https://doi.org/10.17683/ijomam/issue23.16
+  category: planning
+  subcategory: method
+  authors: []
+  abstract: With the rapid development of industrial automation, robotic arms play
+    an increasingly critical role in intelligent manufacturing.However, traditional
+    control methods often suffer from inadequate moti
+  venue: International Journal of Mechatronics and Applied Mechanics
+- title: Perceptive Whole-body Motion Planning for Multi-legged Robots in Unstructured
+    Confined Environments
+  date: 2026-04
+  url: https://hdl.handle.net/1880/124702
+  category: planning
+  subcategory: theory
+  authors:
+  - Hossein Keshavarz
+  abstract: 'The development of whole-body motions for legged robots in complex, uncertain
+    and geo-metrically unstructured environments offers significant societal benefits
+    in diverse ways such as assisting first '
+  venue: Open MIND
+- title: PHYSICS-INFORMED LEARNING FOR MOTION PLANNING
+  date: 2026-05
+  url: https://doi.org/10.25394/pgs.32104864.v1
+  category: planning
+  subcategory: mechanism
+  authors:
+  - Ruiqi Ni
+  abstract: Motion planning aims to find a collision-free trajectory in configuration
+    spaces that are often high-dimensional, constrained, and geometrically complex.
+    Classical planners remain reliable in many set
+  venue: Purdue
+- title: Smooth Feedback Motion Planning with Reduced Curvature
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.01614
+  category: planning
+  subcategory: theory
+  authors:
+  - Aref Amiri
+  - Steven M. LaValle
+  abstract: Feedback motion planning over cell decompositions provides a robust method
+    for generating collision-free robot motion with formal guarantees. However, existing
+    algorithms often produce paths with unne
+  venue: arXiv (Cornell University)
+- title: 'Quantum Computing for Robotics: Algorithms, Optimization, and Future Systems.'
+  date: 2026-02
+  url: https://doi.org/10.5281/zenodo.18759895
+  category: planning
+  subcategory: theory
+  authors:
+  - Nnaemeka Ugwumba
+  abstract: This textbook provides a comprehensive foundation for the emerging interdisciplinary
+    field of quantum robotics. It systematically addresses the core question of how
+    quantum computational principles ca
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'augmentedfabricationlab/mobile_motion_planning: Mobile Motion Planning v0.1.0
+    - Initial Release'
+  date: 2026-04
+  url: https://github.com/augmentedfabricationlab/mobile_motion_planning/tree/v0.1.0
+  category: planning
+  subcategory: development
+  authors:
+  - David Richter
+  abstract: Overview Mobile Motion Planning is a Python package providing trajectory
+    generation and rolling replanning for UR manipulators mounted on mobile bases.
+    This initial release introduces core functionali
+  venue: Open MIND
+- title: 'Non-prehensile Robotic Transportation of Liquid: MPC vs Time-Optimal Trajectory
+    Planning'
+  date: 2026-03
+  url: https://amslaurea.unibo.it/view/cds/CDS8891/>,
+  category: planning
+  subcategory: method
+  authors:
+  - Giorgio Medico
+  abstract: 'Robotic transport of liquid-filled containers without grasping--- the
+    ``Waiter''s Problem'''' ---requires simultaneously preventing the object from
+    sliding off the tray and the liquid from spilling over '
+  venue: AMS Degree Thesis (University of Bologna)
+- title: Graph-search planning and dual-target Cartesian control for cross-plane dual-arm
+    climbing of a robotic astronaut
+  date: 2026-05
+  url: https://doi.org/10.1016/j.ast.2026.112708
+  category: planning
+  subcategory: theory
+  authors:
+  - Zhiguang Qi
+  - Jinjian Li
+  - Chunyang Zhou
+  abstract: ''
+  venue: Aerospace Science and Technology
+- title: Real-Time Coverage Path Planning for Fixed-Wing Aerial Robots Using Partial
+    Gradient-Based MPC and Augmented Dubins Trajectories
+  date: 2026-08
+  url: https://doi.org/10.3390/aerospace13080713
+  category: planning
+  subcategory: mechanism
+  authors:
+  - Mohammad Khaneghaei
+  - Benyamin Ebrahimi
+  - Davood Asadi
+  abstract: Coverage Path Planning (CPP) for fixed-wing aerial robots remains challenging
+    in dynamic and partially unknown environments due to the need to simultaneously
+    satisfy coverage completeness, kinematic f
+  venue: Aerospace
+- title: Autonomous Navigation Mobile Robot Based on Robot Operating System
+  date: 2026-03
+  url: https://doi.org/10.1201/9781003770497-12
+  category: planning
+  subcategory: method
+  authors:
+  - J. Logesh
+  - Kumar P. Senthil
+  - K. Sanjay
+  abstract: This paper demonstrates a neural network-based navigation algorithm for
+    autonomous mobile robots (AMRs), utilizing the Robot Operating System (ROS) as
+    the platform framework for real-time path plannin
+  venue: ''
+- title: Asymmetric S-Curve Velocity Control for Smooth Obstacle-Avoidance Trajectory
+    Execution in Stepper-Motor-Driven Selective Compliance Assembly Robot Arms
+  date: 2026-07
+  url: https://doi.org/10.3390/machines14070764
+  category: planning
+  subcategory: theory
+  authors:
+  - Qiannan Guo
+  - М. А. Григорьев
+  - Zihan Zhang
+  abstract: Stepper-motor-driven Selective Compliance Assembly Robot Arms are susceptible
+    to motion control challenges under short-stroke and high-frequency start–stop
+    conditions, including high sensitivity to pu
+  venue: Machines
+- title: Moving horizon-based online collaboration of motion planning and robust control
+    for time-varying nonlinear uncertain system in unstructured environment
+  date: 2026-08
+  url: https://doi.org/10.1016/j.cja.2026.104409
+  category: planning
+  subcategory: method
+  authors:
+  - Jiahao Ge
+  - Zi Kan
+  - Daochun Li
+  abstract: Various vehicles exhibit time-varying nonlinear characteristics in the
+    aerospace field, and because of uncertainties such as modeling errors and external
+    disturbances, they are faced with the challeng
+  venue: Chinese Journal of Aeronautics
+- title: Optimization-Oriented Vision-Guided Robotic Grasping for Bolt Handling in
+    Intelligent Manufacturing
+  date: 2026-06
+  url: https://doi.org/10.3390/math14122133
+  category: planning
+  subcategory: method
+  authors:
+  - Pengzhan Fu
+  - Zhenlin Zhang
+  - Long Liu
+  abstract: Accurate detection and reliable grasping of small bolts are essential
+    for intelligent manufacturing and automated assembly. However, this remains a
+    challenge due to the small size, slender geometry, a
+  venue: Mathematics
+- title: Experimental investigation of automatic operation trajectory planning and
+    tracking of unmanned excavators
+  date: 2026-07
+  url: https://doi.org/10.1177/01423312261463306
+  category: planning
+  subcategory: mechanism
+  authors:
+  - Miao Cheng
+  - Zhang Wenli
+  - Lin Tianliang
+  abstract: Excavator automation is essential for intelligent construction machinery
+    but faces challenges like unstable joint movements and impact forces. To address
+    this, this study presents a trajectory plannin
+  venue: Transactions of the Institute of Measurement and Control
+- title: 'RRT$^η$: Sampling-based Motion Planning and Control from STL Specifications
+    using Arithmetic-Geometric Mean Robustness'
+  date: 2026-02
+  url: https://arxiv.org/abs/2602.16825
+  category: planning
+  subcategory: theory
+  authors:
+  - Ahmad Ahmad
+  - Shuo Liu
+  - Roberto Tron
+  abstract: 'Sampling-based motion planning has emerged as a powerful approach for
+    robotics, enabling exploration of complex, high-dimensional configuration spaces.
+    When combined with Signal Temporal Logic (STL), '
+  venue: Open MIND
+- title: Cooperative Interaction and Manipulation in Human-Robot and Multi-Robot Systems
+  date: 2026-04
+  url: https://hdl.handle.net/11567/1294736
+  category: planning
+  subcategory: mechanism
+  authors:
+  - Roberto Fausti
+  abstract: In the context of physical human–robot interaction, starting from the
+    LuGre friction model, an elastoplastic admittance model is proposed that enables
+    both elastic, reversible motion modifications and
+  venue: CINECA IRIS Institutial Research Information System (University of Genoa)
+- title: Application of hybrid artificial potential field method in local path planning
+    of mobile robots
+  date: 2026-06
+  url: https://doi.org/10.1016/j.fraope.2026.100694
+  category: planning
+  subcategory: method
+  authors:
+  - Miaoquan Liu
+  abstract: To enhance the smoothness, obstacle avoidance, and planning efficiency
+    of local path planning for mobile robots, this paper studies an Artificial Potential
+    Field (APF) method as the basic algorithm. F
+  venue: Franklin Open
+- title: Manipulator Hugging Motion Control Based on Optimal Human Tactile Force
+  date: 2026-06
+  url: https://doi.org/10.1007/s12369-026-01413-y
+  category: planning
+  subcategory: theory
+  authors:
+  - F M Liu
+  - Jialiang Chen
+  - Jixue Mo
+  abstract: ''
+  venue: International Journal of Social Robotics
+- title: An Improved A*-Based Path-Planning Framework for Facility Agricultural Robots
+  date: 2026-06
+  url: https://doi.org/10.3390/app16126138
+  category: planning
+  subcategory: method
+  authors:
+  - Z L Yang
+  - Chunyan Zhang
+  - Tao Yu
+  abstract: Facility agricultural robots operating in greenhouse environments often
+    encounter narrow passages, dense obstacle distributions, and frequent path-direction
+    changes, which increase the difficulty of a
+  venue: Applied Sciences
+- title: Energy and Efficiency Optimization of Six-Axis Robotic Arms Using Taguchi
+    Coupled Principal Component Analysis
+  date: 2026-04
+  url: https://doi.org/10.1007/s13369-026-11307-w
+  category: planning
+  subcategory: theory
+  authors:
+  - Chien‐Hung Liu
+  - Po-Wei Wang
+  - Chi-Hua Hsu
+  abstract: ''
+  venue: Arabian Journal for Science and Engineering
+- title: 'GASP: GPU-Accelerated Safe Planner for Real-Time Collision-Aware Motion
+    Generation with Latent Trajectory Sampling'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.04612
+  category: planning
+  subcategory: theory
+  authors:
+  - Colin Merk
+  - Stefanos Charalambous
+  - Peter Dürr
+  abstract: 'We present GASP, a GPU-Accelerated Safe Planner for real-time, collision-aware
+    joint-space motion generation in known environments. GASP combines a clamped B-spline
+    trajectory parameterization with a '
+  venue: arXiv (Cornell University)
+- title: 'ToMPC: Task-oriented Model Predictive Control via ADMM for Safe Robotic
+    Manipulation'
+  date: 2026-03
+  url: https://arxiv.org/abs/2603.13944
+  category: planning
+  subcategory: method
+  authors:
+  - Xinyu Jia
+  - Wenxin Wang
+  - Jun Yang
+  abstract: This paper proposes a task-oriented model predictive control (ToMPC) framework
+    for safe and efficient robotic manipulation in open workspaces. The framework
+    unifies collision-free motion and robot-env
+  venue: arXiv (Cornell University)
+- title: Robust model predictive control of robots in confined spaces
+  date: 2026-07
+  url: https://freidok.uni-freiburg.de/data/284779
+  category: planning
+  subcategory: theory
+  authors:
+  - Yunfan Gao
+  abstract: Modern industrial environments are increasingly automated with the growing
+    deployment of mobile robots, which are required to navigate quickly through confined
+    spaces. At higher speeds, model-plant mi
+  venue: FreiDok plus (Universitätsbibliothek Freiburg)
+- title: Path Optimization for 6-axis Robot Control Using Open Simulation-based Reinforcement
+    Learning
+  date: 2026-05
+  url: https://doi.org/10.7736/jkspe.026.00010
+  category: planning
+  subcategory: method
+  authors:
+  - Cho A Kim
+  - Jong U Baek
+  - Su Han Lee
+  abstract: 'The increasing adoption of industrial robot arms in advanced manufacturing
+    has heightened the need for flexible trajectory planning methods that go beyond
+    traditional offline programming (OLP) tools, '
+  venue: Journal of the Korean Society for Precision Engineering
+- title: Calculation and Analysis of the Spatial Motion Trajectory of the Grasping
+    Mechanism of a Pipe Handling Manipulator for Coal Mines
+  date: 2026-05
+  url: https://doi.org/10.9734/jerr/2026/v28i51891
+  category: planning
+  subcategory: theory
+  authors:
+  - Xiao Long Gao
+  - Lian Feng Ma
+  abstract: 'Background: Coal mining operations rely on pipeline systems for essential
+    functions, yet installation is often manual, inefficient, and hazardous in confined
+    underground environments. With the shift t'
+  venue: Journal of Engineering Research and Reports
+- title: Multimodal Machine Learning Models Using Zero-Shot Learning to Control Robots
+  date: 2026-08
+  url: https://doi.org/10.3390/engproc2026150104
+  category: planning
+  subcategory: method
+  authors:
+  - Vladimir Kotev
+  - Ivan Ivanov
+  - Kosuke Kakikoshi
+  abstract: Substantial growth has been observed in large language models (LLMs),
+    which are increasingly applied across various fields. The integration of vision–language
+    models trained on Internet-scale data int
+  venue: ''
+- title: MULTI-AGENT COOPERATIVE CONTROL ARCHITECTURE FOR AUTONOMOUS INDUSTRIAL ROBOTS
+    IN SMART MANUFACTURING ENVIRONMENTS
+  date: 2026-03
+  url: https://doi.org/10.5281/zenodo.18863513
+  category: planning
+  subcategory: mechanism
+  authors:
+  - Dr. Min-Jae Kwon
+  - Seo-Yeon Lim
+  - Dong-Joo Bae
+  abstract: Abstract The rapid evolution of smart manufacturing systems has fundamentally
+    transformed the operational paradigm of industrial robotics. Unlike traditional
+    automation frameworks characterized by rig
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: A dynamic control strategy for thermal management of depositions in robotic
+    wire-arc additive manufacturing
+  date: 2026-05
+  url: https://doi.org/10.1016/j.jmapro.2026.05.048
+  category: planning
+  subcategory: theory
+  authors:
+  - Kathryn Kelly
+  - Christopher Saldaña
+  - Sean Wilson
+  abstract: ''
+  venue: Journal of Manufacturing Processes
+- title: A Bio-Inspired Fluid Dynamics Approach for Unified and Efficient Path Planning
+    and Control
+  date: 2026-02
+  url: https://doi.org/10.3390/act15030133
+  category: planning
+  subcategory: theory
+  authors:
+  - Mohammed Baziyad
+  - Raouf Fareh
+  - Tamer Rabie
+  abstract: This paper presents a novel bio-inspired fluid dynamics framework that
+    unifies path planning and control within a single continuous navigation process.
+    Unlike conventional approaches that separate tra
+  venue: Actuators
+- title: A Bio-inspired Integrated Framework for Disturbance Rejection Whole-Body
+    Control of Humanoid Robots
+  date: 2026-07
+  url: https://doi.org/10.1007/s42235-026-00965-z
+  category: planning
+  subcategory: method
+  authors:
+  - Guanqun Chen
+  - Teng Zhang
+  - Fusheng Zha
+  abstract: ''
+  venue: Journal of Bionic Engineering
+- title: Path planning for volumetric flask grasping based on visual guidance and
+    multi-constraint optimization
+  date: 2026-04
+  url: https://doi.org/10.1371/journal.pone.0347043
+  category: planning
+  subcategory: theory
+  authors:
+  - Zhaopeng Yuan
+  - Meng Li
+  - Chengyun Wang
+  abstract: 'In the automated operation of the chemical laboratory, using a robotic
+    arm to pick up volumetric flasks is a core step of the operation process. By implementing
+    reasonable path planning, the grasping '
+  venue: PLoS ONE
+- title: Performant robotic manipulation with real-world reinforcement learning
+  date: 2026-07
+  url: https://doi.org/10.1126/scirobotics.aed6267
+  category: learning
+  subcategory: method
+  authors:
+  - Kun Lei
+  - Hui Li
+  - Dongjie Yu
+  abstract: 'Real-world robotic manipulation in homes and factories demands reliability,
+    efficiency, and robustness that approach or surpass skilled human operators. We
+    present a real-world reinforcement learning '
+  venue: Science Robotics
+- title: Single-Demonstration Imitation with Residual Reinforcement Learning for Dual-Arm
+    Robotic Bottle Opening
+  date: 2026-05
+  url: https://doi.org/10.64117/simposioscea.v2i2.209
+  category: learning
+  subcategory: theory
+  authors:
+  - Francisco José Naranjo Campos
+  - Juan Carlos González Victores
+  - Carlos Balaguer
+  abstract: Learning manipulation from extremely limited data remains challenging
+    for robotic systems. We present a framework that combines Behavioural Cloning
+    (BC) from a single kinesthetic demonstration with re
+  venue: Simposios del Comité Español de Automática (CEA)
+- title: One Demonstration Is Enough for Real-World Robotic Reinforcement Learning
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.01651
+  category: learning
+  subcategory: mechanism
+  authors:
+  - Yuwan Liu
+  - Hongze Yu
+  - Liu S
+  abstract: 'Learning effective robot control policies on physical hardware is challenging
+    due to costly data collection and the difficulty of reward specification. Prior
+    work has incorporated demonstrations into '
+  venue: arXiv (Cornell University)
+- title: 'VL-I2O: Vision-Language Assisted Imitation-to-Optimization Reinforcement
+    Learning for Robot Manipulation'
+  date: 2026-07
+  url: https://doi.org/10.1007/978-981-92-3441-7_20
+  category: learning
+  subcategory: theory
+  authors:
+  - Yajun Wang
+  - Yukun Ren
+  - Xuanke Zhong
+  abstract: ''
+  venue: Lecture notes in computer science
+- title: 'DIRA: Diffusion-Based Imitation-to-Reinforcement Adaptation for Task Automation
+    of Surgical Robots'
+  date: 2026-06
+  url: https://doi.org/10.1109/lra.2026.3699185
+  category: learning
+  subcategory: method
+  authors:
+  - Guowei Wang
+  - Xinan Sun
+  - Yuan Xing
+  abstract: The autonomy of surgical robots can enhance the safety and efficiency
+    of surgeries. However, the diverse surgical skill expressions in expert demonstrations
+    create multimodal patterns that can lead to
+  venue: IEEE Robotics and Automation Letters
+- title: An ensemble reinforcement learning framework for robotic high-precision peg-in-hole
+    assembly via human demonstrations
+  date: 2026-02
+  url: https://doi.org/10.1016/j.rcim.2026.103279
+  category: learning
+  subcategory: method
+  authors:
+  - Guanwen Ding
+  - Xizhe Zang
+  - Peng Wang
+  abstract: ''
+  venue: Robotics and Computer-Integrated Manufacturing
+- title: Learning from Demonstration with Failure Awareness for Safe Robot Navigation
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.23360
+  category: learning
+  subcategory: method
+  authors:
+  - Xianghui Wang
+  - Siwei Cheng
+  - Shanze Wang
+  abstract: 'Learning from demonstration is widely used for robot navigation, yet
+    it suffers from a fundamental limitation: demonstrations consist predominantly
+    of successful behaviors and provide limited coverage'
+  venue: arXiv (Cornell University)
+- title: Combining exploration and imitation in contact-rich task learning on an articulated
+    soft robot arm
+  date: 2026-08
+  url: https://doi.org/10.3389/frobt.2026.1885625
+  category: learning
+  subcategory: method
+  authors:
+  - L. Elstner
+  - Erik Kyrkjebø
+  - Martin F. Stoelen
+  abstract: Learning from demonstration (LfD) has become a popular approach with the
+    emergence of modern transformer-based algorithms. However, the performance of
+    these policies is limited by the quality of the d
+  venue: Frontiers in Robotics and AI
+- title: 'Editorial: Reinforcement learning for real-world robot navigation'
+  date: 2026-05
+  url: https://doi.org/10.3389/frobt.2026.1861947
+  category: learning
+  subcategory: theory
+  authors:
+  - Pengqin Wang
+  - Xiaocong Li
+  - Meixin Zhu
+  abstract: Path planning is essential for deploying autonomous robots in complex
+    real-world environments, yet long-term decision-making and sparse rewards pose
+    significant challenges for traditional reinforcemen
+  venue: Frontiers in Robotics and AI
+- title: 'Applications of Reinforcement Learning for Autonomous Surgical Robotics:
+    A Systematic Review'
+  date: 2026-08
+  url: https://doi.org/10.3390/biomimetics11080577
+  category: learning
+  subcategory: theory
+  authors:
+  - Muhammad Shahid
+  - Abdullah Abdullah
+  - Zulaikha Fatima
+  abstract: Reinforcement learning (RL) has emerged as a promising approach for autonomous
+    surgical robotic subtasks. Recent advances include deep reinforcement learning
+    (DRL), imitation learning (IL), and vision
+  venue: Biomimetics
+- title: Enhancing deep reinforcement learning with expert demonstrations for mobile
+    robot navigation in unstructured off-road environments
+  date: 2026-07
+  url: https://ro.ecu.edu.au/theses/3089
+  category: learning
+  subcategory: theory
+  authors:
+  - Hewage Dulitha Nisal Dabare
+  abstract: Advancements in the field of Deep Learning has ushered in a boom in autonomous
+    navigation research. Most of the work being conducted in this space, however,
+    has focused on on-road urban navigation sce
+  venue: Research Online (Edith Cowan University)
+- title: Reinforcement Learning in Robotics Bionic Arm Control and Adaptation
+  date: 2026-04
+  url: https://hdl.handle.net/2437/413147
+  category: learning
+  subcategory: method
+  authors:
+  - Azish Ahmed Khan
+  abstract: This thesis investigates the use of reinforcement learning to control
+    a fourteen-joint anthropomorphic prosthetic hand performing a cylindrical power
+    grasp in a Unity-based simulation environment. Two
+  venue: University of Debrecen Electronic Archive (University of Debrecen)
+- title: Humanoid Robot Walking and Grasping Method Using Similarity Reward-Augmented
+    Generative Adversarial Imitation Learning
+  date: 2026-04
+  url: https://doi.org/10.3390/s26092756
+  category: learning
+  subcategory: mechanism
+  authors:
+  - Gen-Yong Huang
+  - Wenfeng Li
+  abstract: 'This study aims to enhance the precision of humanoid robots in imitating
+    complex human "walking-grasping" coordinated movements. Addressing limitations
+    in sample efficiency and reward function design '
+  venue: Sensors
+- title: 'AI-driven precision: Reinforcement learning-based control for microscope-assisted
+    robotic retina surgery'
+  date: 2026-07
+  url: https://doi.org/10.1063/5.0341159
+  category: learning
+  subcategory: mechanism
+  authors:
+  - Reena S Rajan
+  - Vennila H
+  abstract: Microscope-assisted robotic retina surgery has emerged as a transformative
+    approach for improving precision in delicate retinal procedures. Traditional manual
+    techniques rely heavily on surgeons’ dext
+  venue: AIP Advances
+- title: Impact of Continuous Latent Variables on Imitation Learning Efficiency and
+    Stability
+  date: 2026-06
+  url: https://doi.org/10.5281/zenodo.20651591
+  category: learning
+  subcategory: theory
+  authors:
+  - SOVEREIGN Research Kernel
+  abstract: Autonomous learning has been a promising direction in control and robotics
+    for more than a decade since data-driven learning allows to reduce the amount
+    of engineering knowledge, which is otherwise re
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Hybrid Data Curation for Imitation Learning with Physics- Generated Trajectories
+  date: 2026-03
+  url: https://doi.org/10.3390/app16062968
+  category: learning
+  subcategory: method
+  authors:
+  - Mincheol Lee
+  - Deun-Sol Cho
+  - Won-Tae Kim
+  abstract: Robotic manipulators were initially introduced to replace repetitive human
+    labor and have since evolved to perform complex tasks in dynamic environments.
+    In such systems, imitation learning and reinfo
+  venue: Applied Sciences
+- title: Enhancing autonomous navigation systems through reinforcement learning
+  date: 2026-06
+  url: https://doi.org/10.1080/00051144.2026.2688597
+  category: learning
+  subcategory: theory
+  authors:
+  - K. Arul Deepa
+  - M. Preethivee
+  - M. S. Karthika Devi
+  abstract: 'Conventional cleaning and waste-collecting robots face significant challenges
+    when operating in dynamic and unpredictable environments. Traditional obstacle-avoidance
+    algorithms often fail to account '
+  venue: Automatika
+- title: 'ODARRL: Obstacle- and Disturbance-Aware End-to-End Residual Reinforcement
+    Learning for Underwater Robot Trajectory Tracking with Obstacle Avoidance'
+  date: 2026-08
+  url: https://doi.org/10.3390/jmse14161501
+  category: learning
+  subcategory: mechanism
+  authors:
+  - Linghan Meng
+  - Zebin Huang
+  - Qingfeng Yao
+  abstract: ROVs are essential for marine exploration and underwater operations, yet
+    conventional teleoperation relies heavily on skilled human operators, and many
+    autonomous methods stop at high-level planning r
+  venue: Journal of Marine Science and Engineering
+- title: 'TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse
+    Reinforcement Learning'
+  date: 2026-03
+  url: https://doi.org/10.1609/aaai.v40i28.39499
+  category: learning
+  subcategory: method
+  authors:
+  - Yuxuan Li
+  - Yicheng Gao
+  - Ning Yang
+  abstract: Episodic tasks in Reinforcement Learning (RL) often pose challenges due
+    to sparse reward signals and high-dimensional state spaces, which hinder efficient
+    learning. Additionally, these tasks often fea
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+- title: A graph isomorphism attention network and graph information embedded reinforcement
+    learning-based dual-arm robot teleoperation and manipulation skill acquisition
+    method
+  date: 2026-07
+  url: https://doi.org/10.1016/j.jmsy.2026.06.023
+  category: learning
+  subcategory: mechanism
+  authors:
+  - Fuchuan Zeng
+  - LongJiang Li
+  - Ji Peng
+  abstract: ''
+  venue: Journal of Manufacturing Systems
+- title: Vision-driven state-space imitation learning for quadrotor navigation in
+    infrastructure inspection
+  date: 2026-04
+  url: https://doi.org/10.1016/j.cacaie.2026.100030
+  category: learning
+  subcategory: method
+  authors:
+  - Xiaowen Tao
+  - Yinuo Wang
+  - Bing Zhu
+  abstract: With the rapid development of intelligent civil infrastructure and smart
+    cities, quadrotors are increasingly deployed for inspection, monitoring, and emergency
+    response in infrastructure environments,
+  venue: Computer-Aided Civil and Infrastructure Engineering
+- title: 'KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning'
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.25788
+  category: learning
+  subcategory: theory
+  authors:
+  - Yixuan Huang
+  - Bowen Li
+  - Vaibhav Saxena
+  abstract: Robotic systems that interact with the physical world must reason about
+    kinematic and dynamic constraints imposed by their own embodiment, their environment,
+    and the task at hand. We introduce KinDER,
+  venue: arXiv (Cornell University)
+- title: Learning from Imperfect Demonstrations via Temporal Behavior Tree-Guided
+    Trajectory Repair
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.04225
+  category: learning
+  subcategory: theory
+  authors:
+  - Aniruddh G. Puranic
+  - Sebastian Schirmer
+  - John S. Baras
+  abstract: Learning robot control policies from demonstrations is a powerful paradigm,
+    yet real-world data is often suboptimal, noisy, or otherwise imperfect, posing
+    significant challenges for imitation and rein
+  venue: arXiv (Cornell University)
+- title: 'Learning to switch safely: terrain-adaptive humanoid locomotion acquisition
+    via hard-routed mixture-of-expert motion imitation'
+  date: 2026-04
+  url: https://doi.org/10.1117/12.3111151
+  category: learning
+  subcategory: mechanism
+  authors:
+  - Yuchen Liang
+  - Hao Yu
+  - Cong Wang
+  abstract: Current reinforcement learning methods often face challenges in training
+    terrain-adaptive locomotion skills for humanoid robots, due to two difficulties
+    of accurately learning the motion primitives li
+  venue: ''
+- title: 'A simulation study of decomposition-based inverse reinforcement learning
+    toward construction automation: The case of excavator in challenging environments'
+  date: 2026-03
+  url: https://doi.org/10.1016/j.dibe.2026.100908
+  category: learning
+  subcategory: method
+  authors:
+  - Minguk Kim
+  - Youngjib Ham
+  abstract: The increasing demand for construction in unstructured and dynamic field
+    conditions requires robots capable of autonomous operation. While imitation learning
+    has shown promise, existing approaches are
+  venue: Developments in the Built Environment
+- title: Designing A Learning-Enabled Non-Anthropomorphic Robotic Hand Framework for
+    Dexterous Manipulation
+  date: 2026-07
+  url: https://doi.org/10.1184/r1/32984639.v1
+  category: learning
+  subcategory: mechanism
+  authors:
+  - Zilin Si
+  abstract: Dexterous robotic manipulation is becoming increasingly crucial as robots
+    transition from industrial settings to unstructured human environments, such as
+    household assistance and healthcare support. A
+  venue: KiltHub Repository
+- title: 'WorldSample: Closed-loop Real-robot RL with World Modelling'
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.02431
+  category: learning
+  subcategory: method
+  authors:
+  - Yuquan Xue
+  - Lei Xu
+  - Zeyi Liu
+  abstract: Reinforcement learning (RL) can overcome the demonstration-coverage limitation
+    of imitation learning (IL) by allowing robots to improve through trial-and-error
+    interaction beyond the states observed i
+  venue: arXiv (Cornell University)
+- title: 'OopsieVerse: A Safety Benchmark with Damage-Aware Simulation for Robot Manipulation'
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.31993
+  category: learning
+  subcategory: mechanism
+  authors:
+  - Arnav Balaji
+  - Arpit Bahety
+  - Sriniket Ambatipudi
+  abstract: 'While robotic manipulation capabilities have advanced rapidly, physical
+    safety remains a major barrier to deploying household robots: task success is
+    insufficient if the robot damages itself or its su'
+  venue: arXiv (Cornell University)
+- title: 'Learn Weightlessness: Imitate Non-Self-Stabilizing Motions on Humanoid Robot'
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.21351
+  category: learning
+  subcategory: mechanism
+  authors:
+  - Yucheng Xin
+  - Jiacheng Bao
+  - Haoran Yang
+  abstract: The integration of imitation and reinforcement learning has enabled remarkable
+    advances in humanoid whole-body control, facilitating diverse human-like behaviors.
+    However, research on environment-depe
+  venue: arXiv (Cornell University)
+- title: 'Editorial: Innovations in industry 4.0: advancing mobility and manipulation
+    in robotics'
+  date: 2026-06
+  url: https://doi.org/10.3389/frobt.2026.1889141
+  category: learning
+  subcategory: theory
+  authors:
+  - Kensuke Harada
+  - Rajkumar Muthusamy
+  abstract: 'This collection brings together nine contributions that collectively
+    advance the state of the art across four major themes: intelligent grasping and
+    manipulation, robot-robot collaboration and safety,'
+  venue: Frontiers in Robotics and AI
+- title: 'CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive
+    Closed-Loop Iterative Fine-Tuning'
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.29172
+  category: learning
+  subcategory: method
+  authors:
+  - Yuxin Chen
+  - Hari Srikanth
+  - Nathan Jew
+  abstract: While robot foundation models are growing increasingly capable, the strongest
+    models are typically trained on proprietary data and remain closed-source, limiting
+    downstream users' ability to adapt the
+  venue: arXiv (Cornell University)
+- title: 'From False Positives to Failure Topologies: Heuristic Learning for Auditable
+    Dexterous Grasping Development'
+  date: 2026-06
+  url: https://doi.org/10.5281/zenodo.20729635
+  category: learning
+  subcategory: theory
+  authors:
+  - EE HERN TEO
+  abstract: Early-stage dexterous grasping on a custom robot hand can fail before
+    neural policy learning begins:the simulator, action interface, contact evidence,
+    logs, and success criteria are still being constr
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'SutureFormer: Learning Surgical Trajectories via Goal-conditioned Offline
+    RL in Pixel Space'
+  date: 2026-03
+  url: https://arxiv.org/abs/2603.26720
+  category: learning
+  subcategory: method
+  authors:
+  - Huanrong Liu
+  - Chunlin Tian
+  - Tongyu Jia
+  abstract: 'Predicting surgical needle trajectories from endoscopic video is critical
+    for robot-assisted suturing, enabling anticipatory planning, real-time guidance,
+    and safer motion execution. Existing methods '
+  venue: arXiv (Cornell University)
+- title: 'Toward Reliable Vision-Driven UAV River Navigation: Human-Informed Safe
+    Learning and Navigability Mapping'
+  date: 2026-05
+  url: https://doi.org/10.25394/pgs.32125114
+  category: learning
+  subcategory: theory
+  authors:
+  - Zihan Wang
+  abstract: Autonomous navigation in inland waterways is difficult for autonomous
+    surface vehicles (ASVs) alone because the operating envelope is narrow and cluttered,
+    hazards such as low-clearance bridges, overh
+  venue: Purdue
+- title: Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.18953
+  category: learning
+  subcategory: method
+  authors:
+  - K S Kim
+  - Namiko Saito
+  - Heecheol Kim
+  abstract: Vision-Language-Action (VLA) models can generalize across diverse manipulation
+    tasks, but their imitation-learning-based policies remain brittle in precise physical
+    interactions due to compounding exe
+  venue: arXiv (Cornell University)
+- title: 'VIGOR: Visual Goal-In-Context Inference for Unified Humanoid Fall Safety'
+  date: 2026-02
+  url: https://arxiv.org/abs/2602.16511
+  category: learning
+  subcategory: theory
+  authors:
+  - Osher Azulay
+  - Zhengjie Xu
+  - Andrew Scheffer
+  abstract: Reliable fall recovery is critical for humanoids operating in cluttered
+    environments. Unlike quadrupeds or wheeled robots, humanoids experience high-energy
+    impacts, complex whole-body contact, and lar
+  venue: arXiv (Cornell University)
+- title: 'From testbeds to high-stakes work: a review of Human-AI teaming domains
+    and teaming factors'
+  date: 2026-05
+  url: https://doi.org/10.3389/frobt.2026.1733942
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Shaida Kargarnovin
+  - Christopher Ivan Hernandez
+  - Dirk Reiners
+  abstract: 'Introduction: Human-AI teaming is increasingly being studied in applied
+    and high-stakes settings, yet the evidence remains dispersed across domains, constructs,
+    and research traditions. This fragmenta'
+  venue: Frontiers in Robotics and AI
+- title: A Human-Centred Tri-Region Shared Autonomy Framework for Adaptive and Safe
+    Human–Robot Interaction
+  date: 2026-03
+  url: https://doi.org/10.1145/3776734.3794536
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Abolfazl Zaraki
+  - Hamed Rahimi Nohooji
+  - Maryam Banitalebi Dehkordi
+  abstract: This paper reframes shared autonomy as an interpretable interaction space
+    centered on the human and bounded by safety. Building on this perspective, we
+    introduce a Human-Centred Tri-Region Shared Auto
+  venue: ''
+- title: 'Advancing Human-Robot Collaboration in Teleoperation: Comparative Evaluation
+    of Shared Control Modalities Across Tasks and Interfaces'
+  date: 2026-03
+  url: https://doi.org/10.1080/10447318.2026.2633203
+  category: human-robot
+  subcategory: method
+  authors:
+  - Dewei Zhu
+  - Qiuli Jin
+  - Tee Ittiphanitphong
+  abstract: Shared control enhances teleoperation by combining human decision-making
+    with robotic autonomy, but its effectiveness across tasks and interfaces remains
+    unclear. This study compares three shared cont
+  venue: International Journal of Human-Computer Interaction
+- title: 'Imitation learning for human–robot teaming in battery disassembly: enabling
+    technologies and a collaborative manipulation pipeline'
+  date: 2026-06
+  url: https://doi.org/10.7148/2026-0161
+  category: human-robot
+  subcategory: method
+  authors:
+  - Filippo Sanfilippo
+  - Cecilia Scoccia
+  abstract: Robotics has progressed from isolated industrial manipulators to systems
+    capable of fluid interaction, collaboration, and ultimately teaming with humans.
+    This trajectory—from Human‑Robot Interaction (
+  venue: ''
+- title: 'Planning, Execution, to After-Action Review (PETAAR): A Toolset for Human-Robot
+    Teaming'
+  date: 2026-03
+  url: https://doi.org/10.1145/3776734.3794389
+  category: human-robot
+  subcategory: method
+  authors:
+  - Jennifer S. Kay
+  - Tyler Errico
+  - Audrey Aldridge
+  abstract: Effective human-robot teaming in highly dynamic environments, such as
+    emergency response and military missions, requires tools that support planning,
+    coordination, and adaptive decision-making without
+  venue: ''
+- title: 'Feedback modalities in human-cobot collaboration: experimental evaluation
+    of performance, user experience, and physiological responses'
+  date: 2026-07
+  url: https://doi.org/10.3389/frobt.2026.1836165
+  category: human-robot
+  subcategory: mechanism
+  authors:
+  - Amir Biton
+  - Yuval Cohen
+  - Shraga Shoval
+  abstract: Collaborative robots (cobots) are increasingly deployed in industrial
+    as well as non-industrial domains to support human-centered operation. While physical
+    safety and task efficiency have received con
+  venue: Frontiers in Robotics and AI
+- title: 'NEOMANITAI V7.1 Domain Term-Sets: 15 Fields of Human-AI and Robotics Interaction
+    Phenomena (Restricted)'
+  date: 2026-05
+  url: https://doi.org/10.5281/zenodo.20060992
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Andreas Ehstand
+  abstract: 'Restricted bundle of 336 files covering 15 specialised domain term-sets
+    from the NEOMANITAI V7.1 generation. Fields and phenomenon clusters covered include:
+    AI relationship phenomena (Ghost Bond, Mirr'
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Distributed control strategies for cooperative and collaborative object transportation
+    via Multi-Robot systems
+  date: 2026-02
+  url: https://hdl.handle.net/11567/1288096
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Graziano Carriero
+  abstract: This research deals with the development of distributed control strategies
+    for object transportation within multi-robot frameworks, encompassing both fully
+    autonomous cooperative manipulators and coll
+  venue: CINECA IRIS Institutial Research Information System (University of Genoa)
+- title: 'AI-driven quadruped robots: from fundamental locomotion to advanced biomimetic
+    behaviors'
+  date: 2026-07
+  url: https://doi.org/10.3389/fnbot.2026.1855550
+  category: human-robot
+  subcategory: mechanism
+  authors:
+  - Likai Wu
+  - Chee‐Onn Chow
+  - Wei Ru Wong
+  abstract: Quadruped robots have attracted increasing attention because they can
+    traverse uneven terrain, support field deployment, and perform tasks that are
+    difficult for wheeled or tracked platforms. Recent a
+  venue: Frontiers in Neurorobotics
+- title: 'From Fragmentation to Integration: Designing Humanoid Robots for Corporate
+    Service Environments'
+  date: 2026-04
+  url: https://tubiblio.ulb.tu-darmstadt.de/view/person/Leichtle=3AMarcel=3A=3A.html>
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Marcel Leichtle
+  abstract: Humanoid and anthropomorphic robots – embodied forms of artificial intelligence
+    (AI) that can move, perceive, and converse – are increasingly entering organizational
+    settings, but their value hinges l
+  venue: TUbilio (Technical University of Darmstadt)
+- title: 'Agentic AI in services: orchestrating human–machine synergy for service
+    excellence'
+  date: 2026-03
+  url: https://doi.org/10.1108/ijqss-03-2026-303
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Ankur Srivastava
+  - Sanjay Fuloria
+  abstract: Agentic artificial intelligence (AI) refers to systems capable of perceiving
+    their environment, making contextually relevant decisions and acting autonomously
+    to pursue defined or evolving objectives.
+  venue: International Journal of Quality and Service Sciences
+- title: 'Artificial intelligence and machine learning in assessing and promoting
+    health and well‐being: Integrating human insight with computational intelligence'
+  date: 2026-03
+  url: https://doi.org/10.1111/aphw.70140
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Shan Qiao
+  - Xiaoming Li
+  abstract: 'The generation of Big Data (characterized by 4V: volume, variety, velocity,
+    and veracity) and the advanced analytics techniques including artificial intelligence
+    (AI) and machine learning (ML) are pro'
+  venue: Applied Psychology Health and Well-Being
+- title: 'Guest editorial: The next wave of innovation. Human, enterprise, and artificial
+    intelligence united for impactful change'
+  date: 2026-07
+  url: https://doi.org/10.1108/ejim-08-2026-150
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Nicola Cucari
+  - Francesco Schiavone
+  - Biagio Palese
+  abstract: Within a handful of years, artificial intelligence has moved from speculation
+    about what machines might one day accomplish to an everyday instrument of management,
+    disrupting manufacturing, banking, h
+  venue: European Journal of Innovation Management
+- title: 'Guest editorial: AI for a better future – advances, challenges and future
+    research directions'
+  date: 2026-05
+  url: https://doi.org/10.1108/intr-06-2026-034
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Liliane Abboud
+  - Nisreen Ameen
+  - Valentina Pitardi
+  abstract: Artificial intelligence (AI) is increasingly integrated into everyday
+    digital environments and is transforming how individuals interact with technologies,
+    organisations and service systems. AI-powered
+  venue: Internet Research
+- title: 'Guest editorial: Digital innovation ecosystem: profiting from technology
+    in the era of twin transition'
+  date: 2026-04
+  url: https://doi.org/10.1108/ejim-02-2026-056
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Domenica Barile
+  - Giustina Secundo
+  - Antonio Cimino
+  abstract: The convergence of digital transformation and sustainability imperatives,
+    commonly termed the twin transition, is profoundly reshaping the way innovation
+    is organized, governed and diffused across eco
+  venue: European Journal of Innovation Management
+- title: Swarm Robotics and Cooperative AI
+  date: 2026-03
+  url: https://doi.org/10.64137/31079911/ijmst-v2i1p103
+  category: multi-robot
+  subcategory: mechanism
+  authors:
+  - Victor Ogunrinde
+  abstract: Swarm robotics and cooperative AI represent a transformative approach
+    in robotics and artificial intelligence, drawing inspiration from collective behaviors
+    observed in natural systems such as ant col
+  venue: International Journal of Multidisciplinary Sciences and Technology
+- title: 'Collective Intelligence in Robotics: A Swarm Solution to Mapping and Payload
+    Transport'
+  date: 2026-06
+  url: https://doi.org/10.21203/rs.3.rs-9794763/v1
+  category: multi-robot
+  subcategory: theory
+  authors:
+  - Ajjay S. Gaadhe
+  - Nikhil Jagdale
+  - Aarya Furade
+  abstract: ''
+  venue: Research Square
+- title: Adaptive Swarm Intelligence with Meta-Learning for Efficient Autonomous Multi-Robot
+    Navigation and Pick-and-Drop Operations in Warehouse Environments
+  date: 2026-05
+  url: https://doi.org/10.56975/ijnrd.v11i5.325011
+  category: multi-robot
+  subcategory: method
+  authors:
+  - Mrs.S.Ramya Mrs.S.Ramya
+  - Thamizhselvan G
+  - Livya Jasmine A
+  abstract: 'This paper presents an adaptive swarm intelligence-based multi-robot
+    system designed for autonomous navigation and cooperative task execution in a
+    structured environment. The proposed system consists '
+  venue: International Journal of Novel Research and Development
+- title: A Distributed Computer Vision System for Coordination Among Swarms OF Mobile
+    Robots in Dynamic Warehouse Environments
+  date: 2026-05
+  url: https://www.neliti.com/publications/712051/a-distributed-computer-vision-system-for-coordination-among-swarms-of-mobile-rob
+  category: multi-robot
+  subcategory: method
+  authors:
+  - A. J. (Asmaa) Kadhum
+  abstract: With the advancement of modern technology, networks of autonomous vehicles
+    UI and interconnected cooperative rotary robots face various challenges in control
+    and navigation operations. To achieve opti
+  venue: Neliti
+- title: Distributed Holographic Synchronization Algorithm for Cooperative Autonomous
+    Underwater Exploration Robots
+  date: 2026-04
+  url: https://doi.org/10.23919/indiacom70271.2026.11526696
+  category: multi-robot
+  subcategory: method
+  authors:
+  - V. Selvi
+  - R. K. Maheswari
+  - G. Nithiyabharathi
+  abstract: 'The autonomous underwater exploration is a very important aspect of the
+    oceanographic research, the environmental surveillance, as well as the resource
+    mapping, yet it is extremely problematic due to '
+  venue: ''
+- title: Multi-robot coordination and control frameworks for achieving resilient emergency
+    management in hyperconnected and sensor-rich smart city environments
+  date: 2026-08
+  url: https://doi.org/10.1049/icp.2026.2564
+  category: multi-robot
+  subcategory: method
+  authors:
+  - Shweta Bansal
+  - Vandana Roy
+  - Shruti Agrawal
+  abstract: This paper sets out to implement a new multi-robot coordination and control
+    system that would support resilient emergency management in smart cities hyperconnected
+    sensor-rich smart city settings. The
+  venue: IET conference proceedings.
+- title: Energy-Efficient Guided Deep Reinforcement Learning for Cooperative UAV Swarms
+  date: 2026-03
+  url: https://doi.org/10.1109/iatmsi68868.2026.11465514
+  category: multi-robot
+  subcategory: theory
+  authors:
+  - Pusarla Surabhi Veda Rao
+  - Enaganti Venkat Reddy
+  - Alok Kumar Srivastava
+  abstract: Swarm robotic systems operating in large-scale agricultural monitoring
+    and dynamic damage reduction must function under strict energy constraints and
+    high safety requirements. Most existing multi agen
+  venue: ''
+- title: 'MROPE: A Multi-Robot Safe Cooperative Strategy via combined Predictive Safety
+    Filters and Ellipse-based Constraint Compression'
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.29203
+  category: multi-robot
+  subcategory: theory
+  authors:
+  - Alice Rosetti
+  - Lorenzo Pichierri
+  - Domenico Cappello
+  abstract: Deploying drone swarms to track a dynamic target in cluttered environments
+    presents severe computational and safety challenges. We propose MROPE, a hierarchical
+    strategy that decouples the cooperative
+  venue: arXiv (Cornell University)
+- title: 'HADEXION: Hadal Abyss Dynamics & Extreme-Pressure Intelligence'
+  date: 2026-03
+  url: https://doi.org/10.5281/zenodo.18883858
+  category: multi-robot
+  subcategory: method
+  authors:
+  - Samir Baladi
+  abstract: HADEXION is the first comprehensive physics-informed computational framework
+    for modeling and operating autonomous systems within Earth's hadal zone—oceanic
+    trenches exceeding 6,000 meters depth where
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Swarm AI Micro-Cockroach for Disaster Rescue
+  date: 2026-05
+  url: https://doi.org/10.5281/zenodo.20363989
+  category: multi-robot
+  subcategory: theory
+  authors:
+  - Sardar Dilbag Singh Khalsa
+  abstract: A bio-inspired artificial intelligence (AI) cockroach robot system for
+    autonomous navigation, environmental mapping, and confined-space exploration is
+    disclosed. The invention comprises a deformable e
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'Reinforcement-Guided Swarm Drones: Effects of PSO and Pheromones on Collective
+    Behaviour'
+  date: 2026-08
+  url: https://doi.org/10.1007/978-981-92-0779-4_13
+  category: multi-robot
+  subcategory: theory
+  authors:
+  - Neha Gupta
+  - Vivek Tetarwal
+  - Amit Mathur
+  abstract: ''
+  venue: Lecture notes in electrical engineering
+- title: 'SWARAM BOTS: AN ESP 32-BASED SWARAM ROBOTICS SYSTEM'
+  date: 2026-04
+  url: https://doi.org/10.56975/ijvra.v4i4.704045
+  category: multi-robot
+  subcategory: method
+  authors:
+  - Kurva Vidwan
+  - Kunchala Srilaxmi
+  - Kota Akshitha
+  abstract: Swarm robotics is an emerging field inspired by the collective behavior
+    of social organisms such as ants, bees, and birds, where simple agents cooperate
+    to achieve complex tasks. This project presents
+  venue: International Journal of Versatile Research and Analysis
+- title: A MODEL FOR SIMULATING RADIO-ELECTRONIC INTERFERENCE IN A DRONE SWARM SIMULATION
+    ENVIRONMENT
+  date: 2026-07
+  url: https://doi.org/10.70286/isu-01.07.2026.015
+  category: multi-robot
+  subcategory: method
+  authors:
+  - Igor Rohatskyi
+  abstract: 'Introduction.Autonomous drone swarms are increasingly being used for
+    search and rescue, monitoring, mapping, surveillance, and patrolling large or
+    hazardous areas [1], [2].Compared to a single drone, '
+  venue: ''
+- title: REAL TIME DECISION MAKING USING REINFORCEMENT LEARNING IN AUTONOMOUS ROBOTICS
+  date: 2026-07
+  url: https://doi.org/10.71443/9789349552050-12
+  category: multi-robot
+  subcategory: mechanism
+  authors:
+  - Bala subramanian
+  - S Satish Kumar T
+  - M Yuvaraj
+  abstract: Autonomous robotic systems increasingly operate in dynamic, uncertain,
+    and safety-critical environments where intelligent real-time decision making plays
+    a decisive role in ensuring reliable and effic
+  venue: ''
+- title: 'A Comprehensive Survey of Multi-Agent Reinforcement Learning for Autonomous
+    Systems: Algorithms, Applications, and Open Challenges'
+  date: 2026-02
+  url: https://doi.org/10.21203/rs.3.rs-8751804/v1
+  category: multi-robot
+  subcategory: method
+  authors:
+  - Adnan Khalid Bhatti
+  - Muhammad Kashif Mughal
+  abstract: ''
+  venue: Research Square
+- title: 'Towards Intelligent UAV Path Planning: A Systematic Review of Hybrid Reinforcement
+    Learning and Metaheuristic Optimization'
+  date: 2026-07
+  url: https://doi.org/10.21203/rs.3.rs-10315373/v1
+  category: multi-robot
+  subcategory: development
+  authors:
+  - Claudio Henríquez
+  - Felipe Zambrano
+  - Broderick Crawford
+  abstract: ''
+  venue: Research Square
+- title: Autonomous sailing with sim-to-real reinforcement learning
+  date: 2026-08
+  url: https://doi.org/10.1016/j.engappai.2026.115804
+  category: simulation
+  subcategory: method
+  authors:
+  - Kiki Johanna Alberdina Bink
+  - Bülent Düz
+  - Gabriel D. Weymouth
+  abstract: Autonomous sailing offers a sustainable alternative for reducing greenhouse
+    gas emissions in maritime transport, aligning with global environmental targets.
+    This study explores the application of rein
+  venue: Engineering Applications of Artificial Intelligence
+- title: 'RflySimVision: A distributed hardware-in-the-loop sim-to-real simulator
+    for vision-based unmanned swarm system'
+  date: 2026-03
+  url: https://doi.org/10.1016/j.robot.2026.105417
+  category: simulation
+  subcategory: development
+  authors:
+  - Xunhua Dai
+  - Ding Guo
+  - Jinhu Tu
+  abstract: ''
+  venue: Robotics and Autonomous Systems
+- title: 'Towards bridging the gap: Systematic sim-to-real transfer for diverse legged
+    robots'
+  date: 2026-07
+  url: https://arxiv.org/abs/2509.06342
+  category: simulation
+  subcategory: method
+  authors:
+  - Filip Bjelonic
+  - Fabian Tischhauser
+  - Marco Hutter
+  abstract: Legged robots must achieve both robust locomotion and energy efficiency
+    to be practical in real-world environments. Yet controllers trained in simulation
+    often fail to transfer reliably, and most exis
+  venue: The International Journal of Robotics Research
+- title: Scaling Sim-to-Real Learning for Robot Manipulation
+  date: 2026-07
+  url: https://doi.org/10.1184/r1/32984711.v1
+  category: simulation
+  subcategory: method
+  authors:
+  - Yufei Wang
+  abstract: Building a generalist robot capable of performing diverse tasks in unstructured
+    environments remains a longstanding challenge. A recent trend in robot learning
+    aims to address this by scaling up demon
+  venue: KiltHub Repository
+- title: Physics Models for Sim-to-Real Transfer in Professional-Level Robot Table
+    Tennis
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.28805
+  category: simulation
+  subcategory: method
+  authors:
+  - Christian Conti
+  - Bilan Yang
+  - Alexander Sigrist
+  abstract: At competitive speeds and spins, a table tennis ball follows complex,
+    counterintuitive trajectories that a robot must track and precisely counter within
+    fractions of a second. Training a reinforcement
+  venue: arXiv (Cornell University)
+- title: 'Physical AI: The Convergence of Foundation Models, Sim-to-Real Transfer,
+    and Embodied Intelligence'
+  date: 2026-06
+  url: https://doi.org/10.33851/jmis.2026.13.2.53
+  category: simulation
+  subcategory: theory
+  authors:
+  - Young-myoung Kang
+  abstract: The frontier of artificial intelligence research has shifted dramatically
+    from digital domains toward Physical AI - systems capable of intelligently interacting
+    with the physical world through embodie
+  venue: Journal of Multimedia Information System
+- title: Sim-to-real transfer by hybrid Gaussian Splatting and geometric reconstruction
+    for autonomous driving
+  date: 2026-03
+  url: https://doi.org/10.1016/j.engappai.2026.114372
+  category: simulation
+  subcategory: evaluation
+  authors:
+  - Alejandro Olivas
+  - Miguel Ángel Muñoz-Bañón
+  - Fernando Torres
+  abstract: ''
+  venue: Engineering Applications of Artificial Intelligence
+- title: 'TactSpace: Learning a Physics-enriched Shared Latent Space for Tactile Sim-to-Real
+    Transfer'
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.18959
+  category: simulation
+  subcategory: method
+  authors:
+  - Arunim Joarder
+  - Arjun Bhardwaj
+  - René Zurbrügg
+  abstract: Tactile sensing provides direct measurements of contact interactions that
+    are essential for robotic manipulation. However, current simulators lack the fidelity
+    to faithfully model the complex deformat
+  venue: arXiv (Cornell University)
+- title: 'REALITY STRIKES BACK: A CONCEPT-CENTRIC FRAMEWORK FOR ADDRESSING THE SIM-TO-REAL
+    GAP IN MANUFACTURING SIMULATION'
+  date: 2026-06
+  url: https://osf.io/86cgu
+  category: simulation
+  subcategory: mechanism
+  authors:
+  - Gregor Blossey
+  - Maximilian Stablum
+  - Stefan Haeussler
+  abstract: Simulation plays a central role in the analysis and optimization of manufacturing
+    systems. However, transferring models or policies developed in simulation to real-world
+    environments remains challengi
+  venue: OSF Preprints (OSF Preprints)
+- title: Sim-to-Real Transfer of Vision-Language Navigation in Continuous Environments
+    Using an Ackermann-Steered Mobile Robot
+  date: 2026-04
+  url: https://doi.org/10.1109/iccar69571.2026.11549553
+  category: simulation
+  subcategory: mechanism
+  authors:
+  - Chalindu Abeywansa
+  - Sahan Gunasekara
+  - Devindi De Silva
+  abstract: Vision-Language Navigation (VLN) enables robots to navigate through environments
+    using natural language instructions, making human-robot interaction intuitive.
+    Traditional VLN models often rely on nav
+  venue: ''
+- title: 'World Translation: Minimizing Sim-to-Real Gap with Backward Dynamics Extraction
+    and Unpaired Domain Translation'
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.18154
+  category: simulation
+  subcategory: method
+  authors:
+  - Xinchen Yao
+  - Leixin Chang
+  - Hua Chen
+  abstract: The gap between simulation and reality remains a fundamental challenge
+    in deploying simulation-trained robotic policies in the real world. Real-to-sim
+    methods narrow this gap from the real side, learn
+  venue: arXiv (Cornell University)
+- title: Tendon Force Modeling for Sim2Real Transfer of Reinforcement Learning Policies
+    for Tendon-Driven Robots
+  date: 2026-03
+  url: https://arxiv.org/abs/2603.04351
+  category: simulation
+  subcategory: method
+  authors:
+  - Valentin Yuryev
+  - Josie Hughes
+  abstract: Robots which make use of soft or compliant inter- actions often leverage
+    tendon-driven actuation which enables actuators to be placed more flexibly, and
+    compliance to be maintained. However, controlli
+  venue: arXiv (Cornell University)
+- title: A Capacitive Tactile Sensor Digital Twin for Real-Time Synthetic Data Generation
+    and Sim-to-Real Transfer in NVIDIA Isaac Sim
+  date: 2026-08
+  url: https://doi.org/10.3390/app16157708
+  category: simulation
+  subcategory: method
+  authors:
+  - Brenda Sanchez
+  - Jean-Philippe Roberge
+  abstract: With advances in robotic manipulation in recent years, tactile sensing
+    has become increasingly important in scenarios where visual information is unreliable
+    or insufficient. However, the development o
+  venue: Applied Sciences
+- title: 'Closing the Sim-to-Real Loop Through Representation, Interface, and Feedback:
+    How Dynamics-Aware Perception, Factored Policy Structure, and Embodied Feedback
+    Jointly Determine Transfer Fidelity in Robot Learning'
+  date: 2026-06
+  url: https://doi.org/10.5281/zenodo.20642294
+  category: simulation
+  subcategory: theory
+  authors:
+  - Saluca Agentic AI Research Team
+  abstract: 'Version 2 — revised in response to an external structural review and
+    an automated critique pass. See "Response to Review" appendix in the PDF for the
+    change log. A persistent structural bottleneck in '
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Bridging the Simulation-to-Reality Gap in Reinforcement Learning-Based Autonomous
+    Robot Navigation
+  date: 2026-08
+  url: https://doi.org/10.5281/zenodo.21791119
+  category: simulation
+  subcategory: method
+  authors:
+  - Cecilia Augustine Abi, Joe Essien, Amaku Effiong Amaku
+  abstract: Abstract Reinforcement learning (RL) is applied to many autonomous robots
+    in simulation before deploying them into the real world; however, the gap between
+    simulation and reality is still a key challe
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Generative Simulation for Policy Learning in Physical Human-Robot Interaction
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.08664
+  category: simulation
+  subcategory: method
+  authors:
+  - Junxiang Wang
+  - Xinwen Xu
+  - Tiancheng Wu
+  abstract: Developing autonomous physical human-robot interaction (pHRI) systems
+    is limited by the scarcity of large-scale training data to learn robust robot
+    behaviors for real-world applications. In this paper
+  venue: arXiv (Cornell University)
+- title: SIMULATION ENVIRONMENTS FOR TRAINING REINFORCEMENT LEARNING DRIVEN ROBOTIC
+    SYSTEMS
+  date: 2026-07
+  url: https://doi.org/10.71443/9789349552050-09
+  category: simulation
+  subcategory: theory
+  authors:
+  - Balraj Hooda -
+  - P Daniel Jeyakumar
+  - K Jeyakumar
+  abstract: The rapid advancement of autonomous robotic systems has increased the
+    demand for intelligent learning frameworks capable of adapting to complex and
+    dynamic environments. Reinforcement Learning (RL) ha
+  venue: ''
+- title: 'ExpertGen: Scalable Sim-to-Real Expert Policy Learning from Imperfect Behavior
+    Priors'
+  date: 2026-03
+  url: https://arxiv.org/abs/2603.15956
+  category: simulation
+  subcategory: method
+  authors:
+  - Zifan Xu
+  - Ran Gong
+  - Maria Vittoria Minniti
+  abstract: 'Learning generalizable and robust behavior cloning policies requires
+    large volumes of high-quality robotics data. While human demonstrations (e.g.,
+    through teleoperation) serve as the standard source '
+  venue: arXiv (Cornell University)
+- title: 'V-Dreamer: Automating Robotic Simulation and Trajectory Synthesis via Video
+    Generation Priors'
+  date: 2026-03
+  url: https://arxiv.org/abs/2603.18811
+  category: simulation
+  subcategory: method
+  authors:
+  - Songjia He
+  - Zixuan Chen
+  - Hongyu Ding
+  abstract: 'Training generalist robots demands large-scale, diverse manipulation
+    data, yet real-world collection is prohibitively expensive, and existing simulators
+    are often constrained by fixed asset libraries '
+  venue: arXiv (Cornell University)
+- title: A High-Fidelity Digital Twin Framework for Multi-Modal Sim-to-Real Transfer
+    for Robust UAV Autonomy
+  date: 2026-02
+  url: https://doi.org/10.1109/i5cps67958.2026.11452535
+  category: simulation
+  subcategory: method
+  authors:
+  - Ratan Priyanshu
+  - Mohit Agarwal
+  - Paawan Kumar
+  abstract: 'Autonomous Unmanned Aerial Vehicle (UAV) navigation remains an important
+    challenge under GNSS-denied and communication-jammed conditions. Visual-Inertial
+    Odometry (VIO) systems experience compounding '
+  venue: ''
+- title: 'VIRTUS-FPP: Virtual Sensor Modeling for Fringe Projection Profilometry in
+    NVIDIA Isaac Sim'
+  date: 2026-06
+  url: https://arxiv.org/abs/2509.22685
+  category: simulation
+  subcategory: method
+  authors:
+  - A. Syed Haroon
+  - Anush Lakshman
+  - Badrinath Balasubramaniam
+  abstract: Fringe projection profilometry (FPP) is a high-precision structured-light
+    sensing technique for 3D surface reconstruction, yet its practical deployment
+    is often constrained by complex calibration proc
+  venue: IEEE Sensors Journal
+- title: 'TactGen: Tactile Sensory Data Generation via Zero-Shot Sim-to-Real Transfer
+    (Abstract Reprint)'
+  date: 2026-03
+  url: https://doi.org/10.1609/aaai.v40i47.41424
+  category: simulation
+  subcategory: method
+  authors:
+  - Shaohong Zhong
+  - Alessandro Albini
+  - Perla Maiolino
+  abstract: Recent advances in machine learning have driven a step-change in robot
+    perception with modalities such as vision, where large amounts of training data
+    are readily available or cheap to collect. Howeve
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+- title: 'Vision-Language-Action Models for Embodied AI: A Survey of Robotics, Manipulation,
+    and Autonomous Agents'
+  date: 2026-07
+  url: https://doi.org/10.5281/zenodo.21366292
+  category: simulation
+  subcategory: method
+  authors:
+  - Abeda Elhenawy
+  abstract: AbstractThe success of large language models (LLMs) and vision-language
+    models (VLMs) in digital domains has motivated theirextension into the physical
+    world through Vision-Language-Action (VLA) model
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'AirDreamer: Generalist Drone Navigation with World Models'
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.03252
+  category: simulation
+  subcategory: method
+  authors:
+  - Zian Liu
+  - Andong Yang
+  - Chunkai Yang
+  abstract: Navigating a drone in unseen and cluttered environments requires reliable
+    generalization to unseen scene layouts and understanding of environmental structure
+    relative to the robot's capabilities. Prev
+  venue: arXiv (Cornell University)
+- title: Evolutionary Optimization for Tuning Robot Swarms in Coverage Problems
+  date: 2026-03
+  url: https://doi.org/10.26190/unsworks/32094
+  category: simulation
+  subcategory: theory
+  authors:
+  - Reda Ghanem
+  abstract: Swarm robotics offers a compelling paradigm for solving complete coverage
+    problems, yet practical deployment is hindered by critical challenges in parameter
+    tuning, sim-to-real transferability, and ad
+  venue: Open MIND
+- title: 'State of World Models 2026 : Taxonomy, Benchmarks and Open Challenges'
+  date: 2026-07
+  url: https://doi.org/10.5281/zenodo.21345187
+  category: simulation
+  subcategory: method
+  authors:
+  - Bernard Grenat
+  abstract: World models are becoming an increasingly important, but still loosely
+    defined, area of artificial intelligence. They include systems designed to learn
+    predictive representations of environments, simu
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: AI and mechanics driving the rise of bio-inspired robotic swarms
+  date: 2026-04
+  url: https://doi.org/10.1117/12.3089992
+  category: simulation
+  subcategory: method
+  authors:
+  - Maksat Bekkuliyev
+  - Christian Peco
+  abstract: Biological collectives such as slime molds, fungal networks, and bird
+    flocks achieve robust coordination and adaptability through decentralized interactions
+    among simple agents. This work explores how
+  venue: ''
+- title: Time-to-Collision Based Dynamic Obstacle Avoidance Using Pretrained Vision
+    Models for Robots in Unstructured Environments
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.07885
+  category: simulation
+  subcategory: mechanism
+  authors:
+  - Erik Jagnandan
+  - Mulugeta Haile
+  - Gregory Barber
+  abstract: Dynamic obstacle avoidance in unstructured outdoor environments remains
+    a critical challenge for autonomous mobile robots, particularly when large-scale
+    robot-specific training data and simulation-bas
+  venue: arXiv (Cornell University)
+- title: 'Embodied Deployment Constraints as a Design Variable: How Edge Inference
+    Budgets, Tactile Representation, Temporal Decoupling, Credit Assignment, and Safety
+    Certification Jointly Constrain Real-World Robot Policy Deployment'
+  date: 2026-06
+  url: https://doi.org/10.5281/zenodo.20731139
+  category: simulation
+  subcategory: theory
+  authors:
+  - Saluca Agentic AI Research Team
+  abstract: A persistent gap separates robot policies that perform well in simulation
+    or on large-server inference from those that function reliably when deployed on
+    physical hardware under real-world constraints
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: DRL-Based Pose Control for Double-Ackermann Robots Under Actuation Uncertainties
+  date: 2026-05
+  url: https://arxiv.org/abs/2606.00313
+  category: simulation
+  subcategory: method
+  authors:
+  - Oussama Zaim
+  - Mélodie Daniel
+  - Aly Magassouba
+  abstract: Robust deployment of deep reinforcement learning (DRL) policies on real
+    robots remains challenging due to discrepancies between simulation and real-world
+    dynamics. We address this issue in the context
+  venue: HAL (Le Centre pour la Communication Scientifique Directe)
+- title: 'DexWorldModel: Causal Latent World Modeling towards Automated Learning of
+    Embodied Tasks'
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.16484
+  category: simulation
+  subcategory: method
+  authors:
+  - Yueci Deng
+  - Guiliang Liu
+  - Kui Jia
+  abstract: Deploying generative World-Action Models for manipulation is severely
+    bottlenecked by redundant pixel-level reconstruction, $\mathcal{O}(T)$ memory
+    scaling, and sequential inference latency. We introd
+  venue: arXiv (Cornell University)
+- title: 'Ep. 1059: Google''s World Models: The Shift from Chatbots to Reality'
+  date: 2026-03
+  url: https://doi.org/10.5281/zenodo.19362286
+  category: simulation
+  subcategory: application
+  authors:
+  - Daniel Rosehill
+  - Gemini 3.1 (Flash)
+  - Chatterbox TTS
+  abstract: 'Episode summary: Explore the massive shift from Large Language Models
+    to World Models as Google DeepMind unveils its "World-Synth" architecture. This
+    episode dives into the creation of high-fidelity d'
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'Physical AI: The Next Frontier in AI and Robotics to Build Truly Autonomous
+    Machines'
+  date: 2026-04
+  url: https://doi.org/10.20944/preprints202604.0549.v1
+  category: simulation
+  subcategory: theory
+  authors:
+  - Ankit Shah
+  - Minghao Liu
+  - Jinrui Huang
+  abstract: For decades, artificial intelligence transformed digital domains while
+    the physical world, with its unforgiving dynamics and infinite variability, remained
+    largely beyond reach. That boundary is now d
+  venue: Preprints.org
+- title: 'MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation'
+  date: 2026-03
+  url: https://arxiv.org/abs/2603.16861
+  category: simulation
+  subcategory: application
+  authors:
+  - Abhay Deshpande
+  - Maya Guru
+  - Rose Hendrix
+  abstract: A prevailing view in robot learning is that simulation alone is not enough;
+    effective sim-to-real transfer is widely believed to require at least some real-world
+    data collection or task-specific fine-
+  venue: arXiv (Cornell University)
+- title: 'DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects'
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.22116
+  category: simulation
+  subcategory: method
+  authors:
+  - Yi Yang
+  - Xiang Fei
+  - Lehong Wang
+  abstract: Deformable linear objects (DLOs) such as wires, cables, and ropes are
+    common in robotic manipulation tasks, yet simulating them with both visual realism
+    and physical accuracy remains challenging. Exis
+  venue: arXiv (Cornell University)
+- title: 'TacCoRL: Integrating Tactile Feedback into VLA via Simulation'
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.11743
+  category: simulation
+  subcategory: method
+  authors:
+  - Siyu Ma
+  - Yuqi Liang
+  - Chang Yu
+  abstract: Vision-language-action (VLA) models provide strong visual, language, and
+    action priors for robot manipulation, but visual observations alone often miss
+    the local contact state required for contact-ric
+  venue: arXiv (Cornell University)
+- title: Construction of an industrial digital twin platform for multi-robot arm collaborative
+    control
+  date: 2026-06
+  url: https://doaj.org/article/e06a7777def141b3b6714e34080ea715
+  category: simulation
+  subcategory: method
+  authors:
+  - Zhenyu ZHONG
+  - Lei Mo
+  abstract: 'This study addresses the critical demand for efficient and intelligent
+    multi-robot collaboration in modern industrial environments by proposing, designing,
+    and implementing a novel industrial digital '
+  venue: 'DOAJ (DOAJ: Directory of Open Access Journals)'
+- title: 'CAA-X V5.1 Robot Extension (CAA-R): Modular Control for Embodied Agents
+    — Revised and Expanded Edition'
+  date: 2026-08
+  url: https://doi.org/10.5281/zenodo.21896904
+  category: simulation
+  subcategory: theory
+  authors:
+  - Qi LU
+  abstract: 'This repository contains V5.1 of the CAA-X (Cognitive Atom Architecture
+    eXtension) research program, subtitled "Robot Extension (CAA-R): Modular Control
+    for Embodied Agents — Revised and Expanded Edit'
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'Deep Learning-Based Point Cloud Registration: A Comprehensive Survey and
+    Taxonomy'
+  date: 2026-03
+  url: https://doi.org/10.1007/s11263-025-02723-w
+  category: survey
+  subcategory: review
+  authors:
+  - Yu-Xin Zhang
+  - Jie Gui
+  - Baosheng Yu
+  abstract: ''
+  venue: International Journal of Computer Vision
+- title: A survey of deep learning techniques for image-based disease detection in
+    dicot plants
+  date: 2026-03
+  url: https://doi.org/10.1016/j.inpa.2026.03.014
+  category: survey
+  subcategory: method
+  authors:
+  - Adeeba Anis
+  - Penghao Wang
+  - Chengdao Li
+  abstract: Deep learning techniques have become popular for detecting dicot plant
+    diseases with high accuracy and throughput. Their recent impact on agriculture
+    has been significant, helping minimize crop losses
+  venue: Information Processing in Agriculture
+- title: 'Predicting the World via Video Representation: A Comprehensive Survey on
+    Video World Models'
+  date: 2026-05
+  url: https://doi.org/10.20944/preprints202605.0435.v1
+  category: survey
+  subcategory: method
+  authors:
+  - Jiaxin Yan
+  - Chaoning Zhang
+  - Xudong Wang
+  abstract: Video world models have emerged as a critical framework, offering a powerful
+    approach to modeling dynamic environments through lens of video data, and serving
+    as a key tool for understanding and predi
+  venue: Preprints.org
+- title: 'Collaboration in Multi-Robot Systems: Taxonomy and Survey over Frameworks
+    for Collaboration'
+  date: 2026-03
+  url: https://arxiv.org/abs/2603.23898
+  category: survey
+  subcategory: method
+  authors:
+  - Riwa Karam
+  - Alexander A. Nguyen
+  - Ruoyu Lin
+  abstract: Collaboration is a central theme in multi-robot systems as tasks and demands
+    increasingly require capabilities that go beyond what any one individual robot
+    possesses. Yet, despite extensive work on co
+  venue: arXiv (Cornell University)
+- title: A Survey of Continual Learning for Robotics in the Foundation Model Era
+  date: 2026-02
+  url: https://doi.org/10.36227/techrxiv.176972367.76460794/v3
+  category: survey
+  subcategory: method
+  authors:
+  - Zheda Mai
+  - Zanming Huang
+  - Sooyoung Jeon
+  abstract: 'The integration of foundation models has revolutionized robotics, endowing
+    agents with unprecedented perception, planning and control capabilities. However,
+    most current robotic models remain static: '
+  venue: ''
+- title: A Survey of Sim-to-Real Transfer Methods in Robot Learning.
+  date: 2026-07
+  url: https://doi.org/10.5281/zenodo.21101584
+  category: survey
+  subcategory: method
+  authors:
+  - Daniyal Musadiq
+  abstract: Robots trained entirely in simulation often fail when deployed on real
+    hardware — a problem known as the "reality gap." In this survey, I review the
+    major approaches researchers have developed to clos
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'Robot localization: a comprehensive survey from classical methods to intelligent
+    autonomy'
+  date: 2026-03
+  url: https://doi.org/10.1007/s41315-026-00528-9
+  category: survey
+  subcategory: method
+  authors:
+  - Mohammad Alipourvarmazabadi
+  - Marc Ebner
+  abstract: Abstract Building on previous surveys that often focus on specific components
+    of robot localization, this work offers an integrated review spanning algorithmic
+    estimators, mapping paradigms, and senso
+  venue: International Journal of Intelligent Robotics and Applications
+- title: 'Multi-Modal Radiance Fields in Robotics: A Survey'
+  date: 2026-04
+  url: https://doi.org/10.1109/iccc68994.2026.11511655
+  category: survey
+  subcategory: method
+  authors:
+  - Matúš Dopiriak
+  - Miroslav Imrich
+  - Peter Drotár
+  abstract: 'The evolution of large language models (LLMs) from stochastic next-token
+    optimization to goal-oriented agentic AI has catalyzed the emergence of physical
+    AI within robotics. These systems require the '
+  venue: ''
+- title: Cooperative Perception for Multi-Robot Systems in Natural Outdoor Applications
+    – A Survey
+  date: 2026-06
+  url: https://doi.org/10.1007/s10846-026-02404-x
+  category: survey
+  subcategory: mechanism
+  authors:
+  - Kalhan Boralessa
+  - Doa Adama
+  - Ahmad Lotfi
+  abstract: Abstract Cooperative perception, the collaborative sensing and interpretation
+    of environmental data by multiple robots, is increasingly vital for deploying
+    heterogeneous unmanned ground and aerial veh
+  venue: Journal of Intelligent & Robotic Systems
+- title: 'Computer Vision for Collaborative Robots in Industry 5.0: A Survey of Techniques,
+    Gaps, and Future Directions'
+  date: 2026-03
+  url: https://doi.org/10.3390/engproc2026124099
+  category: survey
+  subcategory: mechanism
+  authors:
+  - Himani Varolia
+  - César M. A. Vasques
+  - Adélio M. S. Cavadas
+  abstract: 'Collaborative robots are increasingly deployed in human-shared industrial
+    workspaces, where perception is a key enabler for safe interaction, flexible manipulation,
+    and human-aware task execution. In '
+  venue: ''
+- title: Robotic and AI Enabled Waste Segregation A Systematic Review of Methods Benchmarks
+    and Challenges
+  date: 2026-03
+  url: https://doi.org/10.21203/rs.3.rs-8474173/v1
+  category: survey
+  subcategory: method
+  authors:
+  - Manish Kumar Saini
+  - Rashmi Chawla
+  - Amit Kulshreshtha
+  abstract: ''
+  venue: Research Square
+- title: 'Path Planning for Multiple Mobile Robots: A Systematic Review Using Parameter-Mapped
+    Benchmarking'
+  date: 2026-08
+  url: https://doi.org/10.3390/machines14080870
+  category: survey
+  subcategory: theory
+  authors:
+  - Ashish Umbarkar
+  - B. K. Patle
+  - Sudarshan Sanap
+  abstract: This survey presents a large-scale, reproducible, and parameter-mapped
+    benchmarking analysis of path planning algorithms for multiple mobile robot systems
+    (MMRS) by systematically examining 247 rigoro
+  venue: Machines
+- title: 'Beyond correlation: a survey on causal inference for dynamics-aware perception
+    and introspective decision-making in robotics'
+  date: 2026-07
+  url: https://doi.org/10.1007/s11071-026-12695-2
+  category: survey
+  subcategory: review
+  authors:
+  - Yule Cai
+  - Xi Zhang
+  - Shengrui Liu
+  abstract: ''
+  venue: Nonlinear Dynamics
+- title: 'Recent advances in AI-based mobile robots for human companionship: survey'
+  date: 2026-06
+  url: https://doi.org/10.1007/s10462-026-11603-9
+  category: survey
+  subcategory: theory
+  authors:
+  - Ahmed Abdu
+  - Redhwan Algabri
+  - Riyadh Nazar Ali Algburi
+  abstract: Human companionship is an essential capability for mobile robots operating
+    in dynamic, human-centered environments. It enables robots to perform tasks such
+    as guidance, assistance, surveillance, and s
+  venue: Artificial Intelligence Review
+- title: 'Mobile Robot Localization and SLAM: A Critical Review of Sensors, Multi-Sensor
+    Fusion, and Neural Representations'
+  date: 2026-07
+  url: https://doi.org/10.3390/robotics15080142
+  category: survey
+  subcategory: theory
+  authors:
+  - José Miguel Guerrero Hernández
+  - Rodrigo Pérez‐Rodríguez
+  - Juan S. Cely
+  abstract: Accurate and robust localization remains the fundamental bottleneck for
+    truly autonomous robotic systems, despite decades of progress in probabilistic
+    estimation and SLAM. This paper provides a critic
+  venue: Robotics
+- title: 'Reinforcement Learning for Diffusion Policies in Robotics: A Survey and
+    State-Based Locomotion Reproduction'
+  date: 2026-08
+  url: https://doi.org/10.3390/robotics15080147
+  category: survey
+  subcategory: theory
+  authors:
+  - Shihan Sun
+  - Yinlong Liu
+  abstract: Diffusion policies model multimodal robot action sequences, but behavioral
+    cloning does not directly optimize task return. We present a structured scoping
+    review of reinforcement learning for generati
+  venue: Robotics
+- title: 'A Survey-Driven Framework for Autonomous Mobile Robot Navigation Systems:
+    The Perception–Cognition–Operation (PCO) Approach'
+  date: 2026-03
+  url: https://doi.org/10.20944/preprints202603.0528.v1
+  category: survey
+  subcategory: theory
+  authors:
+  - Marcus Vinicius Leal Carvalho
+  - Leopoldo Rideki Yoshioka
+  - João Francisco Justo
+  abstract: 'This paper introduces a novel theoretical framework for classifying Autonomous
+    Mobile Robots (AMRs) into three hierarchical layers: Perception, Cognition, and
+    Operation. Unlike prior hardware-centric '
+  venue: Preprints.org
+- title: A Survey of Embodied World Models
+  date: 2026-04
+  url: https://doi.org/10.20944/preprints202604.0928.v1
+  category: survey
+  subcategory: method
+  authors:
+  - Yu Shang
+  - Yinzhou Tang
+  - Xin Zhang
+  abstract: World models have emerged as a pivotal research direction, with recent
+    breakthroughs in generative AI underscoring their potential for advancing artificial
+    general intelligence. For embodied AI, world
+  venue: Preprints.org
+- title: 'Speculative Decoding for Multimodal Models: A Survey'
+  date: 2026-03
+  url: https://doi.org/10.20944/preprints202603.2344.v1
+  category: survey
+  subcategory: theory
+  authors:
+  - Yifan Zhang
+  - Yuren Wang
+  - Yunta Hsieh
+  abstract: Multimodal generative models have demonstrated remarkable capabilities
+    in visual understanding, audio synthesis, and embodied control. Such capabilities,
+    however, come with substantial inference overh
+  venue: Preprints.org
+- title: '3D point cloud processing and analysis: a survey'
+  date: 2026-07
+  url: https://doi.org/10.1007/s11042-026-21797-3
+  category: survey
+  subcategory: review
+  authors:
+  - Alireza Dehghanpour
+  - Zahra Sharifi
+  - Pourya Khaksari
+  abstract: ''
+  venue: Multimedia Tools and Applications
+- title: 'Sensing the Action: Rethinking Sensor Modalities and Multi-Modal Fusion
+    in Vision–Language–Action Models for Robotic Manipulation'
+  date: 2026-06
+  url: https://doi.org/10.3390/s26113541
+  category: survey
+  subcategory: theory
+  authors:
+  - Byoung Chul Ko
+  abstract: 'Recent Vision-Language-Action (VLA) models have rapidly emerged as general-purpose
+    robotic policies that integrate language understanding, visual perception, and
+    robot control. However, prior studies '
+  venue: Sensors
+- title: 'Multi-agent task and motion planning trends analysis: a survey'
+  date: 2026-05
+  url: https://doi.org/10.1007/s10462-026-11588-5
+  category: survey
+  subcategory: theory
+  authors:
+  - Xi Tao
+  - José-Fernán Martínez-Ortega
+  - Néstor Lucas-Martínez
+  abstract: Abstract Multi-agent Task and Motion Planning (TAMP) has become a key
+    research frontier in autonomous agents, supported by the rapid evolution of Embodied
+    AI and the increasing deployment of robot tea
+  venue: Artificial Intelligence Review
+- title: 'Memory in Vision-Language Models: Taxonomy, Mechanisms, and Applications'
+  date: 2026-07
+  url: https://doi.org/10.20944/preprints202607.1539.v1
+  category: survey
+  subcategory: mechanism
+  authors:
+  - Shaojun Xia
+  - Yizhuo He
+  - Jiashen Liu
+  abstract: Vision-language models (VLMs) have achieved remarkable progress in multimodal
+    understanding and generation by integrating visual and linguistic representations.
+    However, most current VLMs lack explici
+  venue: Preprints.org
+- title: 'Evolutionary algorithms as information fusion architectures: A survey'
+  date: 2026-07
+  url: https://doi.org/10.1016/j.inffus.2026.104578
+  category: survey
+  subcategory: method
+  authors:
+  - Mahade Hasan
+  - Yu Xue
+  - Farhana Yasmin
+  abstract: ''
+  venue: Information Fusion
+- title: 'Advances in Feed‐Forward 3D Reconstruction and View Synthesis: A Survey'
+  date: 2026-05
+  url: https://arxiv.org/abs/2507.14501
+  category: survey
+  subcategory: method
+  authors:
+  - Jiahui Zhang
+  - Yuelei Li
+  - A.P.-C. Chen
+  abstract: Abstract 3D reconstruction and view synthesis are foundational problems
+    in computer vision, graphics, and immersive technologies such as augmented reality
+    (AR), virtual reality (VR), and digital twins
+  venue: Computer Graphics Forum
+- title: 'Orchestrating LLMs with Specialized Models: A Survey on Heterogeneous Multi-Model
+    Agents'
+  date: 2026-07
+  url: https://doi.org/10.20944/preprints202607.1041.v1
+  category: survey
+  subcategory: application
+  authors:
+  - Zheng Zhang
+  - Nanjie Yao
+  - Yu Feng
+  abstract: Large language models (LLMs) have become a common center for building
+    intelligent agents, yet many real tasks still need abilities that a single LLM
+    cannot provide. A growing line of work therefore co
+  venue: Preprints.org
+- title: 'Evolutionary Algorithms and Engineering Applications: A Comprehensive Survey
+    of Classical Methods and Emerging Trends'
+  date: 2026-06
+  url: https://doi.org/10.20944/preprints202606.0126.v1
+  category: survey
+  subcategory: mechanism
+  authors:
+  - Mahade Hasan
+  - Farhana Yasmin
+  abstract: 'Evolutionary algorithms (EAs) are widely used nature-inspired optimization
+    methods capable of solving complex and high-dimensional problems across science
+    and engineering. Foundational paradigms such '
+  venue: Preprints.org
+- title: 'Lifelong Representations: A Survey on Continual Self-Supervised Learning
+    for Vision Models'
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.09785
+  category: survey
+  subcategory: method
+  authors:
+  - Sergi Masip
+  - Alicja Dobrzeniecka
+  - Jonathan Swinnen
+  abstract: Traditionally, continual learning has assumed access to labeled data,
+    yet many real-world applications -- such as lifelong robotics -- require models
+    to adapt continuously from unlabeled streams. This
+  venue: arXiv (Cornell University)
+- title: 'World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning
+    Paradigms, and Applications'
+  date: 2026-05
+  url: https://arxiv.org/abs/2606.00133
+  category: survey
+  subcategory: theory
+  authors:
+  - Arif Hassan Zidan
+  - Yi Pan
+  - Hanqi Jiang
+  abstract: World models, internal simulators that learn the structure and dynamics
+    of an environment, have emerged as a central paradigm in the pursuit of artificial
+    general intelligence, enabling agents to pred
+  venue: arXiv (Cornell University)
+- title: 'Surface Offsetting: A Survey From Geometric Construction to Neural Implicit
+    Representations'
+  date: 2026-03
+  url: https://doi.org/10.1109/tvcg.2026.3676903
+  category: survey
+  subcategory: theory
+  authors:
+  - Xinyu Zhao
+  - Yuanrui Yang
+  - Jianmin Wang
+  abstract: Surface offsetting is a fundamental geometric operation in computer-aided
+    design, manufacturing, robotics, and computational physics. Despite its conceptual
+    simplicity, generating offset surfaces robu
+  venue: IEEE Transactions on Visualization and Computer Graphics
+- title: 'How large-scale foundation models benefit precision livestock farming: A
+    survey'
+  date: 2026-04
+  url: https://doi.org/10.1016/j.aiia.2026.04.013
+  category: survey
+  subcategory: theory
+  authors:
+  - Mengxiao Tian
+  - Hao Guo
+  - Chengjiang Long
+  abstract: 'Precision Livestock Farming integrates advanced technologies such as
+    the internet of things (IoT), artificial intelligence (AI), big data and machinery
+    automation into traditional animal husbandry to '
+  venue: Artificial Intelligence in Agriculture
+- title: 'Many-objective hyper-heuristics: A state-of-the-art survey'
+  date: 2026-03
+  url: https://doi.org/10.1016/j.cosrev.2026.100971
+  category: survey
+  subcategory: evaluation
+  authors:
+  - Adeem Ali Anwar
+  - Xuyun Zhang
+  abstract: ''
+  venue: Computer Science Review
+- title: 'A Survey of Agent Skills: Toward Procedural Infrastructure for LLM Agents'
+  date: 2026-05
+  url: https://doi.org/10.20944/preprints202605.1276.v1
+  category: survey
+  subcategory: mechanism
+  authors:
+  - Cehao Yang
+  - Xiaojun Wu
+  - Honghao Liu
+  abstract: 'Large language model (LLM) agents are increasingly expected to solve
+    long-horizon tasks through repeated interaction with external environments, tools,
+    users, and other agents. In this setting, agent '
+  venue: Preprints.org
+- title: 'Rethinking Multi-Label Image Classification With Deep Learning: Taxonomy,
+    Challenge, and Outlook'
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.00839
+  category: survey
+  subcategory: method
+  authors:
+  - Xi Zhu
+  - Xiu-Shen Wei
+  - Jiawei Ge
+  abstract: Multi-label image classification (MLIC), a fundamental task in computer
+    vision, focuses on identifying multiple objects or concepts within an image, underpinning
+    numerous read-world applications, such
+  venue: arXiv (Cornell University)
+- title: 'Planning and Evaluation Methods in LLM-Based Autonomous Workflow Systems:
+    A Comprehensive Review'
+  date: 2026-05
+  url: https://doi.org/10.21203/rs.3.rs-9460995/v1
+  category: survey
+  subcategory: method
+  authors:
+  - Chanuka Bandara Wessin Arachchillage
+  - Dilini Thamarasee
+  - Prasan Yapa
+  abstract: ''
+  venue: Research Square
+- title: 'Agentic AI Systems for Pattern Analysis and Machine Intelligence: A Layered
+    Survey of Architectures, Evaluation, and Safety'
+  date: 2026-05
+  url: https://doi.org/10.5281/zenodo.20247605
+  category: survey
+  subcategory: method
+  authors:
+  - Md Abul Bashar
+  abstract: 'Agentic artificial intelligence (AI) refers to foundation-model-based
+    systems that do more than produce isolated predictions: they maintain state, select
+    actions, invoke tools, plan over multiple step'
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: 'Replication materials for the paper "Engineering LLM-Based Multi-Agent Systems:
+    A Taxonomy of Emerging Frameworks"'
+  date: 2026-04
+  url: https://doi.org/10.5281/zenodo.19919085
+  category: survey
+  subcategory: theory
+  authors:
+  - Davide Di Ruscio
+  - Juri Di Rocco
+  - Riccardo Rubei
+  abstract: This document describes the methodology used to identify, filter, and
+    analyze gray literature following the multi-vocal study approach and established
+    guidelines for systematic and tertiary studies in
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: A Comprehensive Review of Generative Physical Artificial Intelligence
+  date: 2026-03
+  url: https://doi.org/10.1109/jiot.2026.3671268
+  category: survey
+  subcategory: method
+  authors:
+  - Satyam Gaba
+  - Krutiksinh Rana
+  - Siva Sai
+  abstract: The integration of large-scale foundation models with physical embodiments
+    has led to significant advancements in robotics termed Generative Physical Artificial
+    Intelligence (GPAI). These agentic AI s
+  venue: IEEE Internet of Things Journal
+- title: 'Memristor Technologies for Dynamic Vision Sensors: A Critical Assessment
+    and Research Roadmap'
+  date: 2026-05
+  url: https://arxiv.org/abs/2605.13699
+  category: survey
+  subcategory: method
+  authors:
+  - Mohamad Yazan Sadoun
+  - Edris Zaman Farsa
+  - Sarah Sharif
+  abstract: Edge-AI deployment is bottlenecked by data-movement energy; pairing event-driven
+    vision sensors with in-memory analog compute could lift that ceiling by orders
+    of magnitude. Both technologies are indi
+  venue: arXiv (Cornell University)
+- title: Hand-Object Interaction in the Age of Large Foundation Models:Reconstruction,
+    Generation, and Embodied Transfer
+  date: 2026-07
+  url: https://arxiv.org/abs/2607.28394
+  category: survey
+  subcategory: method
+  authors:
+  - Weiquan Lin
+  - Yu Deng
+  - Shiyang Liu
+  abstract: Hand-object interaction (HOI) modeling remains challenging because it
+    requires joint reasoning about hand articulation, object geometry, contact, semantics,
+    and dynamics under severe visual uncertaint
+  venue: arXiv (Cornell University)
+- title: 'World Models and World Action Models (WAM): From Foundation Simulators to
+    Embodied Action'
+  date: 2026-05
+  url: https://doi.org/10.5281/zenodo.20046240
+  category: survey
+  subcategory: theory
+  authors:
+  - Xin Jin
+  abstract: 'World models—internal predictive representations that enable agents to
+    simulate future states, anticipate consequences, and plan actions—have emerged
+    as a foundational paradigm in embodied artificial '
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Editorial
+  date: 2026-05
+  url: https://doi.org/10.1108/jedt-05-2026-754
+  category: survey
+  subcategory: theory
+  authors:
+  - Nicholas Chileshe
+  abstract: Globally, the construction industry is responsible for over 30% of the
+    extraction of natural resources, and 25% of solid waste generated, the majority
+    of which is designated to the landfill that could
+  venue: Journal of Engineering Design and Technology
+- title: Talking Head Generation Through Generative Models and Cross-Modal Synthesis
+    Techniques
+  date: 2026-03
+  url: https://doi.org/10.3390/jimaging12030119
+  category: survey
+  subcategory: mechanism
+  authors:
+  - Hira Nisar
+  - Salman Masood
+  - Zaki Malik
+  abstract: Talking Head Generation (THG) is a rapidly advancing field at the intersection
+    of computer vision, deep learning, and speech synthesis, enabling the creation
+    of animated human-like heads that can prod
+  venue: Journal of Imaging
+- title: Developing Freshwater Aquatic Invasive Species Watch Lists for British Columbia,
+    Canada and Identifying Possible Early Detection Methods
+  date: 2026-08
+  url: https://doi.org/10.3897/aca.9.e202246
+  category: survey
+  subcategory: method
+  authors:
+  - Thomas Therriault
+  - Karen Van Dyke
+  - Devan Johnson
+  abstract: Aquatic Invasive Species (AIS) often have significant negative impacts
+    on invaded ecosystems, making it important to be able to restrict their arrival
+    via regulations or policies. Given the vast numbe
+  venue: ARPHA Conference Abstracts
