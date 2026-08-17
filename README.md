@@ -3,12 +3,15 @@
 </h1>
 <h3 align="center">Data-driven, auto-validated literature review for robotics research</h3>
 
-<div align="center">
-  [**GitHub**](https://github.com/tobias-weiss-ai-xr/robotics-research)
-  [**License**](LICENSE)
-  [**CI**](https://github.com/tobias-weiss-ai-xr/robotics-research/actions/workflows/validate.yml)
-  [**Decision-Making**](https://github.com/tobias-weiss-ai-xr/dm-research) [**Bayesian Stats**](https://github.com/tobias-weiss-ai-xr/bayesian-statistics-research) [**Lithography**](https://github.com/tobias-weiss-ai-xr/lithography-research)
-</div>
+### 🔗 Links
+
+- **GitHub**: https://github.com/tobias-weiss-ai-xr/robotics-research
+- **License**: https://github.com/tobias-weiss-ai-xr/robotics-research/blob/main/LICENSE
+- **CI**: https://github.com/tobias-weiss-ai-xr/robotics-research/actions/workflows/validate.yml
+- **Decision-Making**: https://github.com/tobias-weiss-ai-xr/dm-research
+- **Bayesian Stats**: https://github.com/tobias-weiss-ai-xr/bayesian-statistics-research
+- **Lithography**: https://github.com/tobias-weiss-ai-xr/lithography-research
+
 
 > 🤖 **Robotics research corpus:** manipulation, locomotion, perception, planning,
 > learning, human-robot interaction, multi-robot systems, simulation, and surveys —
