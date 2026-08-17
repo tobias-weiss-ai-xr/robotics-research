@@ -4,10 +4,10 @@
 <h3 align="center">Data-driven, auto-validated literature review for robotics research</h3>
 
 <div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/robotics--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/robotics-research)
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/robotics--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/robotics-research/actions/workflows/validate.yml)
-  [![Decision-Making](https://img.shields.io/badge/Decision-Making-dm--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/dm-research) [![Bayesian Stats](https://img.shields.io/badge/Bayesian Stats-bayesian--statistics--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/bayesian-statistics-research) [![Lithography](https://img.shields.io/badge/Lithography-lithography--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/lithography-research)
+  [**GitHub**](https://github.com/tobias-weiss-ai-xr/robotics-research)
+  [**License**](LICENSE)
+  [**CI**](https://github.com/tobias-weiss-ai-xr/robotics-research/actions/workflows/validate.yml)
+  [**Decision-Making**](https://github.com/tobias-weiss-ai-xr/dm-research) [**Bayesian Stats**](https://github.com/tobias-weiss-ai-xr/bayesian-statistics-research) [**Lithography**](https://github.com/tobias-weiss-ai-xr/lithography-research)
 </div>
 
 > 🤖 **Robotics research corpus:** manipulation, locomotion, perception, planning,
