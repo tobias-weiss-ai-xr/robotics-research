@@ -3,80 +3,80 @@
   {
    "id": "human-robot",
    "name": "Human-Robot Interaction",
-   "count": 114,
+   "count": 157,
    "trajectory": {
     "2025": 35,
-    "2026": 79
+    "2026": 122
    },
    "momentum": {
     "id": "human-robot",
     "name": "Human Robot",
-    "total": 114,
-    "recent": 114,
+    "total": 157,
+    "recent": 157,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 9.5,
+    "papers_per_month": 13.1,
     "score": 100.0
    }
   },
   {
    "id": "learning",
    "name": "Learning & Adaptation",
-   "count": 223,
+   "count": 261,
    "trajectory": {
     "2025": 75,
-    "2026": 148
+    "2026": 186
    },
    "momentum": {
     "id": "learning",
     "name": "Learning",
-    "total": 223,
-    "recent": 223,
+    "total": 261,
+    "recent": 261,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 18.6,
+    "papers_per_month": 21.8,
     "score": 100.0
    }
   },
   {
    "id": "locomotion",
    "name": "Locomotion & Mobility",
-   "count": 203,
+   "count": 297,
    "trajectory": {
     "2025": 65,
-    "2026": 138
+    "2026": 232
    },
    "momentum": {
     "id": "locomotion",
     "name": "Locomotion",
-    "total": 203,
-    "recent": 203,
+    "total": 297,
+    "recent": 297,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 16.9,
+    "papers_per_month": 24.8,
     "score": 100.0
    }
   },
   {
    "id": "manipulation",
    "name": "Manipulation & Grasping",
-   "count": 236,
+   "count": 267,
    "trajectory": {
     "2025": 53,
-    "2026": 183
+    "2026": 214
    },
    "momentum": {
     "id": "manipulation",
     "name": "Manipulation",
-    "total": 236,
-    "recent": 236,
+    "total": 267,
+    "recent": 267,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 19.7,
+    "papers_per_month": 22.2,
     "score": 100.0
    }
   },
@@ -123,40 +123,40 @@
   {
    "id": "planning",
    "name": "Planning & Control",
-   "count": 258,
+   "count": 295,
    "trajectory": {
     "2025": 68,
-    "2026": 190
+    "2026": 227
    },
    "momentum": {
     "id": "planning",
     "name": "Planning",
-    "total": 258,
-    "recent": 258,
+    "total": 295,
+    "recent": 295,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 21.5,
+    "papers_per_month": 24.6,
     "score": 100.0
    }
   },
   {
    "id": "simulation",
    "name": "Simulation & World Models",
-   "count": 230,
+   "count": 271,
    "trajectory": {
     "2025": 50,
-    "2026": 180
+    "2026": 221
    },
    "momentum": {
     "id": "simulation",
     "name": "Simulation",
-    "total": 230,
-    "recent": 230,
+    "total": 271,
+    "recent": 271,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 19.2,
+    "papers_per_month": 22.6,
     "score": 100.0
    }
   },
@@ -185,7 +185,7 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 209
+   "count": 298
   },
   {
    "id": "development",
@@ -205,7 +205,7 @@
   {
    "id": "method",
    "name": "Method",
-   "count": 990
+   "count": 1185
   },
   {
    "id": "review",
@@ -2982,7 +2982,22 @@
   [
    "2026-02",
    "locomotion",
-   "method"
+   "application"
+  ],
+  [
+   "2026-02",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-02",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-02",
+   "locomotion",
+   "application"
   ],
   [
    "2026-02",
@@ -3047,6 +3062,26 @@
   [
    "2026-02",
    "locomotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-02",
+   "manipulation",
    "method"
   ],
   [
@@ -3297,7 +3332,7 @@
   [
    "2026-02",
    "planning",
-   "theory"
+   "method"
   ],
   [
    "2026-02",
@@ -3316,6 +3351,21 @@
   ],
   [
    "2026-02",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-02",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-02",
    "simulation",
    "method"
   ],
@@ -3438,6 +3488,76 @@
    "2026-02",
    "survey",
    "review"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-03",
+   "human-robot",
+   "application"
   ],
   [
    "2026-03",
@@ -3633,6 +3753,86 @@
    "2026-03",
    "learning",
    "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "application"
   ],
   [
    "2026-03",
@@ -3751,6 +3951,86 @@
   ],
   [
    "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-03",
    "manipulation",
    "development"
   ],
@@ -3758,6 +4038,11 @@
    "2026-03",
    "manipulation",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "manipulation",
+   "method"
   ],
   [
    "2026-03",
@@ -4108,6 +4393,56 @@
    "2026-03",
    "planning",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
   ],
   [
    "2026-03",
@@ -4382,6 +4717,41 @@
   [
    "2026-03",
    "simulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "simulation",
    "systems"
   ],
   [
@@ -4582,6 +4952,46 @@
   [
    "2026-04",
    "human-robot",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-04",
+   "human-robot",
    "theory"
   ],
   [
@@ -4677,6 +5087,36 @@
   [
    "2026-04",
    "learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "learning",
    "theory"
   ],
   [
@@ -4708,6 +5148,81 @@
    "2026-04",
    "locomotion",
    "application"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "method"
   ],
   [
    "2026-04",
@@ -5072,6 +5587,46 @@
   [
    "2026-04",
    "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
    "theory"
   ],
   [
@@ -5152,6 +5707,51 @@
   [
    "2026-04",
    "simulation",
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
    "systems"
   ],
   [
@@ -5312,7 +5912,22 @@
   [
    "2026-05",
    "human-robot",
-   "theory"
+   "application"
+  ],
+  [
+   "2026-05",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-05",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-05",
+   "human-robot",
+   "application"
   ],
   [
    "2026-05",
@@ -5326,6 +5941,46 @@
   ],
   [
    "2026-05",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
    "learning",
    "method"
   ],
@@ -5473,6 +6128,91 @@
    "2026-05",
    "locomotion",
    "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "method"
   ],
   [
    "2026-05",
@@ -5528,6 +6268,16 @@
    "2026-05",
    "manipulation",
    "mechanism"
+  ],
+  [
+   "2026-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "manipulation",
+   "method"
   ],
   [
    "2026-05",
@@ -5967,7 +6717,17 @@
   [
    "2026-05",
    "planning",
-   "theory"
+   "method"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "method"
   ],
   [
    "2026-05",
@@ -5998,6 +6758,36 @@
    "2026-05",
    "planning",
    "theory"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "method"
   ],
   [
    "2026-05",
@@ -6222,6 +7012,56 @@
   [
    "2026-06",
    "human-robot",
+   "application"
+  ],
+  [
+   "2026-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-06",
+   "human-robot",
    "method"
   ],
   [
@@ -6347,7 +7187,37 @@
   [
    "2026-06",
    "learning",
-   "theory"
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
   ],
   [
    "2026-06",
@@ -6366,8 +7236,8 @@
   ],
   [
    "2026-06",
-   "locomotion",
-   "application"
+   "learning",
+   "theory"
   ],
   [
    "2026-06",
@@ -6418,6 +7288,76 @@
    "2026-06",
    "locomotion",
    "application"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "locomotion",
+   "method"
   ],
   [
    "2026-06",
@@ -6493,6 +7433,66 @@
    "2026-06",
    "manipulation",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
   ],
   [
    "2026-06",
@@ -6992,7 +7992,22 @@
   [
    "2026-06",
    "planning",
-   "theory"
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
   ],
   [
    "2026-06",
@@ -7011,8 +8026,48 @@
   ],
   [
    "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
    "simulation",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "method"
   ],
   [
    "2026-06",
@@ -7297,7 +8352,27 @@
   [
    "2026-07",
    "human-robot",
-   "mechanism"
+   "application"
+  ],
+  [
+   "2026-07",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-07",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-07",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-07",
+   "human-robot",
+   "application"
   ],
   [
    "2026-07",
@@ -7307,6 +8382,11 @@
   [
    "2026-07",
    "human-robot",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "human-robot",
    "theory"
   ],
   [
@@ -7427,6 +8507,21 @@
   [
    "2026-07",
    "learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "learning",
    "theory"
   ],
   [
@@ -7468,6 +8563,76 @@
    "2026-07",
    "locomotion",
    "application"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "locomotion",
+   "method"
   ],
   [
    "2026-07",
@@ -7513,6 +8678,46 @@
    "2026-07",
    "manipulation",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
   ],
   [
    "2026-07",
@@ -7907,6 +9112,46 @@
   [
    "2026-07",
    "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
    "theory"
   ],
   [
@@ -7933,6 +9178,31 @@
    "2026-07",
    "simulation",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "method"
   ],
   [
    "2026-07",
@@ -8137,6 +9407,16 @@
   [
    "2026-08",
    "human-robot",
+   "application"
+  ],
+  [
+   "2026-08",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2026-08",
+   "human-robot",
    "theory"
   ],
   [
@@ -8177,6 +9457,26 @@
   [
    "2026-08",
    "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
    "theory"
   ],
   [
@@ -8193,6 +9493,51 @@
    "2026-08",
    "locomotion",
    "application"
+  ],
+  [
+   "2026-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2026-08",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "locomotion",
+   "method"
   ],
   [
    "2026-08",
@@ -8232,6 +9577,36 @@
   [
    "2026-08",
    "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
    "theory"
   ],
   [
@@ -8382,12 +9757,57 @@
   [
    "2026-08",
    "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
    "theory"
   ],
   [
    "2026-08",
    "planning",
    "theory"
+  ],
+  [
+   "2026-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "simulation",
+   "method"
   ],
   [
    "2026-08",
@@ -8555,108 +9975,108 @@
  "keyword_bursts": [
   {
    "keyword": "manipulation",
-   "recent": 608,
-   "total": 608,
+   "recent": 691,
+   "total": 691,
    "burst_score": 1.0,
-   "recent_share": 0.3678
+   "recent_share": 0.3567
   },
   {
    "keyword": "real-world",
-   "recent": 507,
-   "total": 507,
+   "recent": 604,
+   "total": 604,
    "burst_score": 1.0,
-   "recent_share": 0.3067
+   "recent_share": 0.3118
   },
   {
    "keyword": "reinforcement learning",
-   "recent": 349,
-   "total": 349,
+   "recent": 419,
+   "total": 419,
    "burst_score": 1.0,
-   "recent_share": 0.2111
+   "recent_share": 0.2163
   },
   {
    "keyword": "autonomous",
-   "recent": 288,
-   "total": 288,
+   "recent": 335,
+   "total": 335,
    "burst_score": 1.0,
-   "recent_share": 0.1742
-  },
-  {
-   "keyword": "benchmark",
-   "recent": 251,
-   "total": 251,
-   "burst_score": 1.0,
-   "recent_share": 0.1518
+   "recent_share": 0.1729
   },
   {
    "keyword": "trajectory",
-   "recent": 244,
-   "total": 244,
+   "recent": 300,
+   "total": 300,
    "burst_score": 1.0,
-   "recent_share": 0.1476
+   "recent_share": 0.1549
+  },
+  {
+   "keyword": "benchmark",
+   "recent": 300,
+   "total": 300,
+   "burst_score": 1.0,
+   "recent_share": 0.1549
   },
   {
    "keyword": "dataset",
-   "recent": 234,
-   "total": 234,
+   "recent": 278,
+   "total": 278,
    "burst_score": 1.0,
-   "recent_share": 0.1416
+   "recent_share": 0.1435
   },
   {
    "keyword": "dexterous",
-   "recent": 197,
-   "total": 197,
+   "recent": 237,
+   "total": 237,
    "burst_score": 1.0,
-   "recent_share": 0.1192
+   "recent_share": 0.1224
   },
   {
    "keyword": "navigation",
-   "recent": 196,
-   "total": 196,
+   "recent": 236,
+   "total": 236,
    "burst_score": 1.0,
-   "recent_share": 0.1186
-  },
-  {
-   "keyword": "vision-language-action",
-   "recent": 186,
-   "total": 186,
-   "burst_score": 1.0,
-   "recent_share": 0.1125
+   "recent_share": 0.1218
   },
   {
    "keyword": "generalization",
-   "recent": 171,
-   "total": 171,
+   "recent": 202,
+   "total": 202,
    "burst_score": 1.0,
-   "recent_share": 0.1034
-  },
-  {
-   "keyword": "tactile",
-   "recent": 164,
-   "total": 164,
-   "burst_score": 1.0,
-   "recent_share": 0.0992
-  },
-  {
-   "keyword": "imitation learning",
-   "recent": 156,
-   "total": 156,
-   "burst_score": 1.0,
-   "recent_share": 0.0944
-  },
-  {
-   "keyword": "sim-to-real",
-   "recent": 155,
-   "total": 155,
-   "burst_score": 1.0,
-   "recent_share": 0.0938
+   "recent_share": 0.1043
   },
   {
    "keyword": "locomotion",
-   "recent": 153,
-   "total": 153,
+   "recent": 200,
+   "total": 200,
    "burst_score": 1.0,
-   "recent_share": 0.0926
+   "recent_share": 0.1033
+  },
+  {
+   "keyword": "imitation learning",
+   "recent": 200,
+   "total": 200,
+   "burst_score": 1.0,
+   "recent_share": 0.1033
+  },
+  {
+   "keyword": "vision-language-action",
+   "recent": 199,
+   "total": 199,
+   "burst_score": 1.0,
+   "recent_share": 0.1027
+  },
+  {
+   "keyword": "sim-to-real",
+   "recent": 197,
+   "total": 197,
+   "burst_score": 1.0,
+   "recent_share": 0.1017
+  },
+  {
+   "keyword": "tactile",
+   "recent": 174,
+   "total": 174,
+   "burst_score": 1.0,
+   "recent_share": 0.0898
   }
  ]
 }
