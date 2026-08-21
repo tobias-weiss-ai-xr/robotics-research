@@ -33948,3 +33948,214 @@ papers:
     on invaded ecosystems, making it important to be able to restrict their arrival
     via regulations or policies. Given the vast numbe
   venue: ARPHA Conference Abstracts
+- title: 'ReForce: Learning Force-aware Retargeting for Dexterous Manipulation'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.15560
+  category: manipulation
+  subcategory: method
+  authors:
+  - Yuhang Wu
+  - Lingqi Zeng
+  - Changwei Jing
+  abstract: Human demonstrations offer a scalable data source for dexterous manipulation,
+    but transferring them to robot actions remains challenging due to the embodiment
+    gap. Today's retargeting is mostly kinema
+  venue: arXiv (Cornell University)
+- title: A Bioinspired, Multimodal Soft Tactile Skin with Task‐Adaptive Perception
+    for Intelligent Robotic Manipulation
+  date: 2026-08
+  url: https://doi.org/10.1002/advs.77230
+  category: perception
+  subcategory: mechanism
+  authors:
+  - Yujin Lee
+  - Hyeonung Kang
+  - Ju Yeon Woo
+  abstract: Achieving human-like tactile perception is essential for robotic systems
+    to perform fine manipulation and adapt to dynamic environments. However, most
+    tactile sensors have deviated from the physiologi
+  venue: Advanced Science
+- title: 'Heterogeneous multimodal tactile perception via Dempster–Shafer evidence
+    theory: From bio-inspired fingertip design to robust contact state recognition'
+  date: 2026-08
+  url: https://doi.org/10.1016/j.measurement.2026.122852
+  category: perception
+  subcategory: theory
+  authors:
+  - Yesheng Cheng
+  - Binrui Wang
+  - Ye Qiu
+  abstract: ''
+  venue: Measurement
+- title: Multi-Stage Optimization for Stable WMR Motion Planning in Slope Environments
+  date: 2026-03
+  url: https://doi.org/10.1109/tvt.2026.3678985
+  category: planning
+  subcategory: theory
+  authors:
+  - Runda Zhang
+  - Kaiyuan Chen
+  - Senchun Chai
+  abstract: In this work, we propose a trajectory planning framework for wheeled mobile
+    robot (WMR) navigation in environments with sloped terrain. The framework adopts
+    a hybrid strategy that combines sampling-ba
+  venue: IEEE Transactions on Vehicular Technology
+- title: Multi-terrain adaptive walking control of bipedal robots using passive artificial
+    tendons
+  date: 2026-06
+  url: https://doi.org/10.1360/sst-2025-0267
+  category: planning
+  subcategory: theory
+  authors:
+  - Changxi Mu
+  - BaoLin TIAN
+  - ZiTao YUN
+  abstract: <p indent="0mm">To optimize bipedal robot structural design and enhance
+    motion control stability, this study proposes a “passive tendon-active control”
+    synergistic design strategy. Centered on human b
+  venue: Scientia Sinica Technologica
+- title: 'SICNav: Safe and Interactive Crowd Navigation Using Model Predictive Control
+    and Bilevel Optimization (Abstract Reprint)'
+  date: 2026-03
+  url: https://doi.org/10.1609/aaai.v40i47.41408
+  category: planning
+  subcategory: method
+  authors:
+  - Sepehr Samavi
+  - James R. Han
+  - Florian Shkurti
+  abstract: Robots need to predict and react to human motions to navigate through
+    a crowd without collisions. Many existing methods decouple prediction from planning,
+    which does not account for the interaction be
+  venue: Proceedings of the AAAI Conference on Artificial Intelligence
+- title: Development of a model for constructing the optimal trajectory of the gripping
+    device of a collaborative robot-manipulator taking into account the influence
+    of the cargo mass and energy consumption
+  date: 2026-03
+  url: https://doi.org/10.32620/oikit.2026.107.15
+  category: planning
+  subcategory: theory
+  authors:
+  - Vladyslav Yevsieiev
+  - Dmytro GURIN
+  abstract: In the current conditions of the development of Industry 5.0, collaborative
+    robotic systems play a key role in increasing the efficiency of production processes,
+    ensuring flexibility and safety of int
+  venue: Open Information and Computer Integrated Technologies
+- title: 'SafeNav: A Safety-Constrained Reinforcement Learning Framework for Autonomous
+    Mobile Robot Navigation with Collision-Aware Path Planning'
+  date: 2026-04
+  url: https://doi.org/10.21203/rs.3.rs-9441537/v1
+  category: planning
+  subcategory: method
+  authors:
+  - Thomas Müller
+  abstract: ''
+  venue: Research Square
+- title: Max-Q Selective Imitation for Human-in-the-Loop Online Robot Learning
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.15088
+  category: learning
+  subcategory: method
+  authors:
+  - Zihang Wang
+  - Yishan Wang
+  abstract: 'Human-in-the-loop (HIL) online reinforcement learning for real robots
+    must absorb human interventions quickly while continuing to improve beyond the
+    human prior. We present a training method for this '
+  venue: arXiv (Cornell University)
+- title: Multi-objective Deep Reinforcement Learning of Dynamic Movement Primitives
+    for Robotic Manipulation
+  date: 2026-08
+  url: https://doi.org/10.31224/7992
+  category: learning
+  subcategory: method
+  authors:
+  - Navid Noorgostar
+  abstract: 'Learning from Demonstration (LfD) is an attractive way to transfer manipulation
+    skills to industrial robots, but it is inherently imitative: the learnt skill
+    is only as good as the trajectory it repro'
+  venue: ''
+- title: 'Sample-Efficient Robot Skill Learning for Construction Tasks: Benchmarking
+    Hierarchical Reinforcement Learning and Vision-Language-Action Model'
+  date: 2026-08
+  url: https://doi.org/10.1061/jccee5.cpeng-7696
+  category: learning
+  subcategory: method
+  authors:
+  - Zhaofeng Hu
+  - Hongrui Yu
+  - V. Chandramouli
+  abstract: 'Abstract This study evaluates two leading approaches for teaching construction
+    robots new skills to understand their applicability for construction automation:
+    a vision-language-action (VLA) model and'
+  venue: Journal of Computing in Civil Engineering
+- title: 'Collaborative Robots in Construction: A Proactivity Perspective'
+  date: 2026-08
+  url: https://doi.org/10.1061/jcemd4.coeng-17673
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Zaolin Pan
+  - Yantao Yu
+  - Heng Li
+  abstract: Abstract Achieving effective human–robot collaboration (HRC) in dynamic
+    environments like construction requires robots to function as proactive peers,
+    anticipating human intents and acting in advance.
+  venue: Journal of Construction Engineering and Management
+- title: 'When AI Decides with Me: The Delegation-Overreach Paradox in AI-Mediated
+    Smartphone Purchases'
+  date: 2026-08
+  url: https://doi.org/10.63544/jbii.v5i8.159
+  category: human-robot
+  subcategory: theory
+  authors:
+  - Muhammad Umer
+  - Amna Aslam
+  - Sana Tanvir
+  abstract: 'As artificial intelligence (AI) becomes involved in an increasing number
+    of consumers’ buying choices, the role of AI in consumption patterns transforms
+    from a recommending agent to a decision-making '
+  venue: Journal of Business Insight and Innovation
+- title: 'Actuator Digital Twins for Predictive Robotic Simulation: Experimental Validation
+    and Multi-DOF Scalability'
+  date: 2026-08
+  url: https://doi.org/10.3390/act15080451
+  category: simulation
+  subcategory: method
+  authors:
+  - Iván Jesús Torres Rodríguez
+  - Michele Ghilardi
+  - Jordi Marsà Fargas
+  abstract: Accurate actuator modeling is critical for robust design validation and
+    sim-to-real control transfer in humanoid robotics. Yet, in practice, developers
+    rely on simplified actuator models built from sp
+  venue: Actuators
+- title: 'Grasp, Reason, Act: Tactile-Language Model for Zeroshot Sim2real Grasp Stability
+    Prediction and Re-Grasping'
+  date: 2026-03
+  url: https://doi.org/10.1109/lra.2026.3675953
+  category: simulation
+  subcategory: method
+  authors:
+  - Gang Yan
+  - Jiaxian Guo
+  - Khrapchenkov Petr
+  abstract: Robotic tactile learning is a critical research area for enabling robots
+    to perform complex manipulation tasks with human-like dexterity and adaptability.
+    However, ensuring grasp stability remains one
+  venue: IEEE Robotics and Automation Letters
+- title: 'Vision-Based Tactile Intelligence for Robotics: Sensing, Learning, and Embodied
+    Manipulation'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.15490
+  category: survey
+  subcategory: method
+  authors:
+  - Peng Zhou
+  - Jun Hu
+  - Sihan Chen
+  abstract: Tactile sensing is essential for robots in contact-rich tasks, yet many
+    tactile sensors still provide sparse, low-dimensional signals that do not capture
+    sufficient information for complex robotic per
+  venue: arXiv (Cornell University)

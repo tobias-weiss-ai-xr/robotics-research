@@ -3,40 +3,40 @@
   {
    "id": "human-robot",
    "name": "Human-Robot Interaction",
-   "count": 112,
+   "count": 114,
    "trajectory": {
     "2025": 35,
-    "2026": 77
+    "2026": 79
    },
    "momentum": {
     "id": "human-robot",
     "name": "Human Robot",
-    "total": 112,
-    "recent": 112,
+    "total": 114,
+    "recent": 114,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 9.3,
+    "papers_per_month": 9.5,
     "score": 100.0
    }
   },
   {
    "id": "learning",
    "name": "Learning & Adaptation",
-   "count": 220,
+   "count": 223,
    "trajectory": {
     "2025": 75,
-    "2026": 145
+    "2026": 148
    },
    "momentum": {
     "id": "learning",
     "name": "Learning",
-    "total": 220,
-    "recent": 220,
+    "total": 223,
+    "recent": 223,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 18.3,
+    "papers_per_month": 18.6,
     "score": 100.0
    }
   },
@@ -63,20 +63,20 @@
   {
    "id": "manipulation",
    "name": "Manipulation & Grasping",
-   "count": 235,
+   "count": 236,
    "trajectory": {
     "2025": 53,
-    "2026": 182
+    "2026": 183
    },
    "momentum": {
     "id": "manipulation",
     "name": "Manipulation",
-    "total": 235,
-    "recent": 235,
+    "total": 236,
+    "recent": 236,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 19.6,
+    "papers_per_month": 19.7,
     "score": 100.0
    }
   },
@@ -103,76 +103,76 @@
   {
    "id": "perception",
    "name": "Perception & Sensing",
-   "count": 151,
+   "count": 153,
    "trajectory": {
     "2025": 22,
-    "2026": 129
+    "2026": 131
    },
    "momentum": {
     "id": "perception",
     "name": "Perception",
-    "total": 151,
-    "recent": 151,
+    "total": 153,
+    "recent": 153,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 12.6,
+    "papers_per_month": 12.8,
     "score": 100.0
    }
   },
   {
    "id": "planning",
    "name": "Planning & Control",
-   "count": 253,
+   "count": 258,
    "trajectory": {
     "2025": 68,
-    "2026": 185
+    "2026": 190
    },
    "momentum": {
     "id": "planning",
     "name": "Planning",
-    "total": 253,
-    "recent": 253,
+    "total": 258,
+    "recent": 258,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 21.1,
+    "papers_per_month": 21.5,
     "score": 100.0
    }
   },
   {
    "id": "simulation",
    "name": "Simulation & World Models",
-   "count": 228,
+   "count": 230,
    "trajectory": {
     "2025": 50,
-    "2026": 178
+    "2026": 180
    },
    "momentum": {
     "id": "simulation",
     "name": "Simulation",
-    "total": 228,
-    "recent": 228,
+    "total": 230,
+    "recent": 230,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 19.0,
+    "papers_per_month": 19.2,
     "score": 100.0
    }
   },
   {
    "id": "survey",
    "name": "Surveys & Taxonomies",
-   "count": 122,
+   "count": 123,
    "trajectory": {
     "2025": 38,
-    "2026": 84
+    "2026": 85
    },
    "momentum": {
     "id": "survey",
     "name": "Survey",
-    "total": 122,
-    "recent": 122,
+    "total": 123,
+    "recent": 123,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
@@ -200,12 +200,12 @@
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 51
+   "count": 52
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 981
+   "count": 990
   },
   {
    "id": "review",
@@ -220,7 +220,7 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 107
+   "count": 113
   }
  ],
  "timeline": [
@@ -4262,6 +4262,21 @@
   [
    "2026-03",
    "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
    "theory"
   ],
   [
@@ -4362,6 +4377,11 @@
   [
    "2026-03",
    "simulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "simulation",
    "systems"
   ],
   [
@@ -5047,6 +5067,11 @@
   [
    "2026-04",
    "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
    "theory"
   ],
   [
@@ -6981,6 +7006,11 @@
   ],
   [
    "2026-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-06",
    "simulation",
    "mechanism"
   ],
@@ -8106,8 +8136,33 @@
   ],
   [
    "2026-08",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-08",
    "learning",
    "mechanism"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
   ],
   [
    "2026-08",
@@ -8172,6 +8227,11 @@
   [
    "2026-08",
    "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
    "theory"
   ],
   [
@@ -8232,6 +8292,11 @@
   [
    "2026-08",
    "perception",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "perception",
    "method"
   ],
   [
@@ -8263,6 +8328,11 @@
    "2026-08",
    "perception",
    "systems"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "theory"
   ],
   [
    "2026-08",
@@ -8347,6 +8417,11 @@
   [
    "2026-08",
    "simulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "simulation",
    "systems"
   ],
   [
@@ -8383,6 +8458,11 @@
    "2026-08",
    "simulation",
    "theory"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "method"
   ],
   [
    "2026-08",
@@ -8413,7 +8493,7 @@
  "venues": [
   {
    "name": "arXiv (Cornell University)",
-   "papers": 45
+   "papers": 48
   },
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
@@ -8428,19 +8508,23 @@
    "papers": 7
   },
   {
+   "name": "Research Square",
+   "papers": 6
+  },
+  {
+   "name": "Advanced Science",
+   "papers": 5
+  },
+  {
    "name": "IEEE Sensors Journal",
    "papers": 5
   },
   {
-   "name": "Research Square",
-   "papers": 5
-  },
-  {
-   "name": "KiltHub Repository",
+   "name": "Proceedings of the AAAI Conference on Artificial Intelligence",
    "papers": 4
   },
   {
-   "name": "Advanced Science",
+   "name": "KiltHub Repository",
    "papers": 4
   },
   {
@@ -8450,10 +8534,6 @@
   {
    "name": "Open MIND",
    "papers": 4
-  },
-  {
-   "name": "Proceedings of the AAAI Conference on Artificial Intelligence",
-   "papers": 3
   },
   {
    "name": "Robotics",
@@ -8475,108 +8555,108 @@
  "keyword_bursts": [
   {
    "keyword": "manipulation",
-   "recent": 603,
-   "total": 603,
+   "recent": 608,
+   "total": 608,
    "burst_score": 1.0,
-   "recent_share": 0.3684
+   "recent_share": 0.3678
   },
   {
    "keyword": "real-world",
    "recent": 507,
    "total": 507,
    "burst_score": 1.0,
-   "recent_share": 0.3097
+   "recent_share": 0.3067
   },
   {
    "keyword": "reinforcement learning",
-   "recent": 345,
-   "total": 345,
+   "recent": 349,
+   "total": 349,
    "burst_score": 1.0,
-   "recent_share": 0.2108
+   "recent_share": 0.2111
   },
   {
    "keyword": "autonomous",
-   "recent": 287,
-   "total": 287,
+   "recent": 288,
+   "total": 288,
    "burst_score": 1.0,
-   "recent_share": 0.1753
+   "recent_share": 0.1742
   },
   {
    "keyword": "benchmark",
-   "recent": 250,
-   "total": 250,
+   "recent": 251,
+   "total": 251,
    "burst_score": 1.0,
-   "recent_share": 0.1527
+   "recent_share": 0.1518
   },
   {
    "keyword": "trajectory",
-   "recent": 241,
-   "total": 241,
+   "recent": 244,
+   "total": 244,
    "burst_score": 1.0,
-   "recent_share": 0.1472
+   "recent_share": 0.1476
   },
   {
    "keyword": "dataset",
    "recent": 234,
    "total": 234,
    "burst_score": 1.0,
-   "recent_share": 0.1429
+   "recent_share": 0.1416
   },
   {
    "keyword": "dexterous",
-   "recent": 196,
-   "total": 196,
+   "recent": 197,
+   "total": 197,
    "burst_score": 1.0,
-   "recent_share": 0.1197
+   "recent_share": 0.1192
   },
   {
    "keyword": "navigation",
-   "recent": 193,
-   "total": 193,
+   "recent": 196,
+   "total": 196,
    "burst_score": 1.0,
-   "recent_share": 0.1179
+   "recent_share": 0.1186
   },
   {
    "keyword": "vision-language-action",
-   "recent": 185,
-   "total": 185,
+   "recent": 186,
+   "total": 186,
    "burst_score": 1.0,
-   "recent_share": 0.113
+   "recent_share": 0.1125
   },
   {
    "keyword": "generalization",
    "recent": 171,
    "total": 171,
    "burst_score": 1.0,
-   "recent_share": 0.1045
+   "recent_share": 0.1034
   },
   {
    "keyword": "tactile",
-   "recent": 160,
-   "total": 160,
+   "recent": 164,
+   "total": 164,
    "burst_score": 1.0,
-   "recent_share": 0.0977
+   "recent_share": 0.0992
   },
   {
    "keyword": "imitation learning",
    "recent": 156,
    "total": 156,
    "burst_score": 1.0,
-   "recent_share": 0.0953
+   "recent_share": 0.0944
   },
   {
    "keyword": "sim-to-real",
-   "recent": 154,
-   "total": 154,
+   "recent": 155,
+   "total": 155,
    "burst_score": 1.0,
-   "recent_share": 0.0941
+   "recent_share": 0.0938
   },
   {
    "keyword": "locomotion",
    "recent": 153,
    "total": 153,
    "burst_score": 1.0,
-   "recent_share": 0.0935
+   "recent_share": 0.0926
   }
  ]
 }
