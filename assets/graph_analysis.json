@@ -3,180 +3,180 @@
   {
    "id": "human-robot",
    "name": "Human-Robot Interaction",
-   "count": 157,
+   "count": 158,
    "trajectory": {
     "2025": 35,
-    "2026": 122
+    "2026": 123
    },
    "momentum": {
     "id": "human-robot",
     "name": "Human Robot",
-    "total": 157,
-    "recent": 157,
+    "total": 158,
+    "recent": 158,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 13.1,
+    "papers_per_month": 13.2,
     "score": 100.0
    }
   },
   {
    "id": "learning",
    "name": "Learning & Adaptation",
-   "count": 261,
+   "count": 308,
    "trajectory": {
     "2025": 75,
-    "2026": 186
+    "2026": 233
    },
    "momentum": {
     "id": "learning",
     "name": "Learning",
-    "total": 261,
-    "recent": 261,
+    "total": 308,
+    "recent": 308,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 21.8,
+    "papers_per_month": 25.7,
     "score": 100.0
    }
   },
   {
    "id": "locomotion",
    "name": "Locomotion & Mobility",
-   "count": 297,
+   "count": 300,
    "trajectory": {
     "2025": 65,
-    "2026": 232
+    "2026": 235
    },
    "momentum": {
     "id": "locomotion",
     "name": "Locomotion",
-    "total": 297,
-    "recent": 297,
+    "total": 300,
+    "recent": 300,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 24.8,
+    "papers_per_month": 25.0,
     "score": 100.0
    }
   },
   {
    "id": "manipulation",
    "name": "Manipulation & Grasping",
-   "count": 267,
+   "count": 304,
    "trajectory": {
     "2025": 53,
-    "2026": 214
+    "2026": 251
    },
    "momentum": {
     "id": "manipulation",
     "name": "Manipulation",
-    "total": 267,
-    "recent": 267,
+    "total": 304,
+    "recent": 304,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 22.2,
+    "papers_per_month": 25.3,
     "score": 100.0
    }
   },
   {
    "id": "multi-robot",
    "name": "Multi-Robot Systems",
-   "count": 113,
+   "count": 151,
    "trajectory": {
     "2025": 30,
-    "2026": 83
+    "2026": 121
    },
    "momentum": {
     "id": "multi-robot",
     "name": "Multi Robot",
-    "total": 113,
-    "recent": 113,
+    "total": 151,
+    "recent": 151,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 9.4,
+    "papers_per_month": 12.6,
     "score": 100.0
    }
   },
   {
    "id": "perception",
    "name": "Perception & Sensing",
-   "count": 153,
+   "count": 184,
    "trajectory": {
     "2025": 22,
-    "2026": 131
+    "2026": 162
    },
    "momentum": {
     "id": "perception",
     "name": "Perception",
-    "total": 153,
-    "recent": 153,
+    "total": 184,
+    "recent": 184,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 12.8,
+    "papers_per_month": 15.3,
     "score": 100.0
    }
   },
   {
    "id": "planning",
    "name": "Planning & Control",
-   "count": 295,
+   "count": 331,
    "trajectory": {
     "2025": 68,
-    "2026": 227
+    "2026": 263
    },
    "momentum": {
     "id": "planning",
     "name": "Planning",
-    "total": 295,
-    "recent": 295,
+    "total": 331,
+    "recent": 331,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 24.6,
+    "papers_per_month": 27.6,
     "score": 100.0
    }
   },
   {
    "id": "simulation",
    "name": "Simulation & World Models",
-   "count": 271,
+   "count": 303,
    "trajectory": {
     "2025": 50,
-    "2026": 221
+    "2026": 253
    },
    "momentum": {
     "id": "simulation",
     "name": "Simulation",
-    "total": 271,
-    "recent": 271,
+    "total": 303,
+    "recent": 303,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 22.6,
+    "papers_per_month": 25.2,
     "score": 100.0
    }
   },
   {
    "id": "survey",
    "name": "Surveys & Taxonomies",
-   "count": 123,
+   "count": 165,
    "trajectory": {
     "2025": 38,
-    "2026": 85
+    "2026": 127
    },
    "momentum": {
     "id": "survey",
     "name": "Survey",
-    "total": 123,
-    "recent": 123,
+    "total": 165,
+    "recent": 165,
     "prior": 0,
     "growth_pct": null,
     "recent_share": 1.0,
-    "papers_per_month": 10.2,
+    "papers_per_month": 13.8,
     "score": 100.0
    }
   }
@@ -185,7 +185,7 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 298
+   "count": 302
   },
   {
    "id": "development",
@@ -200,27 +200,27 @@
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 52
+   "count": 53
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 1185
+   "count": 1336
   },
   {
    "id": "review",
    "name": "Reviews & Surveys",
-   "count": 81
+   "count": 123
   },
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 198
+   "count": 266
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 113
+   "count": 114
   }
  ],
  "timeline": [
@@ -2917,6 +2917,11 @@
   [
    "2026-02",
    "learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "learning",
    "theory"
   ],
   [
@@ -3178,6 +3183,21 @@
    "2026-02",
    "multi-robot",
    "method"
+  ],
+  [
+   "2026-02",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "multi-robot",
+   "systems"
   ],
   [
    "2026-02",
@@ -3461,6 +3481,11 @@
   ],
   [
    "2026-02",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-02",
    "survey",
    "method"
   ],
@@ -3808,6 +3833,46 @@
    "2026-03",
    "learning",
    "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "locomotion",
+   "application"
   ],
   [
    "2026-03",
@@ -4192,6 +4257,36 @@
   [
    "2026-03",
    "manipulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-03",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "manipulation",
    "theory"
   ],
   [
@@ -4208,6 +4303,31 @@
    "2026-03",
    "multi-robot",
    "method"
+  ],
+  [
+   "2026-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "multi-robot",
+   "systems"
   ],
   [
    "2026-03",
@@ -4382,6 +4502,26 @@
   [
    "2026-03",
    "perception",
+   "method"
+  ],
+  [
+   "2026-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-03",
+   "perception",
    "theory"
   ],
   [
@@ -4393,6 +4533,31 @@
    "2026-03",
    "planning",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
   ],
   [
    "2026-03",
@@ -4812,6 +4977,21 @@
   [
    "2026-03",
    "simulation",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "simulation",
    "theory"
   ],
   [
@@ -4877,7 +5057,42 @@
   [
    "2026-03",
    "survey",
-   "theory"
+   "review"
+  ],
+  [
+   "2026-03",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-03",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-03",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-03",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-03",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-03",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-03",
+   "survey",
+   "review"
   ],
   [
    "2026-03",
@@ -4890,6 +5105,11 @@
    "theory"
   ],
   [
+   "2026-03",
+   "survey",
+   "theory"
+  ],
+  [
    "2026-04",
    "human-robot",
    "application"
@@ -5117,12 +5337,22 @@
   [
    "2026-04",
    "learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "learning",
    "theory"
   ],
   [
    "2026-04",
    "learning",
    "theory"
+  ],
+  [
+   "2026-04",
+   "locomotion",
+   "application"
   ],
   [
    "2026-04",
@@ -5258,6 +5488,11 @@
    "2026-04",
    "manipulation",
    "application"
+  ],
+  [
+   "2026-04",
+   "manipulation",
+   "method"
   ],
   [
    "2026-04",
@@ -5408,6 +5643,36 @@
    "2026-04",
    "multi-robot",
    "method"
+  ],
+  [
+   "2026-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "multi-robot",
+   "systems"
   ],
   [
    "2026-04",
@@ -5463,6 +5728,16 @@
    "2026-04",
    "perception",
    "mechanism"
+  ],
+  [
+   "2026-04",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-04",
+   "perception",
+   "method"
   ],
   [
    "2026-04",
@@ -5627,6 +5902,36 @@
   [
    "2026-04",
    "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
    "theory"
   ],
   [
@@ -5752,6 +6057,16 @@
   [
    "2026-04",
    "simulation",
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "simulation",
    "systems"
   ],
   [
@@ -5867,6 +6182,31 @@
   [
    "2026-04",
    "survey",
+   "review"
+  ],
+  [
+   "2026-04",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-04",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-04",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-04",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-04",
+   "survey",
    "theory"
   ],
   [
@@ -5932,7 +6272,7 @@
   [
    "2026-05",
    "human-robot",
-   "theory"
+   "application"
   ],
   [
    "2026-05",
@@ -5946,6 +6286,51 @@
   ],
   [
    "2026-05",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-05",
    "learning",
    "method"
   ],
@@ -6083,6 +6468,11 @@
    "2026-05",
    "learning",
    "theory"
+  ],
+  [
+   "2026-05",
+   "locomotion",
+   "application"
   ],
   [
    "2026-05",
@@ -6268,6 +6658,41 @@
    "2026-05",
    "manipulation",
    "mechanism"
+  ],
+  [
+   "2026-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "manipulation",
+   "method"
   ],
   [
    "2026-05",
@@ -6383,6 +6808,51 @@
    "2026-05",
    "multi-robot",
    "method"
+  ],
+  [
+   "2026-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "multi-robot",
+   "systems"
   ],
   [
    "2026-05",
@@ -6572,6 +7042,21 @@
   [
    "2026-05",
    "perception",
+   "method"
+  ],
+  [
+   "2026-05",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-05",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-05",
+   "perception",
    "systems"
   ],
   [
@@ -6732,7 +7217,12 @@
   [
    "2026-05",
    "planning",
-   "theory"
+   "method"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "method"
   ],
   [
    "2026-05",
@@ -6766,8 +7256,8 @@
   ],
   [
    "2026-05",
-   "simulation",
-   "method"
+   "planning",
+   "theory"
   ],
   [
    "2026-05",
@@ -6843,6 +7333,41 @@
    "2026-05",
    "simulation",
    "method"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "systems"
   ],
   [
    "2026-05",
@@ -6932,6 +7457,56 @@
   [
    "2026-05",
    "survey",
+   "review"
+  ],
+  [
+   "2026-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-05",
+   "survey",
    "theory"
   ],
   [
@@ -7068,6 +7643,96 @@
    "2026-06",
    "learning",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "learning",
+   "method"
   ],
   [
    "2026-06",
@@ -7433,6 +8098,51 @@
    "2026-06",
    "manipulation",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "manipulation",
+   "method"
   ],
   [
    "2026-06",
@@ -7658,6 +8368,46 @@
    "2026-06",
    "manipulation",
    "theory"
+  ],
+  [
+   "2026-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "multi-robot",
+   "systems"
   ],
   [
    "2026-06",
@@ -7812,7 +8562,72 @@
   [
    "2026-06",
    "perception",
+   "method"
+  ],
+  [
+   "2026-06",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-06",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-06",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-06",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-06",
+   "perception",
    "theory"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
   ],
   [
    "2026-06",
@@ -8158,6 +8973,61 @@
    "2026-06",
    "simulation",
    "method"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
   ],
   [
    "2026-06",
@@ -8278,6 +9148,56 @@
    "2026-06",
    "survey",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "review"
   ],
   [
    "2026-06",
@@ -8408,6 +9328,36 @@
    "2026-07",
    "learning",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "learning",
+   "method"
   ],
   [
    "2026-07",
@@ -8678,6 +9628,31 @@
    "2026-07",
    "manipulation",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-07",
+   "manipulation",
+   "method"
   ],
   [
    "2026-07",
@@ -8897,6 +9872,16 @@
   [
    "2026-07",
    "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "multi-robot",
    "theory"
   ],
   [
@@ -8987,6 +9972,51 @@
   [
    "2026-07",
    "perception",
+   "method"
+  ],
+  [
+   "2026-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-07",
+   "perception",
    "theory"
   ],
   [
@@ -9152,6 +10182,51 @@
   [
    "2026-07",
    "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
    "theory"
   ],
   [
@@ -9263,6 +10338,46 @@
    "2026-07",
    "simulation",
    "method"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "systems"
   ],
   [
    "2026-07",
@@ -9363,6 +10478,26 @@
    "2026-07",
    "survey",
    "method"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-07",
+   "survey",
+   "review"
   ],
   [
    "2026-07",
@@ -9477,6 +10612,36 @@
   [
    "2026-08",
    "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
    "theory"
   ],
   [
@@ -9607,6 +10772,51 @@
   [
    "2026-08",
    "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "manipulation",
    "theory"
   ],
   [
@@ -9623,6 +10833,31 @@
    "2026-08",
    "multi-robot",
    "method"
+  ],
+  [
+   "2026-08",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2026-08",
+   "multi-robot",
+   "systems"
   ],
   [
    "2026-08",
@@ -9702,6 +10937,46 @@
   [
    "2026-08",
    "perception",
+   "method"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-08",
+   "perception",
    "systems"
   ],
   [
@@ -9772,6 +11047,36 @@
   [
    "2026-08",
    "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
    "theory"
   ],
   [
@@ -9838,6 +11143,11 @@
    "2026-08",
    "simulation",
    "method"
+  ],
+  [
+   "2026-08",
+   "simulation",
+   "systems"
   ],
   [
    "2026-08",
@@ -9888,6 +11198,31 @@
    "2026-08",
    "survey",
    "method"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "review"
   ],
   [
    "2026-08",
@@ -9929,7 +11264,11 @@
   },
   {
    "name": "Research Square",
-   "papers": 6
+   "papers": 7
+  },
+  {
+   "name": "KiltHub Repository",
+   "papers": 5
   },
   {
    "name": "Advanced Science",
@@ -9941,10 +11280,6 @@
   },
   {
    "name": "Proceedings of the AAAI Conference on Artificial Intelligence",
-   "papers": 4
-  },
-  {
-   "name": "KiltHub Repository",
    "papers": 4
   },
   {
@@ -9975,108 +11310,108 @@
  "keyword_bursts": [
   {
    "keyword": "manipulation",
-   "recent": 691,
-   "total": 691,
+   "recent": 830,
+   "total": 830,
    "burst_score": 1.0,
-   "recent_share": 0.3567
+   "recent_share": 0.3766
   },
   {
    "keyword": "real-world",
-   "recent": 604,
-   "total": 604,
+   "recent": 689,
+   "total": 689,
    "burst_score": 1.0,
-   "recent_share": 0.3118
+   "recent_share": 0.3126
   },
   {
    "keyword": "reinforcement learning",
-   "recent": 419,
-   "total": 419,
+   "recent": 447,
+   "total": 447,
    "burst_score": 1.0,
-   "recent_share": 0.2163
+   "recent_share": 0.2028
   },
   {
    "keyword": "autonomous",
-   "recent": 335,
-   "total": 335,
+   "recent": 366,
+   "total": 366,
    "burst_score": 1.0,
-   "recent_share": 0.1729
-  },
-  {
-   "keyword": "trajectory",
-   "recent": 300,
-   "total": 300,
-   "burst_score": 1.0,
-   "recent_share": 0.1549
+   "recent_share": 0.1661
   },
   {
    "keyword": "benchmark",
-   "recent": 300,
-   "total": 300,
+   "recent": 366,
+   "total": 366,
    "burst_score": 1.0,
-   "recent_share": 0.1549
+   "recent_share": 0.1661
+  },
+  {
+   "keyword": "trajectory",
+   "recent": 328,
+   "total": 328,
+   "burst_score": 1.0,
+   "recent_share": 0.1488
   },
   {
    "keyword": "dataset",
-   "recent": 278,
-   "total": 278,
+   "recent": 321,
+   "total": 321,
    "burst_score": 1.0,
-   "recent_share": 0.1435
-  },
-  {
-   "keyword": "dexterous",
-   "recent": 237,
-   "total": 237,
-   "burst_score": 1.0,
-   "recent_share": 0.1224
+   "recent_share": 0.1456
   },
   {
    "keyword": "navigation",
-   "recent": 236,
-   "total": 236,
+   "recent": 264,
+   "total": 264,
    "burst_score": 1.0,
-   "recent_share": 0.1218
-  },
-  {
-   "keyword": "generalization",
-   "recent": 202,
-   "total": 202,
-   "burst_score": 1.0,
-   "recent_share": 0.1043
-  },
-  {
-   "keyword": "locomotion",
-   "recent": 200,
-   "total": 200,
-   "burst_score": 1.0,
-   "recent_share": 0.1033
-  },
-  {
-   "keyword": "imitation learning",
-   "recent": 200,
-   "total": 200,
-   "burst_score": 1.0,
-   "recent_share": 0.1033
+   "recent_share": 0.1198
   },
   {
    "keyword": "vision-language-action",
-   "recent": 199,
-   "total": 199,
+   "recent": 259,
+   "total": 259,
    "burst_score": 1.0,
-   "recent_share": 0.1027
+   "recent_share": 0.1175
+  },
+  {
+   "keyword": "dexterous",
+   "recent": 251,
+   "total": 251,
+   "burst_score": 1.0,
+   "recent_share": 0.1139
+  },
+  {
+   "keyword": "generalization",
+   "recent": 241,
+   "total": 241,
+   "burst_score": 1.0,
+   "recent_share": 0.1093
+  },
+  {
+   "keyword": "locomotion",
+   "recent": 216,
+   "total": 216,
+   "burst_score": 1.0,
+   "recent_share": 0.098
   },
   {
    "keyword": "sim-to-real",
-   "recent": 197,
-   "total": 197,
+   "recent": 216,
+   "total": 216,
    "burst_score": 1.0,
-   "recent_share": 0.1017
+   "recent_share": 0.098
+  },
+  {
+   "keyword": "imitation learning",
+   "recent": 213,
+   "total": 213,
+   "burst_score": 1.0,
+   "recent_share": 0.0966
   },
   {
    "keyword": "tactile",
-   "recent": 174,
-   "total": 174,
+   "recent": 205,
+   "total": 205,
    "burst_score": 1.0,
-   "recent_share": 0.0898
+   "recent_share": 0.093
   }
  ]
 }
