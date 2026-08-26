@@ -48952,3 +48952,891 @@ papers:
     questions remain challenging with minimal gains over text-only baselines, exposing
     limitations in causal reasoning. ReXSonoVQA enables developing perception systems
     for ultrasound training, guidance, and robotic automation.'
+- title: Learning Reactive Dexterous Grasping via Hierarchical Task-Space RL Planning
+    and Joint-Space QP Control
+  date: 2026-05
+  url: https://arxiv.org/abs/2605.03363v1
+  category: manipulation
+  subcategory: method
+  authors:
+  - Ho Jae Lee
+  - Yonghyeon Lee
+  - Alexander Alexiev
+  - Tzu-Yuan Lin
+  - Se Hwan Jeon
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: In this work, we propose a hybrid hierarchical control framework for reactive
+    dexterous grasping that explicitly decouples high-level spatial intent from low-level
+    joint execution. We introduce a multi-agent reinforcement learning architecture,
+    specialized into distinct arm and hand agents, that acts as a high-level planner
+    by generating desired task-space velocity commands. These commands are then processed
+    by a GPU-parallelized quadratic programming controller, which translates them
+    into feasible joint velocities while strictly enforcing kinematic limits and collision
+    avoidance. This structural isolation not only accelerates training convergence
+    but also strictly enforces hardware safety. Furthermore, the architecture unlocks
+    zero-shot steerability, allowing system operators to dynamically adjust safety
+    margins and avoid dynamic obstacles without retraining the policy. We extensively
+    validate the proposed framework through a rigorous simulation-to-reality pipeline.
+    Real-world hardware experiments on a 7-DoF arm equipped with a 20-DoF anthropomorphic
+    hand demonstrate highly robust zero-shot transferability for dexterous grasping
+    to a diverse set of unseen objects, highlighting the system's ability to reactively
+    recover from unexpected physical disturbances in unstructured environments.
+- title: 'MCR-Bionic Hand: Anatomical Structural Priors for Dexterous Manipulation'
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.13601v1
+  category: manipulation
+  subcategory: method
+  authors:
+  - Haosen Yang
+  - Guowu Wei
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Dexterous robotic hands are usually formulated as high dimensional active
+    control systems governed by degrees of freedom, actuation, and algorithms. Human
+    hand dexterity, however, is partly encoded in the physical architecture of bones,
+    ligaments, tendons, aponeuroses, and intrinsic muscles. This work describes that
+    contribution as two linked forms of structural intelligence: structural prior
+    generation, in which wrist to finger tenodesis, FDS/FDP routing, and the dorsal
+    extensor hood transform low dimensional posture inputs into default grasp configurations
+    and PIP to DIP coordination; and muscle mediated modulation, in which extrinsic
+    muscles, lumbricals, and interossei regulate MCP posture, distal stability, fingertip
+    force paths, and contact states around that default state. Based on this framework,
+    MCR-Bionic Hand is developed as a 1:1 musculoskeletal biomimetic hand integrating
+    a two row eight bone wrist, cross wrist tendons, anatomical flexor routing, volar
+    plate and collateral ligament constraints, the dorsal extensor hood, and intrinsic
+    muscle pathways within one body. Functional demonstrations and geometric mechanical
+    models show that wrist posture induces multi joint pre shaping, the extensor hood
+    maps PIP posture to a coupled DIP response, and intrinsic plus pathways modulate
+    distal stability and fingertip action direction after grasp formation. Contact
+    rich tasks, including coin rotation, pen transfer, dorsal coin flipping, and cube
+    manipulation, show that MCR-Bionic links low dimensional state generation with
+    fine post contact modulation. These results suggest that anatomical biomimetics
+    is valuable not for visual similarity, but for identifying human hand structures
+    that perform part of control.'
+- title: 'Robot Squid Game: Quadrupedal Locomotion for Traversing Narrow Tunnels'
+  date: 2026-05
+  url: https://arxiv.org/abs/2605.13665v1
+  category: locomotion
+  subcategory: method
+  authors:
+  - Amir Hossain Raj
+  - Dibyendu Das
+  - Xuesu Xiao
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Quadruped robots demonstrate exceptional potential for navigating complex
+    terrain in critical applications such as search and rescue missions and infrastructure
+    inspection However autonomous traversal of confined 3D environments including
+    tunnels caves and collapsed structures remains a significant challenge Existing
+    methods often struggle with rigid gait patterns limited adaptability to diverse
+    geometries and reliance on oversimplified environmental assumptions This paper
+    introduces a Reinforcement Learning RL framework that combines procedural environment
+    generation with policy distillation to enable robust locomotion across various
+    tunnel configurations Our approach leverages a teacher student training paradigm
+    where specialized expert policies trained on procedurally generated tunnel geometries
+    transfer their knowledge to a unified student policy This strategy eliminates
+    the need for complex reward shaping in end-to-end RL training simplifying the
+    process by breaking down complicated tasks into smaller more manageable components
+    that are easier for the robot to learn By synthesizing diverse tunnel structures
+    during training and distilling navigation strategies into a generalizable policy
+    our method achieves consistent traversal across complex spatial constraints where
+    conventional approaches fail We demonstrate through both simulation and real world
+    experiments that our method enables quadruped robots to successfully traverse
+    challenging confined tunnel environments
+- title: Affordance-Based Hierarchical Reinforcement Learning for Quadruped Pedipulation
+  date: 2026-06
+  url: https://arxiv.org/abs/2606.07506v1
+  category: locomotion
+  subcategory: method
+  authors:
+  - Tuba Girgin
+  - Jose Castelblanco
+  - Gabriel Rodriguez
+  - Emre Girgin
+  - Cagri Kilic
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: The object manipulation capabilities of quadruped robots is an open research
+    challenge. While previous studies have focused on low-level policy learning, task
+    execution still relies on expert-designed high-level trajectories. Autonomous
+    selection of both an affordable interaction point on the target object and an
+    affordable robot base pose removes the need for pre-designed trajectories. This
+    study proposes a three-level hierarchical reinforcement learning (RL) framework
+    that utilizes pose affordances to guide the navigation policy, while the navigation
+    policy drives the locomotion policy. In addition, the pedipulation policy is guided
+    by interaction-point affordances, enabling object-centric pose alignment of the
+    quadruped robot and effective end-effector manipulation planning. We train the
+    proposed framework in the IsaacSim ecosystem and evaluate it in both simulation
+    and real-world settings. We investigate the effectiveness of pose affordance across
+    multiple scenarios in simulation while various object interaction tasks are validated
+    on real-world setting forming an object-interaction dataset. The results show
+    that the proposed framework can autonomously identify candidate poses based on
+    their affordance and successfully execute object manipulation tasks in the real
+    world without human guidance.
+- title: 'Spinning Quadrotor: Hover Thrust Augmentation with Passive Lifting Surfaces'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.23163v1
+  category: locomotion
+  subcategory: application
+  authors:
+  - Aniketh Parkala
+  - Harikumar Kandath
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Conventional multirotor aerial vehicles actively suppress yaw rotation
+    during hover, expending power to maintain a fixed heading despite the fact that
+    yaw regulation is not required for force balance or altitude control. This paper
+    challenges that paradigm by proposing a spinning quadrotor architecture that intentionally
+    operates at a sustained yaw rate, converting power traditionally spent on yaw
+    regulation into useful aerodynamic effects. A dynamic model of the spinning quadrotor
+    is developed, analysis for low Re range is conducted to choose an airfoil for
+    lifting surfaces. Preliminary hardware tests show a 22% reduction in thrust required.
+    These findings suggest that intentional yaw rotation, rather than being suppressed,
+    can be exploited as a design mechanism for efficient and robust multirotor flight.
+- title: 'GCS-Bridging: Restoring Connectivity of Disconnected Convex Sets for Graph-of-Convex-Sets
+    Motion Planning'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.22326v1
+  category: planning
+  subcategory: method
+  authors:
+  - Xiaokai Zhou
+  - Baoshi Cao
+  - Yang Liu
+  - Kui Sun
+  - Boyu Ma
+  venue: ''
+  code_url: ''
+  project_url: https://zhouxk1997.github.io/GCS_Bridging/
+  abstract: 'Graph-of-Convex-Sets (GCS)-based trajectory optimization represents collision-free
+    regions in configuration space as a finite collection of convex sets and directly
+    performs collision-free trajectory planning over these sets, substantially simplifying
+    the planning process. However, existing GCS-based trajectory planning methods
+    generally assume sufficient connectivity among the convex regions and do not explicitly
+    address cases in which the start and goal regions belong to different connected
+    components of the initial GCS map. To address this limitation, we propose GCS-Bridging,
+    which reconnects disconnected convex regions through collision-free point paths
+    followed by convex region inflation, thereby recovering the feasibility of otherwise
+    disconnected GCS planning problems. Extensive simulations across multiple IRIS-related
+    algorithms and scenarios demonstrate that GCS-Bridging restores missing start-to-goal
+    connectivity in the initial GCS map with a 99.8% success rate. In addition, a
+    hardware experiment on a single-arm Franka platform in a real-world scenario with
+    initially disconnected start and goal regions validates the effectiveness of the
+    proposed method in practical motion planning. Project website: https://zhouxk1997.github.io/GCS_Bridging/'
+- title: 'OpenSCvx: An Open-Source Modular and Extensible Nonlinear Trajectory Planning
+    Package'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.21631v1
+  category: planning
+  subcategory: method
+  authors:
+  - Christopher R. Hayner
+  - Griffin J. Norris
+  - Fabio Spada
+  - Samet Uzun
+  - Avi Mittal
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Trajectory optimization computes dynamically feasible motions that enable
+    autonomous systems to accomplish complex tasks while satisfying operational and
+    environmental constraints. This tutorial presents OpenSCvx, an open-source Python
+    framework that bridges the gap between high-level problem specification and efficient
+    numerical optimization. Rather than requiring users to derive solver-specific
+    mathematical formulations, OpenSCvx provides a symbolic modeling interface that
+    automatically constructs and solves trajectory optimization problems from modular
+    descriptions of objectives, dynamics, and constraints. Beyond simplifying problem
+    formulation, OpenSCvx supports (i) continuous-time constraint modeling, (ii) temporal
+    and logical specifications, (iii) automatic vectorization for scalable and batched
+    optimization, and (iv) a modular architecture that enables new algorithms, models,
+    and solver backends to be incorporated with minimal effort. These capabilities
+    allow researchers and practitioners to rapidly prototype, solve, and extend state-of-the-art
+    trajectory optimization methods.
+- title: 'VIP: Variation-based Iterative-learning Planning for Robotic Navigation'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.24618v1
+  category: planning
+  subcategory: method
+  authors:
+  - Shuli Lv
+  - Pengda Mao
+  - Chen Min
+  - Li Hong
+  - Runxiao Liu
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Over the past decade, autonomous robotic systems have been increasingly
+    deployed in applications such as surveying, search and rescue, and last-mile delivery.
+    These applications require robots to generate safe and efficient motion plans
+    in large, complex, and obstacle-dense environments, often under limited onboard
+    computing resources. However, conventional planning methods commonly rely on finite-dimensional
+    trajectory parameterization or increasingly long prediction horizons, leading
+    to rapidly growing computational costs, particularly in multi-robot scenarios.
+    This paper presents a novel variation-based iterative-learning planning (VIP)
+    framework for efficient motion planning of both single robots and robotic swarms.
+    Instead of optimizing a large number of discrete trajectory variables, VIP directly
+    updates the planning command as a continuous function in an infinite-dimensional
+    function space. The same variation-based update can be implemented in a model-in-the-loop
+    manner for offline planning or in a robot-in-the-loop manner between online physical
+    executions. By avoiding the computational burden associated with horizon expansion
+    and high-dimensional trajectory discretization, VIP maintains a per-iteration
+    computational complexity of $\mathcal{O}(n)$, where $n$ denotes the number of
+    spatial discretization points. Extensive simulations and real-world experiments
+    demonstrate that the proposed framework can efficiently generate and iteratively
+    improve motion plans for different planning objectives, robotic platforms, and
+    swarm configurations, highlighting its effectiveness, computational efficiency,
+    and scalability as a general planning methodology.
+- title: Data-Asymmetric Latent Imagination and Reranking for 3D Robotic Imitation
+    Learning
+  date: 2026-05
+  url: https://arxiv.org/abs/2605.10166v1
+  category: learning
+  subcategory: method
+  authors:
+  - Lianghao Luo
+  - Xizhou Bu
+  - Ruyan Liu
+  - Qingqiu Huang
+  - Chufeng Tang
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Robotic imitation learning typically assumes access to optimal demonstrations,
+    yet real-world data collection often yields suboptimal, exploratory, or even failed
+    trajectories. Discarding such data wastes valuable information about environment
+    dynamics and failure modes, which can instead be leveraged to improve decision-making.
+    While 3D policies reduce reliance on high-quality demonstrations through strong
+    spatial generalization, they still require large-scale data to achieve high task
+    success. To address this, we propose DALI-R, a Data-Asymmetric Latent Imagination
+    and Reranking framework for 3D robotic imitation learning from mixed-quality trajectories.
+    It learns a Latent World Model over 3D point clouds for imagined rollouts and
+    a Task Completion Scorer that reranks candidate action chunks, improving decision-making
+    without additional high-quality demonstrations. We instantiate DALI-R with both
+    diffusion and efficient flow-matching policies and evaluate it on Adroit and MetaWorld
+    benchmarks. Across the two evaluated 3D base policies, DALI-R achieves an average
+    $6.8$\% improvement in success rate while incurring less than $0.7\times$ additional
+    inference overhead.
+- title: Enhancing Sim2Real Transfer for Torque-Controlled Robots through Real2Sim
+    Dynamics Estimation and Reinforcement Learning
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.22629v1
+  category: simulation
+  subcategory: method
+  authors:
+  - Davide Bargellini
+  - Alex Pasquali
+  - Andrea Govoni
+  - Riccardo Zanella
+  - Gianluca Palli
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Transferring reinforcement learning policies from simulation to Real-World
+    robots remains a major challenge, particularly when dealing with low-level torque
+    control, where even small modelling inaccuracies can lead to unstable or unsafe
+    behaviours. In this work, we propose a Real2Sim2Real pipeline that improves Sim2Real
+    transfer for torque-controlled robotic arms by combining trajectory matching,
+    parameter optimization via genetic algorithms, and domain randomization. Using
+    the 7-DOF Franka Emika Panda robot, we first identify friction, inertia, and gravity
+    compensation parameters by minimizing the error between real and simulated joint
+    trajectories. These calibrated dynamics are then used to train a TQC-based reinforcement
+    learning agent in simulation. The trained policy is evaluated in both Gazebo and
+    MuJoCo environments, and finally deployed on the real robot. Our results demonstrate
+    a significant improvement in tracking accuracy and policy robustness after parameter
+    tuning, with smooth policy transfer from simulation to the Real-World across multiple
+    target-reaching tasks. This work highlights the effectiveness of accurate physical
+    modelling in enabling stable and generalizable torque-based reinforcement learning
+    policies.
+- title: 'Ludi${}_{\scriptscriptstyle 0.1}$: An Agentic System for Socially Intelligent
+    Robots'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.22035v1
+  category: human-robot
+  subcategory: application
+  authors:
+  - Wooseong Chung
+  - William Cong
+  - Jakub Dworakowski
+  - Ethan Ewer
+  - Tri Wahyu Guntara
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Robot foundation models have substantially advanced perception and control,
+    but natural human-robot collaboration requires more than executing isolated commands.
+    A robot must recognize ambiguity, maintain context across turns, communicate its
+    intentions, and revise ongoing behavior as the user's intent changes. We present
+    $\scriptstyle\mathsf{Ludi}_{\scriptscriptstyle 0.1}$, an agentic system for socially
+    intelligent robots that integrates interactive speech, multimodal reasoning, memory,
+    navigation, and learned manipulation. Its decision-making core is a fine-tuned
+    vision-language model trained on multi-turn interaction traces spanning ambiguous
+    requests, clarifications, corrections, interruptions, mixed social and task dialogue,
+    and multi-step tasks. A purpose-built harness manages the model-tool interaction
+    loop, while specialized navigation and manipulation policies execute physical
+    skills. Ludi${}_{\scriptscriptstyle 0.1}$ demonstrates a practical path toward
+    fluid human-robot collaboration today while producing the multimodal interaction
+    traces needed to develop a more deeply integrated foundation model for robots
+    and people.
+- title: 'Evaluating Human and LLM-Generated Thematic Analysis in HRI for Vulnerable
+    Populations: A Comparative and Ethical Analysis'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.21420v1
+  category: human-robot
+  subcategory: application
+  authors:
+  - Alva Markelius
+  - Fethiye Irmak Dogan
+  - Julie Bailey
+  - Hatice Gunes
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Thematic analysis (TA) has long been regarded as an inherently human,
+    reflexive, and interpretive process. However, the extent to which LLM-generated
+    TA is appropriate for Human-Robot Interaction (HRI) research involving vulnerable
+    populations remains largely unexamined and raises critical questions about validity
+    and ethics, particularly in sensitive research contexts. This paper presents a
+    comparative study of human- and LLM-generated TA in an HRI context with a focus
+    on vulnerable populations. We evaluate both objective and semantic agreement between
+    human- and LLMgenerated themes, and examine whether observed divergences reflect
+    systematic interpretive patterns with ethical significance. Our analysis investigates
+    whether LLM-generated TA risks marginalising or misrepresenting the experiences
+    of vulnerable participants, with implications for researchers employing LLM-assisted
+    TA in HRI.
+- title: 'RoboStriker: Latent-Space Strategic Games for Autonomous Humanoid Boxing'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.16195v1
+  category: multi-robot
+  subcategory: systems
+  authors:
+  - Kangning Yin
+  - Kaige Liu
+  - Zhe Cao
+  - Wentao Dong
+  - Weishuai Zeng
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Achieving human-level competitive intelligence and physical agility in
+    humanoid robots remains a profound challenge, particularly in contact-rich and
+    highly dynamic tasks such as boxing. While Multi-Agent Reinforcement Learning
+    offers a principled framework for strategic interaction, its direct application
+    to unstructured raw motor spaces inevitably leads to joint-level physical collapse,
+    preventing the emergence of any viable combat tactics. To resolve this fundamental
+    conflict between strategic exploration and physical feasibility, we formulate
+    the humanoid combat task as a novel two-player latent-space zero-sum Markov game.
+    Under standard regularity and approximate best-response assumptions, we show that
+    the latent formulation induces an equivalent game over the decoder-reachable action
+    manifold, providing an approximate-Nash interpretation of the resulting self-play
+    dynamics. To instantiate this theoretical formulation, we propose RoboStriker,
+    a hierarchical framework that decouples high-level reasoning from low-level execution.
+    It first distills the tracking expertise of predefined boxing motions into a topologically
+    bounded latent manifold. This structured latent foundation subsequently drives
+    multi-agent co-evolution via Latent-Space Neural Fictitious Self-Play. Extensive
+    experimental results demonstrate that gaming within this structured latent space
+    substantially outperforms direct exploration. By constraining strategic exploration
+    through a pretrained motion decoder, RoboStriker substantially reduces the catastrophic
+    balance failures observed in raw action-space methods and achieves superior tactical
+    performance in both competitive win rates and striking efficiency. Finally, we
+    successfully deploy and validate our learned combat policies on real-world humanoid
+    robots. Our code and video and supplementary materials are available at RoboStriker.
+- title: Effects of Swarm Size Variability on Operator Workload
+  date: 2026-04
+  url: https://arxiv.org/abs/2604.21707v1
+  category: multi-robot
+  subcategory: systems
+  authors:
+  - William Hunt
+  - Aleksandra Landowska
+  - Horia A. Maior
+  - Sarvapali D. Ramchurn
+  - Mohammad Soorati
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Real-world deployments of human--swarm teams depend on balancing operator
+    workload to leverage human strengths without inducing overload. A key challenge
+    is that swarm size is often dynamic: robots may join or leave the mission due
+    to failures or redeployment, causing abrupt workload fluctuations. Understanding
+    how such changes affect human workload and performance is critical for robust
+    human--swarm interaction design. This paper investigates how the magnitude and
+    direction of changes in swarm size influence operator workload. Drawing on the
+    concept of workload history, we test three hypotheses: (1) workload remains elevated
+    following decreases in swarm size, (2) small increases are more manageable than
+    large jumps, and (3) sufficiently large changes override these effects by inducing
+    a cognitive reset. We conducted two studies (N = 34) using a monitoring task with
+    simulated drone swarms of varying sizes. By varying the swarm size between episodes,
+    we measured perceived workload relative to swarm size changes. Results show that
+    objective performance is largely unaffected by small changes in swarm size, while
+    subjective workload is sensitive to both change direction and magnitude. Small
+    increases preserve lower workload, whereas small decreases leave workload elevated,
+    indicating workload residue; large changes in either direction attenuate these
+    effects, suggesting a reset response. These findings offer actionable guidance
+    for managing swarm-size transitions to support operator workload in dynamic human--swarm
+    systems.'
+- title: Differentiable Model Predictive Safety for Heterogeneous Mobility at Urban
+    Intersections
+  date: 2026-05
+  url: https://arxiv.org/abs/2605.27418v1
+  category: multi-robot
+  subcategory: systems
+  authors:
+  - Wenzhe Song
+  - Hao Zhang
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: The imminent integration of autonomous vehicles and mobile robots in urban
+    settings presents a critical safety challenge for future intelligent transportation
+    systems. This paper addresses the complex problem of coordinating heterogeneous
+    agents with disparate dynamics at unregulated intersections. We introduce a novel
+    framework, differentiable model predictive safety (DMPS), which embeds the foresight
+    of model-predictive control into a data-driven, end-to-end reinforcement learning
+    architecture. DMPS agents learn a latent dynamics model to predict future trajectories
+    contingent on their actions. A learned, differentiable safety critic then evaluates
+    the risk of these trajectories. Crucially, by leveraging backpropagation through
+    the entire unrolled predictive model, agents can efficiently compute the gradient
+    of future safety with respect to their current action, enabling a minimal and
+    precise online safety correction. Integrated into a multi-agent training scheme,
+    DMPS virtually eliminates collisions to less than 5.6% in high-density, mixed
+    vehicle-robot traffic simulations, demonstrating state-of-the-art safety without
+    compromising energy and traffic efficiency.
+- title: 'TrAct: Bridging Robot Control and Visual Prediction with Visual Tracks'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.24101v1
+  category: simulation
+  subcategory: systems
+  authors:
+  - Zhi Cao
+  - Howard Ji
+  - Kevin Zhang
+  - Kuangzhi Ge
+  - Li Fei-Fei
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Robot actions are inherently embodiment-specific and only weakly aligned
+    with image-space visual changes, limiting their effectiveness as conditioning
+    signals for robot world models. In contrast, visual tracks provide an embodiment-agnostic
+    representation of how task-relevant points move through a scene, offering dense
+    image-space guidance for accurate and spatially precise future video prediction.
+    Building on this observation, we propose TrAct, a world-model-based robot decision-making
+    framework that uses visual tracks as an intermediate interface between control
+    and prediction. TrAct consists of three components: a Vision-Language-Action-and-Track
+    model (VLAT) that jointly predicts candidate actions and corresponding visual
+    tracks from the current observation and language instruction; a track-conditioned
+    world model (TWM) that predicts future visual outcomes conditioned on the proposed
+    tracks; and a vision-language reward model (VLAC) that scores the predicted outcomes.
+    At inference time, VLAT generates candidate action-track pairs, TWM rolls out
+    their visual consequences, and VLAC selects the track whose predicted outcome
+    best satisfies the instruction; the action paired with the selected track is then
+    executed by the robot. Experiments on the proposed LIBERO-INTEGRAL benchmark and
+    real-world Franka manipulation show that TrAct improves success rates from 27%
+    to 55% in simulation and from 49% to 76% on real-world tasks compared with the
+    strong VLA baseline $π_{0.5}$. Furthermore, TWM consistently improves video prediction
+    quality over the action-conditioned world model (AWM). These results demonstrate
+    that visual tracks provide an effective shared interface between robot control
+    and visual prediction, enabling more accurate world modeling and stronger robot
+    generalization.'
+- title: 'NVIDIA Cosmos-H-Dreams: Real-Time Generative Physics Simulation for Surgical
+    Robotics'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.24199v1
+  category: simulation
+  subcategory: systems
+  authors:
+  - Javier Gamazo Tejero
+  - Lukas Zbinden
+  - Keyur Sheth
+  - Raghavendra K M
+  - Nadim Daher
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Generative simulation for surgical robotics still lacks real-time interaction.
+    Physical-robot experiments, often involving animal or cadaver labs, are time-consuming,
+    costly, and difficult to reproduce, while classical simulators struggle to capture
+    photorealistic appearance and deformable-tissue dynamics. We address this gap
+    with Cosmos-H-Dreams, an integrated real-time surgical world-model system combining
+    an action-conditioned generative model, a teacher-to-student distillation recipe,
+    and a deployment stack built on the NVIDIA FlashDreams streaming-inference library.
+    Starting from Cosmos-H-Surgical-Simulator, a multi-embodiment action-conditioned
+    surgical video world model fine-tuned on the large-scale Open-H-Embodiment corpus,
+    we post-train this checkpoint on embodiment- and procedure-specific data. By distilling
+    the resulting bidirectional teacher into a causal, few-step student with Self
+    Forcing, we turn a passive video generator into a controllable surgical simulator
+    that streams at $\sim$160 inference FPS on a single NVIDIA RTX PRO 6000 Blackwell
+    workstation GPU. Crucially, Cosmos-H-Dreams is controller-agnostic: any interface
+    that emits a stream of robot kinematics can drive it. We demonstrate live control
+    through a browser keyboard over WebRTC, a Meta Quest headset over WebXR, a commercial
+    surgical robot console such as CMR Surgical''s Versius, and learned policies operating
+    in closed loop. To our knowledge, this is the first interactive surgical world
+    model supporting live human and policy control. Human operators and policies alike
+    can act inside the synthesized world and observe the consequences in real time.
+    We release Cosmos-H-Dreams as an open surgical simulation system, providing a
+    common foundation for surgical education, scalable synthetic data generation,
+    and future intraoperative decision support.'
+- title: Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned
+    Generation for Policy Learning
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.24885v1
+  category: simulation
+  subcategory: systems
+  authors:
+  - Sixiang Chen
+  - Jiaming Liu
+  - Jixian Wu
+  - Yichen Guo
+  - Tinghao Wang
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Action-conditioned world models are increasingly used as learned simulators
+    for policy evaluation and improvement, yet their effectiveness rests on an unverified
+    assumption: generated futures faithfully reflect arbitrary valid actions. Existing
+    benchmarks are typically confined to expert demonstrations, leaving off-expert
+    action following inadequately evaluated. To address this gap, we introduce WorldEcho,
+    which probes action following over a broader action distribution using visual
+    integrity and SE(3) trajectory alignment. Our diagnosis shows that current world
+    models reasonably execute expert actions but struggle with diverse off-expert
+    trajectories, either ignoring the commanded actions or producing visually invalid
+    rollouts. We further propose WorldSync, which strengthens action following along
+    three complementary axes: distributional coverage, representational grounding,
+    and intervention-effect alignment. It broadens the training distribution over
+    action consequences, grounds intermediate video representations in action-induced
+    robot dynamics through an Action-Forcing Expert, and aligns predicted changes
+    under action interventions with the corresponding changes in ground-truth futures.
+    Experiments on RoboTwin benchmarks and real-robot tasks show that WorldSync improves
+    WorldEcho metrics and serves as a more reliable simulator for iterative policy
+    improvement, enabling policies to achieve higher success rates.'
+- title: Reward-Free Continual Adaptation for Resilient Space Robots
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.23452v1
+  category: simulation
+  subcategory: systems
+  authors:
+  - Andrej Orsula
+  - Miguel Olivares-Mendez
+  - Carol Martinez
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Space robots operate in extreme environments where hardware degradation
+    can critically compromise traditional control strategies. While continual reinforcement
+    learning offers a promising mechanism for online adaptation, it inherently requires
+    access to a reward signal during deployment. However, precise reward computation
+    in space is often infeasible due to the lack of external tracking systems and
+    the overall complexity of the environment. To address the challenge of unobservable
+    rewards, we introduce a reward-free continual learning framework that leverages
+    latent-state world models. By pre-training a model-based agent across diverse
+    simulations, the world model learns a robust predictor of the reward structure
+    within its latent space. Upon deployment to an environment with severe hardware
+    degradation, we freeze the observation encoder and reward predictor to update
+    only the transition dynamics of the world model through unsupervised rollouts.
+    By training the policy entirely on imagined trajectories generated by this updated
+    world model, the agent adapts to altered dynamics without receiving new rewards.
+    We demonstrate our approach across simulated planetary traversal, orbital navigation,
+    and precision assembly tasks subjected to severe morphological failures.
+- title: Towards insect-like distributed proprioception in actuators and appendages
+    for flapping-wing insect-scale aerial robots
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.21699v1
+  category: perception
+  subcategory: method
+  authors:
+  - Alexander Hedrick
+  - Arvind Gupta
+  - Kaushik Jayaram
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Modern flapping-wing insect-scale air vehicles display agility similar
+    to that of their insect counterparts; however, these impressive maneuvers are
+    only possible with off-board sensors like optical tracking cameras. In this manuscript,
+    we introduce two embedded proprioceptive sensors for insect-scale aerial robots:
+    thin film piezoelectric polymers integrated directly into a driving actuator and
+    a pitching hinge which track stroke and pitch angle, respectively. We fabricate
+    the aforementioned size-agnostic mechanically intelligent structures (sensor-actuator,
+    sensor-flexure) using laminate stack fabrication methods. Chirp experiments with
+    our sensors integrated into an insect-size flapping-wing robot show accurate tracking
+    of stroke (RMSE = 0.44 deg) and pitch (RMSE = 2.44 deg) angles in the relevant
+    frequency range. As the first step towards demonstrating the utility of these
+    sensors for enabling numerous onboard autonomy applications, including closed-loop
+    wingbeat control and sensor fusion with existing insect-scale sensor suites for
+    more accurate proprioception and localization, we show one application for each
+    sensor. The proprioceptive hinge enables collision detection, reducing the chance
+    of permanent damage if the robot''s wing collides with an object. The proprioceptive
+    actuator enables asynchronous flapping, which is hypothesized to increase adaptability
+    and efficiency in insects and robots alike. A microrobot equipped with our proprioceptive
+    actuator allows us to test these hypotheses with potential for improving flapping
+    aerial robot performance. We foresee proprioceptive sensors having an important
+    role in progressing both the fields of insect-scale aerial robots and robo-physics
+    due to the bio-inspired nature and high integration level of our sensors.'
+- title: Intuitive Hand Positional Guidance Using McKibben-Based Surface Tactile Sensations
+    to Shoulder and Elbow
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.09167v1
+  category: perception
+  subcategory: method
+  authors:
+  - Kenta Yokoe
+  - Yuki Funabora
+  - Tadayoshi Aoyama
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Hand positional guidance with intuitive perception is crucial for enhancing
+    user interaction and task performance in immersive environments. However, conventional
+    hand positional guidance methods, relying on tactile sensations, lack intuitiveness.
+    Consequently, users require instruction on the relationship between the tactile
+    sensation and target position of the guidance before using these methods. Additionally,
+    the user needs training to become familiar with tactile sensations. This study
+    presents a hand positional guidance system with intuitive perception that leverages
+    McKibben-based surface tactile sensations directed to the shoulder and elbow.
+    We developed a wearable fabric actuator that provides McKibben-based surface tactile
+    sensations to induce six specific movements: elbow flexion, extension, shoulder
+    abduction, adduction, horizontal abduction, and horizontal adduction. The effectiveness
+    of the actuator was experimentally validated, demonstrating its high accuracy
+    in intuitively inducing six movements. An algorithm based on the equilibrium point
+    hypothesis and Weber-Fechner law was implemented to regulate the intensity of
+    the tactile sensations for hand positional guidance. Furthermore, the accuracy
+    and speed of the proposed system were compared with that of conventional guidance
+    methods utilizing synthesized speech and vibrotactile guidance.'
+- title: 'Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization
+    of Map Semantics'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.21440v1
+  category: manipulation
+  subcategory: method
+  authors:
+  - Ran Chen
+  - Jiaxing Ren
+  - Zhikun Zhang
+  - Yunhao Hou
+  - Junbao Zhuo
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Vision-language-action (VLA) models have advanced end-to-end autonomous
+    driving by leveraging foundation models for semantic reasoning and long-tail generalization.
+    However, their planning performance remains limited in complex driving environments
+    because image-only representations inadequately capture planning-relevant road
+    geometry and topology. In this paper, we propose Geo-VLA, a plug-and-play framework
+    that enhances VLA models by learning geometry-aware visual representations. During
+    training, Geo-VLA internalizes geometric map semantics to strengthen road-structure
+    representations, while requiring no HD maps or additional lane information during
+    inference. To support this approach, we introduce Geo-QA, a geometry-focused question-answering
+    dataset that injects road geometry into vision-language representations through
+    contrastive learning and instruction tuning. Experiments on NAVSIM v1 demonstrate
+    that Geo-VLA consistently improves VLA planners with distinct action-generation
+    architectures, achieving 92.1 PDMS and establishing a new state-of-the-art among
+    single-camera VLA planners.
+- title: 'Why Personalization Matters: Cross-Subject Challenges in EMG-IMU-based HRI
+    Activity Recognition'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.21620v1
+  category: survey
+  subcategory: review
+  authors:
+  - Ruan Rithelle Chagas de Faria Carminati
+  - Giovanni Braglia
+  - Luigi Biagiotti
+  - Ronnier Frates Rohrich
+  - Andre Schneider de Oliveira
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: This paper investigates wearable-based recognition of human activities
+    and gestures to support Human-Robot Interaction (HRI) in object-handover and assembly-like
+    scenarios. Electromyography (EMG) and Inertial Measurement Unit (IMU) signals
+    were collected using a Myo armband, culminating in a novel dataset introduced
+    as MAGIC-HRI (Multimodal Activity, Gesture and Intention Collection) with a large
+    taxonomy of 53 movement classes, including Brazilian Sign Language (LIBRAS) numbers
+    (0-9), hand gestures, object/tool handover actions (pick up/give/hold), tool-manipulation
+    tasks, and generic assembly/idle motions, collected from 11 participants with
+    10 samples per class (530 samples per participant). Signals are segmented by detecting
+    muscle activation via an EMG energy envelope, then processed using sliding windows;
+    time- and frequency-domain features are extracted. Multiple classical classifiers
+    are tuned via cross-validated grid search, with Random Forest as the strongest
+    baseline. A Leave-One-Subject-Out (LOSO) protocol reveals a large generalization
+    gap, indicating substantial subject dependence. A personalized adaptation experiment
+    suggests that injecting a small number of samples from a new user can markedly
+    improve recognition. Overall, the study contributes a broad, HRI-driven multimodal
+    dataset, a rigorous evaluation emphasizing generalization, and practical evidence
+    that personalization is likely required for robust deployment in practical HRI.
+- title: LLM-Based Selection of Incongruent Verbal and Nonverbal Behavior for Virtual
+    Humans
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.22731v1
+  category: survey
+  subcategory: review
+  authors:
+  - Parisa Ghanad Torshizi
+  - Stacy Marsella
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Nonverbal behavior generation systems for virtual agents often take an
+    utterance as input and generate nonverbal behaviors that emphasize or illustrate
+    the content of the verbal channel. However, human nonverbal behavior is shaped
+    by more than the content of the speech. It is also influenced by speaker roles,
+    interpersonal relationships, social context, and the cognitive and emotional states
+    of the interactants. As a result, the nonverbal channel may reinforce, weaken,
+    qualify, or even contradict the verbal channel. It may also reveal internal states
+    that are hidden or only indirectly implied in speech, including emotional "leakage"
+    that may be incidental to the immediate interaction. Modeling this richer relationship
+    between verbal and nonverbal behavior is important for designing virtual agents
+    that exhibit realistic, human-like behavior. It is especially critical in training
+    contexts that require nuanced social interpretation, such as counseling simulations
+    involving virtual patients. Drawing on Ekman's framework of verbal nonverbal relationships,
+    we propose a taxonomy of categories in which mismatches between verbal and nonverbal
+    behavior can occur. We then examine alternative approaches for realizing these
+    behaviors using large language models, focusing on whether LLMs can select contextually
+    appropriate mismatched verbal and nonverbal behaviors from a given dialogue and
+    social interaction context. Finally, we evaluate the resulting behaviors in a
+    human-subject study, assessing whether context-driven nonverbal behavior, when
+    embodied in a virtual human, produces the intended effects on observers.
+- title: Inferring Action from Future Latent State for Robotic Manipulation
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.22067v2
+  category: learning
+  subcategory: method
+  authors:
+  - Fenghao Lei
+  - Zhixiong Huang
+  - Long Yang
+  - Jiabao Chen
+  - Peilin Huang
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: World-Action Models (WAMs) build robot control on video-generation backbones,
+    which jointly predict dense future visual trajectories and robot actions. We argue
+    that video generation is an unnecessary intermediate objective for world-action
+    modeling. For robotic manipulation, the goal of a world model is not to reproduce
+    how the world looks at every intermediate moment, but to predict the state that
+    the world will reach after an action is executed. The intermediate frames only
+    describe the visual transition between physical states, which consumes substantial
+    model capacity and computation, but do not directly specify the physical outcome
+    that the robot action is intended to produce. In this paper, we propose DELE-w0.5,
+    which infers robot actions from predicted future states without relying on video
+    generation. Concretely, DELE-w0.5 infers the action sequence from its corresponding
+    compact future latent state. The future latent state captures the action-relevant
+    physical outcome of robot interaction and serves as an explicit bridge between
+    world modeling and action generation. The core design principle of DELE-w0.5 is
+    to model how the physical world changes under robot actions, rather than how its
+    visual appearance evolves frame by frame. This formulation removes the high-dimensional
+    visual redundancy introduced by dense video representations, and it therefore
+    enables cheaper training and low-latency inference. Across 480 real-robot trials
+    on four long-horizon manipulation tasks, our DELE-w0.5 achieves the best performance
+    among all compared policies, attaining 62.5 overall full-task success and 81.3
+    macro ordered-stage progress, outperforming the strongest baseline by 47.5 and
+    30.7 percentage points, respectively.
+- title: Parallel Differentiable Reachability for Learning and Planning with Certified
+    Neural Dynamics and Controllers
+  date: 2026-05
+  url: https://arxiv.org/abs/2605.25346v1
+  category: learning
+  subcategory: method
+  authors:
+  - Keyi Shen
+  - Glen Chou
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Neural network (NN) dynamics models and control policies achieve strong
+    performance in robotics, but providing sound guarantees under uncertainty remains
+    difficult, especially for closed-loop NN systems. Existing reachability tools
+    provide formal over-approximations, yet are often non-differentiable, overly conservative,
+    or too slow for modern learning and online planning pipelines. To address this,
+    we present a parallelizable, differentiable reachability framework in JAX for
+    continuous- and discrete-time systems with analytical and NN-based dynamics and
+    controllers. Our framework combines Taylor-model flowpipe construction with CROWN-style
+    linear bound propagation through a unified representation that preserves affine
+    dependencies while supporting GPU-batched computation and automatic differentiation.
+    Building on this reachability primitive, we develop (i) a certified training method
+    that encourages reachability-friendly dynamics models and controllers, and (ii)
+    a reachability-aware sampling-based MPC scheme with gradient-based refinement.
+    Experiments on non-prehensile manipulation and quadrotor tasks, including hardware
+    and higher-dimensional evaluations (up to 72D), demonstrate practical online planning
+    while maintaining certified reachable-set over-approximations under bounded uncertainty.
+- title: Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action
+    Models
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.24042v1
+  category: planning
+  subcategory: method
+  authors:
+  - Haoran Hao
+  - Shahram Najam Syed
+  - Jeff Schneider
+  - Jeffrey Ichnowski
+  venue: ''
+  code_url: ''
+  project_url: https://hoar012.github.io/HSR-Project
+  abstract: While Vision-Language-Action (VLA) models pretrained on large-scale robot
+    datasets provide a strong foundation for robot manipulation, their performance
+    can degrade when adapted to new tasks with limited task-specific demonstrations.
+    Retrieval offers a practical way to reuse existing demonstrations for data-efficient
+    adaptation, but existing methods often rely on visual similarity, state-action
+    representations, or task-level language matching. These approaches may overlook
+    the hierarchical structure of long-horizon manipulation tasks, where complete
+    task matches are rare but reusable skills are often abundant. To address this
+    challenge, we propose Hierarchical Skill Retrieval (HSR), a retrieval framework
+    for data-efficient VLA adaptation. Specifically, HSR first decomposes a target
+    task into candidate skill sequences. It evaluates each plan based on both semantic
+    plausibility and skill reliability estimated from the prior dataset. The selected
+    decomposition is then used for hybrid retrieval. This combines subtask-level language
+    retrieval with behavior-feature reranking to identify demonstrations that are
+    both semantically relevant and compatible with the target task. Finally, we adapt
+    the policy through a two-stage pretraining and finetuning pipeline, which separates
+    general skill acquisition from task-specific adaptation. Experiments on the LIBERO
+    benchmark and several real-world robot manipulation tasks show that HSR improves
+    the average success rate by 10.3% and 21.3% over the strongest baseline, respectively.
+    These results demonstrate the effectiveness of structured skill-level retrieval
+    for data-efficient VLA adaptation. Videos and code are available at https://hoar012.github.io/HSR-Project.
+- title: 'Physical Agentic AI: An Architecture for Orchestrating a Robot Crew with
+    LLMs'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.22657v1
+  category: planning
+  subcategory: method
+  authors:
+  - Xinyuan Liu
+  - Eren Sadikoglu
+  - Riana Chatterjee
+  - Ransalu Senanayake
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Agentic AI frameworks interpret open-ended task goals and decompose them
+    into multi-step plans. Richer information about embodiment-specific capabilities,
+    physical preconditions, and cross-robot coordination improves grounding, but does
+    not eliminate infeasible, mistimed, or unsafe physical actions. Physical robot
+    crews therefore require an explicit architectural interface between semantic planning
+    and execution, where every planned action is verified against robot capabilities,
+    system state, and workflow constraints before actuation. This paper introduces
+    Physical Agentic AI, a framework for skill-grounded robot agent orchestration,
+    in which each robot exposes a typed library of executable skills while a foundation
+    model planner decomposes a task into phases and assigns each phase to a robot-skill
+    pair. A Robot Orchestration layer exposes the skill library, robot state, named
+    locations, and workflow contracts to a non-actuating Mission Planner, while a
+    deterministic Robot Orchestrator validates and authorizes one skill at a time.
+    We evaluate on a drone-UGV search-and-dispatch mission, where every mission in
+    every condition is executed live in Gazebo, and on a humanoid-quadruped transportation
+    task using hardware-equivalent skill interfaces plus two physical trials on a
+    Unitree G1 and Go2. Varying planner knowledge and runtime enforcement independently,
+    we find that retrieval raises skill grounding from 51% to 96% yet leaves informed
+    planners dispatching 23-29% of faulted steps. Per-dispatch enforcement reduces
+    false dispatch to 0% with no false blocks, and a held-plan ablation confirms that
+    the gate, not plan variation, is responsible. Live execution makes the difference
+    physical: without enforcement all eight injected faults crossed the orchestration
+    boundary and six produced robot motion; with enforcement all eight were refused
+    before motion.'
