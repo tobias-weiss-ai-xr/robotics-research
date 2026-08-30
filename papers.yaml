@@ -32711,7 +32711,6 @@ papers:
 - title: A Distributed Computer Vision System for Coordination Among Swarms OF Mobile
     Robots in Dynamic Warehouse Environments
   date: 2026-05
-  url: https://www.neliti.com/publications/712051/a-distributed-computer-vision-system-for-coordination-among-swarms-of-mobile-rob
   category: multi-robot
   subcategory: method
   authors:
@@ -96851,7 +96850,7 @@ papers:
   - Bohao Zhang
   venue: ''
   code_url: ''
-  project_url: https://roahmlab.github.io/sparrows/}
+  project_url: https://roahmlab.github.io/sparrows/
   abstract: Generating safe motion plans in real-time is necessary for the wide-scale
     deployment of robots in unstructured and human-centric environments. These motion
     plans must be safe to ensure humans are not harmed and nearby objects are not
@@ -108188,7 +108187,7 @@ papers:
   - Katia Sycara
   venue: ''
   code_url: ''
-  project_url: https://socialminigames.github.io/{https://socialminigames.github.io/
+  project_url: https://socialminigames.github.io/
   abstract: The "Last Mile Challenge" has long been considered an important, yet unsolved,
     challenge for autonomous vehicles, public service robots, and delivery robots.
     A central issue in this challenge is the ability of robots to navigate constrained
@@ -111408,7 +111407,7 @@ papers:
   - Dong Wang
   venue: ''
   code_url: ''
-  project_url: https://momakitchen.github.io/}{https://momakitchen.github.io/}
+  project_url: https://momakitchen.github.io/
   abstract: 'In mobile manipulation, navigation and manipulation are often treated
     as separate problems, resulting in a significant gap between merely approaching
     an object and engaging with it effectively. Many navigation approaches primarily
