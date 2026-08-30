@@ -25,23 +25,23 @@
   {
    "id": "learning",
    "name": "Learning & Adaptation",
-   "count": 607,
+   "count": 606,
    "trajectory": {
     "2023": 36,
     "2024": 105,
     "2025": 202,
-    "2026": 264
+    "2026": 263
    },
    "momentum": {
     "id": "learning",
     "name": "Learning",
-    "total": 607,
-    "recent": 376,
+    "total": 606,
+    "recent": 375,
     "prior": 138,
-    "growth_pct": 172.5,
+    "growth_pct": 171.7,
     "recent_share": 0.619,
-    "papers_per_month": 31.3,
-    "score": 234.4
+    "papers_per_month": 31.2,
+    "score": 233.6
    }
   },
   {
@@ -91,45 +91,45 @@
   {
    "id": "multi-robot",
    "name": "Multi-Robot Systems",
-   "count": 267,
+   "count": 266,
    "trajectory": {
     "2023": 12,
-    "2024": 36,
+    "2024": 35,
     "2025": 81,
     "2026": 138
    },
    "momentum": {
     "id": "multi-robot",
     "name": "Multi Robot",
-    "total": 267,
+    "total": 266,
     "recent": 187,
     "prior": 47,
     "growth_pct": 297.9,
-    "recent_share": 0.7,
+    "recent_share": 0.703,
     "papers_per_month": 15.6,
-    "score": 367.9
+    "score": 368.2
    }
   },
   {
    "id": "perception",
    "name": "Perception & Sensing",
-   "count": 345,
+   "count": 344,
    "trajectory": {
     "2023": 8,
     "2024": 40,
-    "2025": 97,
+    "2025": 96,
     "2026": 200
    },
    "momentum": {
     "id": "perception",
     "name": "Perception",
-    "total": 345,
+    "total": 344,
     "recent": 245,
-    "prior": 73,
-    "growth_pct": 235.6,
-    "recent_share": 0.71,
+    "prior": 72,
+    "growth_pct": 240.3,
+    "recent_share": 0.712,
     "papers_per_month": 20.4,
-    "score": 306.6
+    "score": 311.5
    }
   },
   {
@@ -179,23 +179,23 @@
   {
    "id": "survey",
    "name": "Surveys & Taxonomies",
-   "count": 279,
+   "count": 278,
    "trajectory": {
     "2023": 13,
     "2024": 34,
-    "2025": 85,
+    "2025": 84,
     "2026": 147
    },
    "momentum": {
     "id": "survey",
     "name": "Survey",
-    "total": 279,
+    "total": 278,
     "recent": 212,
-    "prior": 33,
-    "growth_pct": 542.4,
-    "recent_share": 0.76,
+    "prior": 32,
+    "growth_pct": 562.5,
+    "recent_share": 0.763,
     "papers_per_month": 17.7,
-    "score": 618.4
+    "score": 638.8
    }
   }
  ],
@@ -218,12 +218,12 @@
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 206
+   "count": 205
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 2437
+   "count": 2434
   },
   {
    "id": "review",
@@ -1365,11 +1365,6 @@
   [
    "2024-01",
    "multi-robot",
-   "method"
-  ],
-  [
-   "2024-01",
-   "multi-robot",
    "systems"
   ],
   [
@@ -4965,11 +4960,6 @@
   [
    "2025-01",
    "perception",
-   "method"
-  ],
-  [
-   "2025-01",
-   "perception",
    "systems"
   ],
   [
@@ -5291,11 +5281,6 @@
    "2025-01",
    "survey",
    "application"
-  ],
-  [
-   "2025-01",
-   "survey",
-   "mechanism"
   ],
   [
    "2025-01",
@@ -11461,11 +11446,6 @@
    "2026-01",
    "learning",
    "mechanism"
-  ],
-  [
-   "2026-01",
-   "learning",
-   "method"
   ],
   [
    "2026-01",
@@ -21669,7 +21649,7 @@
    "keyword": "diffusion policy",
    "recent": 48,
    "total": 60,
-   "burst_score": 1.23,
+   "burst_score": 1.22,
    "recent_share": 0.0172
   },
   {
@@ -21688,10 +21668,10 @@
   },
   {
    "keyword": "benchmark",
-   "recent": 429,
-   "total": 561,
+   "recent": 428,
+   "total": 560,
    "burst_score": 1.17,
-   "recent_share": 0.1539
+   "recent_share": 0.1536
   },
   {
    "keyword": "foundation model",
@@ -21710,14 +21690,14 @@
   {
    "keyword": "slam",
    "recent": 25,
-   "total": 35,
-   "burst_score": 1.09,
+   "total": 34,
+   "burst_score": 1.13,
    "recent_share": 0.009
   },
   {
    "keyword": "generalization",
    "recent": 304,
-   "total": 430,
+   "total": 429,
    "burst_score": 1.08,
    "recent_share": 0.1091
   },
@@ -21731,30 +21711,30 @@
   {
    "keyword": "dataset",
    "recent": 396,
-   "total": 579,
+   "total": 578,
    "burst_score": 1.05,
    "recent_share": 0.1421
   },
   {
    "keyword": "multimodal",
    "recent": 291,
-   "total": 424,
+   "total": 423,
    "burst_score": 1.05,
-   "recent_share": 0.1044
+   "recent_share": 0.1045
   },
   {
    "keyword": "aerial",
    "recent": 198,
    "total": 290,
    "burst_score": 1.05,
-   "recent_share": 0.071
+   "recent_share": 0.0711
   },
   {
-   "keyword": "sim-to-real",
-   "recent": 290,
-   "total": 429,
-   "burst_score": 1.04,
-   "recent_share": 0.1041
+   "keyword": "manipulation",
+   "recent": 995,
+   "total": 1481,
+   "burst_score": 1.03,
+   "recent_share": 0.3571
   }
  ]
 }
