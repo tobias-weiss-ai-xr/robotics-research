@@ -3,181 +3,199 @@
   {
    "id": "human-robot",
    "name": "Human-Robot Interaction",
-   "count": 160,
+   "count": 268,
    "trajectory": {
-    "2025": 35,
-    "2026": 125
+    "2023": 7,
+    "2024": 39,
+    "2025": 82,
+    "2026": 140
    },
    "momentum": {
     "id": "human-robot",
     "name": "Human Robot",
-    "total": 160,
-    "recent": 160,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 13.3,
-    "score": 100.0
+    "total": 268,
+    "recent": 192,
+    "prior": 53,
+    "growth_pct": 262.3,
+    "recent_share": 0.716,
+    "papers_per_month": 16.0,
+    "score": 333.9
    }
   },
   {
    "id": "learning",
    "name": "Learning & Adaptation",
-   "count": 311,
+   "count": 607,
    "trajectory": {
-    "2025": 75,
-    "2026": 236
+    "2023": 36,
+    "2024": 105,
+    "2025": 202,
+    "2026": 264
    },
    "momentum": {
     "id": "learning",
     "name": "Learning",
-    "total": 311,
-    "recent": 311,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 25.9,
-    "score": 100.0
+    "total": 607,
+    "recent": 376,
+    "prior": 138,
+    "growth_pct": 172.5,
+    "recent_share": 0.619,
+    "papers_per_month": 31.3,
+    "score": 234.4
    }
   },
   {
    "id": "locomotion",
    "name": "Locomotion & Mobility",
-   "count": 303,
+   "count": 459,
    "trajectory": {
-    "2025": 65,
-    "2026": 238
+    "2023": 18,
+    "2024": 78,
+    "2025": 121,
+    "2026": 242
    },
    "momentum": {
     "id": "locomotion",
     "name": "Locomotion",
-    "total": 303,
-    "recent": 303,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 25.2,
-    "score": 100.0
+    "total": 459,
+    "recent": 316,
+    "prior": 87,
+    "growth_pct": 263.2,
+    "recent_share": 0.688,
+    "papers_per_month": 26.3,
+    "score": 332.0
    }
   },
   {
    "id": "manipulation",
    "name": "Manipulation & Grasping",
-   "count": 307,
+   "count": 589,
    "trajectory": {
-    "2025": 53,
-    "2026": 254
+    "2023": 22,
+    "2024": 86,
+    "2025": 201,
+    "2026": 280
    },
    "momentum": {
     "id": "manipulation",
     "name": "Manipulation",
-    "total": 307,
-    "recent": 307,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 25.6,
-    "score": 100.0
+    "total": 589,
+    "recent": 392,
+    "prior": 126,
+    "growth_pct": 211.1,
+    "recent_share": 0.666,
+    "papers_per_month": 32.7,
+    "score": 277.7
    }
   },
   {
    "id": "multi-robot",
    "name": "Multi-Robot Systems",
-   "count": 154,
+   "count": 267,
    "trajectory": {
-    "2025": 30,
-    "2026": 124
+    "2023": 12,
+    "2024": 36,
+    "2025": 81,
+    "2026": 138
    },
    "momentum": {
     "id": "multi-robot",
     "name": "Multi Robot",
-    "total": 154,
-    "recent": 154,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 12.8,
-    "score": 100.0
+    "total": 267,
+    "recent": 187,
+    "prior": 47,
+    "growth_pct": 297.9,
+    "recent_share": 0.7,
+    "papers_per_month": 15.6,
+    "score": 367.9
    }
   },
   {
    "id": "perception",
    "name": "Perception & Sensing",
-   "count": 186,
+   "count": 345,
    "trajectory": {
-    "2025": 22,
-    "2026": 164
+    "2023": 8,
+    "2024": 40,
+    "2025": 97,
+    "2026": 200
    },
    "momentum": {
     "id": "perception",
     "name": "Perception",
-    "total": 186,
-    "recent": 186,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 15.5,
-    "score": 100.0
+    "total": 345,
+    "recent": 245,
+    "prior": 73,
+    "growth_pct": 235.6,
+    "recent_share": 0.71,
+    "papers_per_month": 20.4,
+    "score": 306.6
    }
   },
   {
    "id": "planning",
    "name": "Planning & Control",
-   "count": 336,
+   "count": 867,
    "trajectory": {
-    "2025": 68,
-    "2026": 268
+    "2023": 53,
+    "2024": 186,
+    "2025": 290,
+    "2026": 338
    },
    "momentum": {
     "id": "planning",
     "name": "Planning",
-    "total": 336,
-    "recent": 336,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 28.0,
-    "score": 100.0
+    "total": 867,
+    "recent": 478,
+    "prior": 238,
+    "growth_pct": 100.8,
+    "recent_share": 0.551,
+    "papers_per_month": 39.8,
+    "score": 155.9
    }
   },
   {
    "id": "simulation",
    "name": "Simulation & World Models",
-   "count": 308,
+   "count": 588,
    "trajectory": {
-    "2025": 50,
-    "2026": 258
+    "2023": 26,
+    "2024": 83,
+    "2025": 180,
+    "2026": 299
    },
    "momentum": {
     "id": "simulation",
     "name": "Simulation",
-    "total": 308,
-    "recent": 308,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 25.7,
-    "score": 100.0
+    "total": 588,
+    "recent": 389,
+    "prior": 128,
+    "growth_pct": 203.9,
+    "recent_share": 0.662,
+    "papers_per_month": 32.4,
+    "score": 270.1
    }
   },
   {
    "id": "survey",
    "name": "Surveys & Taxonomies",
-   "count": 167,
+   "count": 279,
    "trajectory": {
-    "2025": 38,
-    "2026": 129
+    "2023": 13,
+    "2024": 34,
+    "2025": 85,
+    "2026": 147
    },
    "momentum": {
     "id": "survey",
     "name": "Survey",
-    "total": 167,
-    "recent": 167,
-    "prior": 0,
-    "growth_pct": null,
-    "recent_share": 1.0,
-    "papers_per_month": 13.9,
-    "score": 100.0
+    "total": 279,
+    "recent": 212,
+    "prior": 33,
+    "growth_pct": 542.4,
+    "recent_share": 0.76,
+    "papers_per_month": 17.7,
+    "score": 618.4
    }
   }
  ],
@@ -185,46 +203,7521 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 305
+   "count": 493
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 7
+   "count": 31
   },
   {
    "id": "evaluation",
    "name": "Evaluation & Benchmarks",
-   "count": 3
+   "count": 7
   },
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 53
+   "count": 206
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 1352
+   "count": 2437
   },
   {
    "id": "review",
    "name": "Reviews & Surveys",
-   "count": 125
+   "count": 165
   },
   {
    "id": "systems",
    "name": "Systems & Technology",
-   "count": 273
+   "count": 392
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 114
+   "count": 538
   }
  ],
  "timeline": [
   [
+   "2023-09",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2023-09",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2023-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "learning",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "learning",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "learning",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2023-09",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2023-09",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2023-09",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-09",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-09",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-09",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-09",
+   "perception",
+   "method"
+  ],
+  [
+   "2023-09",
+   "perception",
+   "method"
+  ],
+  [
+   "2023-09",
+   "perception",
+   "method"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "simulation",
+   "application"
+  ],
+  [
+   "2023-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-09",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "survey",
+   "review"
+  ],
+  [
+   "2023-10",
+   "human-robot",
+   "development"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2023-10",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2023-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2023-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2023-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2023-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2023-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2023-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2023-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2023-10",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2023-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "application"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2023-10",
+   "survey",
+   "method"
+  ],
+  [
+   "2023-10",
+   "survey",
+   "review"
+  ],
+  [
+   "2023-10",
+   "survey",
+   "review"
+  ],
+  [
+   "2023-10",
+   "survey",
+   "review"
+  ],
+  [
+   "2023-10",
+   "survey",
+   "review"
+  ],
+  [
+   "2023-11",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2023-11",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2023-11",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2023-11",
+   "human-robot",
+   "method"
+  ],
+  [
+   "2023-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2023-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2023-11",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-11",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-11",
+   "perception",
+   "method"
+  ],
+  [
+   "2023-11",
+   "perception",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "perception",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "development"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-11",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2023-11",
+   "survey",
+   "review"
+  ],
+  [
+   "2023-11",
+   "survey",
+   "review"
+  ],
+  [
+   "2023-11",
+   "survey",
+   "review"
+  ],
+  [
+   "2023-11",
+   "survey",
+   "review"
+  ],
+  [
+   "2023-11",
+   "survey",
+   "review"
+  ],
+  [
+   "2023-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2023-12",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2023-12",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2023-12",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2023-12",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2023-12",
+   "locomotion",
+   "mechanism"
+  ],
+  [
+   "2023-12",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2023-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2023-12",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "perception",
+   "method"
+  ],
+  [
+   "2023-12",
+   "perception",
+   "method"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-12",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-12",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-12",
+   "simulation",
+   "method"
+  ],
+  [
+   "2023-12",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2023-12",
+   "survey",
+   "application"
+  ],
+  [
+   "2024-01",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-01",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-01",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-01",
+   "human-robot",
+   "method"
+  ],
+  [
+   "2024-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-01",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2024-01",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "perception",
+   "application"
+  ],
+  [
+   "2024-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "application"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "application"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-01",
+   "survey",
+   "method"
+  ],
+  [
+   "2024-01",
+   "survey",
+   "method"
+  ],
+  [
+   "2024-01",
+   "survey",
+   "method"
+  ],
+  [
+   "2024-01",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-01",
+   "survey",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "survey",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-02",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-02",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-02",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-02",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-02",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-02",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-02",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-02",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-02",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-02",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-02",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-02",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-02",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "survey",
+   "method"
+  ],
+  [
+   "2024-02",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-02",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-02",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-03",
+   "human-robot",
+   "method"
+  ],
+  [
+   "2024-03",
+   "human-robot",
+   "method"
+  ],
+  [
+   "2024-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "mechanism"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-03",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2024-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-03",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2024-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-03",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-03",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "survey",
+   "evaluation"
+  ],
+  [
+   "2024-03",
+   "survey",
+   "method"
+  ],
+  [
+   "2024-04",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-04",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-04",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "learning",
+   "systems"
+  ],
+  [
+   "2024-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-04",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-04",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-04",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-04",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-04",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-04",
+   "multi-robot",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-04",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "simulation",
+   "application"
+  ],
+  [
+   "2024-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-04",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-04",
+   "survey",
+   "method"
+  ],
+  [
+   "2024-04",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-04",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-04",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-05",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-05",
+   "learning",
+   "application"
+  ],
+  [
+   "2024-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "learning",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-05",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-05",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-05",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "development"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-06",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-06",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2024-06",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2024-06",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2024-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-06",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2024-06",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-06",
+   "perception",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-06",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2024-06",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2024-06",
+   "survey",
+   "method"
+  ],
+  [
+   "2024-07",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "learning",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-07",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-07",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-07",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-07",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-07",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-07",
+   "locomotion",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-07",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2024-07",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2024-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-07",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-08",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-08",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "learning",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-08",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-08",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-08",
+   "perception",
+   "application"
+  ],
+  [
+   "2024-08",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2024-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "application"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-08",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-09",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-09",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-09",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-09",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-09",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-09",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-09",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2024-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-09",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-09",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2024-09",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "perception",
+   "development"
+  ],
+  [
+   "2024-09",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-09",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-09",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-09",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-09",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-09",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "development"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-09",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-10",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-10",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-10",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "learning",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-10",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-10",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-10",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-10",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-10",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "perception",
+   "development"
+  ],
+  [
+   "2024-10",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-10",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-10",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-10",
+   "perception",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-10",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2024-10",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-10",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-10",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-10",
+   "survey",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-11",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-11",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-11",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2024-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "locomotion",
+   "mechanism"
+  ],
+  [
+   "2024-11",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-11",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-11",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-11",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-11",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-11",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-11",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2024-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-11",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "perception",
+   "application"
+  ],
+  [
+   "2024-11",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-11",
+   "perception",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-11",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-11",
+   "survey",
+   "method"
+  ],
+  [
+   "2024-11",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-11",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-11",
+   "survey",
+   "theory"
+  ],
+  [
+   "2024-11",
+   "survey",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-12",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-12",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2024-12",
+   "human-robot",
+   "mechanism"
+  ],
+  [
+   "2024-12",
+   "human-robot",
+   "method"
+  ],
+  [
+   "2024-12",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "development"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "learning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-12",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-12",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2024-12",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-12",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-12",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2024-12",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2024-12",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2024-12",
+   "perception",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "simulation",
+   "method"
+  ],
+  [
+   "2024-12",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2024-12",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "survey",
+   "method"
+  ],
+  [
+   "2024-12",
+   "survey",
+   "review"
+  ],
+  [
+   "2024-12",
+   "survey",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-01",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-01",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-01",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-01",
+   "human-robot",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-01",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-01",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-01",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-01",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-01",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-01",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "evaluation"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "multi-robot",
+   "development"
+  ],
+  [
+   "2025-01",
+   "multi-robot",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "application"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "application"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "development"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "development"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "survey",
+   "application"
+  ],
+  [
+   "2025-01",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2025-01",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-01",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-01",
+   "survey",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "survey",
+   "theory"
+  ],
+  [
+   "2025-01",
+   "survey",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-02",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-02",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-02",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-02",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-02",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-02",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-02",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-02",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-02",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-02",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-02",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-02",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-02",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-02",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-02",
+   "survey",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-03",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-03",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "development"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "perception",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-03",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-03",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-03",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-04",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-04",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-04",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2025-04",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-04",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-04",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-04",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "perception",
+   "application"
+  ],
+  [
+   "2025-04",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-04",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-04",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-04",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-04",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-04",
+   "perception",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "application"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-04",
+   "simulation",
+   "application"
+  ],
+  [
+   "2025-04",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-04",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-04",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-04",
+   "survey",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-05",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-05",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-05",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-05",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-05",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "development"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2025-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-05",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-05",
+   "perception",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-05",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-06",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-06",
+   "human-robot",
+   "mechanism"
+  ],
+  [
+   "2025-06",
+   "human-robot",
+   "method"
+  ],
+  [
+   "2025-06",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-06",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-06",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2025-06",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2025-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2025-06",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2025-06",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-06",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "application"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "application"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "application"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-06",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-06",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-07",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-07",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-07",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-07",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-07",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-07",
+   "human-robot",
+   "method"
+  ],
+  [
+   "2025-07",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2025-07",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-07",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-07",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-07",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-07",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-08",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-08",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-08",
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-08",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2025-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "learning",
+   "method"
+  ],
+  [
    "2025-08",
    "learning",
    "method"
@@ -257,6 +7750,41 @@
   [
    "2025-08",
    "locomotion",
+   "application"
+  ],
+  [
+   "2025-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-08",
+   "locomotion",
+   "application"
+  ],
+  [
+   "2025-08",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-08",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-08",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-08",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2025-08",
+   "locomotion",
    "method"
   ],
   [
@@ -267,6 +7795,21 @@
   [
    "2025-08",
    "manipulation",
+   "application"
+  ],
+  [
+   "2025-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-08",
+   "manipulation",
    "method"
   ],
   [
@@ -286,6 +7829,51 @@
   ],
   [
    "2025-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-08",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-08",
+   "manipulation",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-08",
    "multi-robot",
    "systems"
   ],
@@ -298,6 +7886,21 @@
    "2025-08",
    "multi-robot",
    "systems"
+  ],
+  [
+   "2025-08",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "perception",
+   "mechanism"
   ],
   [
    "2025-08",
@@ -311,6 +7914,56 @@
   ],
   [
    "2025-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-08",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
    "planning",
    "method"
   ],
@@ -346,6 +7999,71 @@
   ],
   [
    "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-08",
    "simulation",
    "method"
   ],
@@ -362,7 +8080,27 @@
   [
    "2025-08",
    "simulation",
+   "method"
+  ],
+  [
+   "2025-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-08",
+   "simulation",
    "systems"
+  ],
+  [
+   "2025-08",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2025-08",
+   "survey",
+   "method"
   ],
   [
    "2025-08",
@@ -380,9 +8118,24 @@
    "review"
   ],
   [
-   "2025-09",
-   "human-robot",
-   "application"
+   "2025-08",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-08",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-08",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-08",
+   "survey",
+   "theory"
   ],
   [
    "2025-09",
@@ -456,8 +8209,28 @@
   ],
   [
    "2025-09",
-   "learning",
-   "method"
+   "human-robot",
+   "application"
+  ],
+  [
+   "2025-09",
+   "human-robot",
+   "development"
+  ],
+  [
+   "2025-09",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "human-robot",
+   "theory"
   ],
   [
    "2025-09",
@@ -553,6 +8326,41 @@
    "2025-09",
    "learning",
    "method"
+  ],
+  [
+   "2025-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "learning",
+   "theory"
   ],
   [
    "2025-09",
@@ -637,7 +8445,22 @@
   [
    "2025-09",
    "manipulation",
-   "method"
+   "application"
+  ],
+  [
+   "2025-09",
+   "manipulation",
+   "development"
+  ],
+  [
+   "2025-09",
+   "manipulation",
+   "evaluation"
+  ],
+  [
+   "2025-09",
+   "manipulation",
+   "mechanism"
   ],
   [
    "2025-09",
@@ -688,6 +8511,26 @@
    "2025-09",
    "manipulation",
    "method"
+  ],
+  [
+   "2025-09",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-09",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-09",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-09",
+   "manipulation",
+   "theory"
   ],
   [
    "2025-09",
@@ -738,6 +8581,21 @@
    "2025-09",
    "multi-robot",
    "systems"
+  ],
+  [
+   "2025-09",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "perception",
+   "application"
+  ],
+  [
+   "2025-09",
+   "perception",
+   "mechanism"
   ],
   [
    "2025-09",
@@ -791,8 +8649,23 @@
   ],
   [
    "2025-09",
-   "planning",
+   "perception",
    "method"
+  ],
+  [
+   "2025-09",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-09",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "mechanism"
   ],
   [
    "2025-09",
@@ -877,6 +8750,96 @@
   [
    "2025-09",
    "planning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-09",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-09",
+   "simulation",
    "method"
   ],
   [
@@ -958,6 +8921,26 @@
    "2025-09",
    "simulation",
    "systems"
+  ],
+  [
+   "2025-09",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2025-09",
+   "survey",
+   "method"
   ],
   [
    "2025-09",
@@ -1061,8 +9044,18 @@
   ],
   [
    "2025-10",
+   "human-robot",
+   "mechanism"
+  ],
+  [
+   "2025-10",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-10",
    "learning",
-   "method"
+   "mechanism"
   ],
   [
    "2025-10",
@@ -1163,6 +9156,46 @@
    "2025-10",
    "learning",
    "method"
+  ],
+  [
+   "2025-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "learning",
+   "theory"
   ],
   [
    "2025-10",
@@ -1301,8 +9334,18 @@
   ],
   [
    "2025-10",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2025-10",
    "manipulation",
-   "method"
+   "application"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "mechanism"
   ],
   [
    "2025-10",
@@ -1373,6 +9416,66 @@
    "2025-10",
    "manipulation",
    "method"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "manipulation",
+   "theory"
   ],
   [
    "2025-10",
@@ -1403,6 +9506,36 @@
    "2025-10",
    "multi-robot",
    "systems"
+  ],
+  [
+   "2025-10",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2025-10",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2025-10",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-10",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-10",
+   "perception",
+   "method"
   ],
   [
    "2025-10",
@@ -1422,7 +9555,7 @@
   [
    "2025-10",
    "planning",
-   "method"
+   "mechanism"
   ],
   [
    "2025-10",
@@ -1513,6 +9646,96 @@
    "2025-10",
    "planning",
    "method"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-10",
+   "simulation",
+   "application"
+  ],
+  [
+   "2025-10",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-10",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-10",
+   "simulation",
+   "mechanism"
   ],
   [
    "2025-10",
@@ -1546,8 +9769,18 @@
   ],
   [
    "2025-10",
-   "survey",
-   "review"
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-10",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-10",
+   "simulation",
+   "method"
   ],
   [
    "2025-10",
@@ -1603,6 +9836,16 @@
    "2025-10",
    "survey",
    "review"
+  ],
+  [
+   "2025-10",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-10",
+   "survey",
+   "theory"
   ],
   [
    "2025-11",
@@ -1636,8 +9879,23 @@
   ],
   [
    "2025-11",
-   "learning",
+   "human-robot",
    "method"
+  ],
+  [
+   "2025-11",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "human-robot",
+   "theory"
   ],
   [
    "2025-11",
@@ -1703,6 +9961,41 @@
    "2025-11",
    "learning",
    "method"
+  ],
+  [
+   "2025-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-11",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-11",
+   "learning",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "learning",
+   "theory"
   ],
   [
    "2025-11",
@@ -1776,8 +10069,18 @@
   ],
   [
    "2025-11",
-   "manipulation",
+   "locomotion",
    "method"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "application"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "mechanism"
   ],
   [
    "2025-11",
@@ -1847,6 +10150,76 @@
   [
    "2025-11",
    "manipulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "multi-robot",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "multi-robot",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2025-11",
+   "multi-robot",
    "method"
   ],
   [
@@ -1888,6 +10261,26 @@
    "2025-11",
    "multi-robot",
    "systems"
+  ],
+  [
+   "2025-11",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "perception",
+   "mechanism"
   ],
   [
    "2025-11",
@@ -1922,7 +10315,7 @@
   [
    "2025-11",
    "planning",
-   "method"
+   "mechanism"
   ],
   [
    "2025-11",
@@ -1977,6 +10370,116 @@
   [
    "2025-11",
    "planning",
+   "method"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "application"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-11",
+   "simulation",
    "method"
   ],
   [
@@ -2045,6 +10548,46 @@
    "systems"
   ],
   [
+   "2025-11",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-11",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-11",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-11",
+   "survey",
+   "theory"
+  ],
+  [
+   "2025-11",
+   "survey",
+   "theory"
+  ],
+  [
    "2025-12",
    "human-robot",
    "application"
@@ -2086,8 +10629,18 @@
   ],
   [
    "2025-12",
-   "learning",
+   "human-robot",
    "method"
+  ],
+  [
+   "2025-12",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "learning",
+   "mechanism"
   ],
   [
    "2025-12",
@@ -2153,6 +10706,51 @@
    "2025-12",
    "learning",
    "method"
+  ],
+  [
+   "2025-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "learning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "learning",
+   "theory"
   ],
   [
    "2025-12",
@@ -2187,6 +10785,61 @@
   [
    "2025-12",
    "manipulation",
+   "application"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "manipulation",
    "method"
   ],
   [
@@ -2222,6 +10875,56 @@
   [
    "2025-12",
    "manipulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "multi-robot",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2025-12",
+   "multi-robot",
+   "method"
+  ],
+  [
+   "2025-12",
+   "multi-robot",
    "method"
   ],
   [
@@ -2238,6 +10941,26 @@
    "2025-12",
    "multi-robot",
    "systems"
+  ],
+  [
+   "2025-12",
+   "multi-robot",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "perception",
+   "mechanism"
   ],
   [
    "2025-12",
@@ -2246,8 +10969,38 @@
   ],
   [
    "2025-12",
-   "planning",
+   "perception",
    "method"
+  ],
+  [
+   "2025-12",
+   "perception",
+   "method"
+  ],
+  [
+   "2025-12",
+   "perception",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "perception",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "perception",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "application"
   ],
   [
    "2025-12",
@@ -2302,6 +11055,121 @@
   [
    "2025-12",
    "planning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "method"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "systems"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "planning",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "simulation",
+   "method"
+  ],
+  [
+   "2025-12",
+   "simulation",
    "method"
   ],
   [
@@ -2361,8 +11229,58 @@
   ],
   [
    "2025-12",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2025-12",
    "survey",
-   "review"
+   "application"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "method"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "method"
   ],
   [
    "2025-12",
@@ -2403,6 +11321,31 @@
    "2025-12",
    "survey",
    "review"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "review"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "theory"
+  ],
+  [
+   "2025-12",
+   "survey",
+   "theory"
   ],
   [
    "2026-01",
@@ -2436,6 +11379,91 @@
   ],
   [
    "2026-01",
+   "human-robot",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "method"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "method"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "method"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "development"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "mechanism"
+  ],
+  [
+   "2026-01",
    "learning",
    "method"
   ],
@@ -2466,6 +11494,91 @@
   ],
   [
    "2026-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "learning",
+   "theory"
+  ],
+  [
+   "2026-01",
    "locomotion",
    "application"
   ],
@@ -2522,7 +11635,12 @@
   [
    "2026-01",
    "locomotion",
-   "method"
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "locomotion",
+   "mechanism"
   ],
   [
    "2026-01",
@@ -2551,6 +11669,86 @@
   ],
   [
    "2026-01",
+   "locomotion",
+   "method"
+  ],
+  [
+   "2026-01",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "locomotion",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "evaluation"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-01",
    "manipulation",
    "method"
   ],
@@ -2602,6 +11800,51 @@
   [
    "2026-01",
    "manipulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
+   "development"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
    "method"
   ],
   [
@@ -2628,6 +11871,116 @@
    "2026-01",
    "multi-robot",
    "systems"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "application"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "application"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "application"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "application"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "application"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "mechanism"
   ],
   [
    "2026-01",
@@ -2651,6 +12004,131 @@
   ],
   [
    "2026-01",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "perception",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "development"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "development"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
    "planning",
    "method"
   ],
@@ -2687,6 +12165,201 @@
   [
    "2026-01",
    "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "application"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "application"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "development"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "development"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "development"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
    "method"
   ],
   [
@@ -2728,6 +12401,36 @@
    "2026-01",
    "simulation",
    "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "review"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "review"
   ],
   [
    "2026-01",
@@ -2756,8 +12459,63 @@
   ],
   [
    "2026-01",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2026-01",
    "survey",
-   "review"
+   "application"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "application"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "development"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "mechanism"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "method"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "method"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "method"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "method"
   ],
   [
    "2026-01",
@@ -2778,6 +12536,41 @@
    "2026-01",
    "survey",
    "review"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "review"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "theory"
+  ],
+  [
+   "2026-01",
+   "survey",
+   "theory"
   ],
   [
    "2026-02",
@@ -2821,8 +12614,13 @@
   ],
   [
    "2026-02",
+   "human-robot",
+   "theory"
+  ],
+  [
+   "2026-02",
    "learning",
-   "method"
+   "mechanism"
   ],
   [
    "2026-02",
@@ -2918,6 +12716,31 @@
    "2026-02",
    "learning",
    "method"
+  ],
+  [
+   "2026-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "learning",
+   "theory"
   ],
   [
    "2026-02",
@@ -3181,6 +13004,36 @@
   ],
   [
    "2026-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-02",
+   "manipulation",
+   "method"
+  ],
+  [
+   "2026-02",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "multi-robot",
+   "development"
+  ],
+  [
+   "2026-02",
    "multi-robot",
    "method"
   ],
@@ -3238,6 +13091,16 @@
    "2026-02",
    "multi-robot",
    "systems"
+  ],
+  [
+   "2026-02",
+   "multi-robot",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "perception",
+   "mechanism"
   ],
   [
    "2026-02",
@@ -3286,6 +13149,21 @@
   ],
   [
    "2026-02",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-02",
+   "perception",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "planning",
+   "mechanism"
+  ],
+  [
+   "2026-02",
    "planning",
    "mechanism"
   ],
@@ -3357,6 +13235,36 @@
   [
    "2026-02",
    "planning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "planning",
    "theory"
   ],
   [
@@ -3376,6 +13284,21 @@
   ],
   [
    "2026-02",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-02",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-02",
    "simulation",
    "method"
   ],
@@ -3483,6 +13406,11 @@
    "2026-02",
    "simulation",
    "systems"
+  ],
+  [
+   "2026-02",
+   "survey",
+   "method"
   ],
   [
    "2026-02",
@@ -3513,6 +13441,11 @@
    "2026-02",
    "survey",
    "review"
+  ],
+  [
+   "2026-02",
+   "survey",
+   "theory"
   ],
   [
    "2026-03",
@@ -4763,6 +14696,26 @@
    "2026-03",
    "planning",
    "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "planning",
+   "theory"
   ],
   [
    "2026-03",
@@ -4817,6 +14770,11 @@
   [
    "2026-03",
    "simulation",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "simulation",
    "method"
   ],
   [
@@ -5937,6 +15895,16 @@
   [
    "2026-04",
    "planning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "planning",
    "theory"
   ],
   [
@@ -6067,7 +16035,12 @@
   [
    "2026-04",
    "simulation",
-   "systems"
+   "method"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "method"
   ],
   [
    "2026-04",
@@ -6113,6 +16086,21 @@
    "2026-04",
    "simulation",
    "systems"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "simulation",
+   "theory"
   ],
   [
    "2026-04",
@@ -7112,6 +17100,16 @@
   [
    "2026-05",
    "planning",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "planning",
    "method"
   ],
   [
@@ -7291,6 +17289,31 @@
   ],
   [
    "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-05",
    "simulation",
    "method"
   ],
@@ -7438,6 +17461,11 @@
    "2026-05",
    "simulation",
    "systems"
+  ],
+  [
+   "2026-05",
+   "simulation",
+   "theory"
   ],
   [
    "2026-05",
@@ -8632,7 +18660,7 @@
   [
    "2026-06",
    "planning",
-   "method"
+   "application"
   ],
   [
    "2026-06",
@@ -8863,6 +18891,21 @@
    "2026-06",
    "planning",
    "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "planning",
+   "theory"
   ],
   [
    "2026-06",
@@ -9022,7 +19065,7 @@
   [
    "2026-06",
    "simulation",
-   "systems"
+   "method"
   ],
   [
    "2026-06",
@@ -9163,6 +19206,26 @@
    "2026-06",
    "simulation",
    "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "simulation",
+   "theory"
   ],
   [
    "2026-06",
@@ -9188,6 +19251,11 @@
    "2026-06",
    "survey",
    "mechanism"
+  ],
+  [
+   "2026-06",
+   "survey",
+   "method"
   ],
   [
    "2026-06",
@@ -10057,6 +20125,21 @@
   [
    "2026-07",
    "perception",
+   "method"
+  ],
+  [
+   "2026-07",
+   "perception",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "perception",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "perception",
    "theory"
   ],
   [
@@ -10087,7 +20170,7 @@
   [
    "2026-07",
    "planning",
-   "method"
+   "mechanism"
   ],
   [
    "2026-07",
@@ -10263,6 +20346,31 @@
    "2026-07",
    "planning",
    "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "planning",
+   "theory"
   ],
   [
    "2026-07",
@@ -10293,6 +20401,11 @@
    "2026-07",
    "simulation",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "simulation",
+   "method"
   ],
   [
    "2026-07",
@@ -10602,6 +20715,11 @@
   [
    "2026-08",
    "human-robot",
+   "application"
+  ],
+  [
+   "2026-08",
+   "human-robot",
    "theory"
   ],
   [
@@ -10697,6 +20815,16 @@
   [
    "2026-08",
    "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "learning",
    "theory"
   ],
   [
@@ -10882,7 +21010,7 @@
   [
    "2026-08",
    "manipulation",
-   "theory"
+   "method"
   ],
   [
    "2026-08",
@@ -10893,6 +21021,16 @@
    "2026-08",
    "manipulation",
    "theory"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "multi-robot",
+   "method"
   ],
   [
    "2026-08",
@@ -10967,6 +21105,21 @@
   [
    "2026-08",
    "perception",
+   "application"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "application"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "perception",
    "mechanism"
   ],
   [
@@ -10977,6 +21130,16 @@
   [
    "2026-08",
    "perception",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-08",
+   "perception",
    "method"
   ],
   [
@@ -11068,6 +21231,11 @@
    "2026-08",
    "perception",
    "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "development"
   ],
   [
    "2026-08",
@@ -11182,6 +21350,26 @@
   [
    "2026-08",
    "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
    "theory"
   ],
   [
@@ -11192,6 +21380,16 @@
   [
    "2026-08",
    "simulation",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "simulation",
    "method"
   ],
   [
@@ -11318,6 +21516,11 @@
    "2026-08",
    "simulation",
    "theory"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "mechanism"
   ],
   [
    "2026-08",
@@ -11388,170 +21591,170 @@
  "venues": [
   {
    "name": "arXiv (Cornell University)",
-   "papers": 48
+   "papers": 288
+  },
+  {
+   "name": "IEEE Robotics and Automation Letters",
+   "papers": 52
+  },
+  {
+   "name": "SSRN Electronic Journal",
+   "papers": 43
   },
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 19
+   "papers": 34
   },
   {
-   "name": "Preprints.org",
-   "papers": 10
+   "name": "IEEE Transactions on Automation Science and Engineering",
+   "papers": 27
   },
   {
    "name": "Frontiers in Robotics and AI",
-   "papers": 7
+   "papers": 21
+  },
+  {
+   "name": "IEEE Access",
+   "papers": 20
+  },
+  {
+   "name": "IEEE Transactions on Robotics",
+   "papers": 18
+  },
+  {
+   "name": "IEEE/ASME Transactions on Mechatronics",
+   "papers": 16
+  },
+  {
+   "name": "Sensors",
+   "papers": 15
   },
   {
    "name": "Research Square",
-   "papers": 7
+   "papers": 14
   },
   {
-   "name": "KiltHub Repository",
-   "papers": 5
+   "name": "Lecture notes in computer science",
+   "papers": 13
   },
   {
-   "name": "Advanced Science",
-   "papers": 5
+   "name": "Preprints.org",
+   "papers": 12
   },
   {
-   "name": "IEEE Sensors Journal",
-   "papers": 5
+   "name": "Advanced Functional Materials",
+   "papers": 11
   },
   {
-   "name": "Proceedings of the AAAI Conference on Artificial Intelligence",
-   "papers": 4
-  },
-  {
-   "name": "Chemical Engineering Journal",
-   "papers": 4
-  },
-  {
-   "name": "Open MIND",
-   "papers": 4
-  },
-  {
-   "name": "Robotics",
-   "papers": 3
-  },
-  {
-   "name": "Advanced Intelligent Systems",
-   "papers": 3
-  },
-  {
-   "name": "Biomimetics",
-   "papers": 3
-  },
-  {
-   "name": "Expert Systems with Applications",
-   "papers": 3
+   "name": "Nature Communications",
+   "papers": 9
   }
  ],
  "keyword_bursts": [
   {
-   "keyword": "manipulation",
-   "recent": 838,
-   "total": 838,
-   "burst_score": 1.0,
-   "recent_share": 0.3754
+   "keyword": "vision-language-action",
+   "recent": 285,
+   "total": 312,
+   "burst_score": 1.4,
+   "recent_share": 0.1023
   },
   {
-   "keyword": "real-world",
-   "recent": 699,
-   "total": 699,
-   "burst_score": 1.0,
-   "recent_share": 0.3132
+   "keyword": "world model",
+   "recent": 180,
+   "total": 215,
+   "burst_score": 1.28,
+   "recent_share": 0.0646
   },
   {
-   "keyword": "reinforcement learning",
-   "recent": 454,
-   "total": 454,
-   "burst_score": 1.0,
-   "recent_share": 0.2034
+   "keyword": "diffusion policy",
+   "recent": 48,
+   "total": 60,
+   "burst_score": 1.23,
+   "recent_share": 0.0172
   },
   {
-   "keyword": "autonomous",
-   "recent": 373,
-   "total": 373,
-   "burst_score": 1.0,
-   "recent_share": 0.1671
+   "keyword": "contact-rich",
+   "recent": 171,
+   "total": 222,
+   "burst_score": 1.18,
+   "recent_share": 0.0614
+  },
+  {
+   "keyword": "shared autonomy",
+   "recent": 34,
+   "total": 44,
+   "burst_score": 1.18,
+   "recent_share": 0.0122
   },
   {
    "keyword": "benchmark",
-   "recent": 370,
-   "total": 370,
-   "burst_score": 1.0,
-   "recent_share": 0.1658
+   "recent": 429,
+   "total": 561,
+   "burst_score": 1.17,
+   "recent_share": 0.1539
   },
   {
-   "keyword": "trajectory",
-   "recent": 333,
-   "total": 333,
-   "burst_score": 1.0,
-   "recent_share": 0.1492
+   "keyword": "foundation model",
+   "recent": 162,
+   "total": 212,
+   "burst_score": 1.17,
+   "recent_share": 0.0581
   },
   {
-   "keyword": "dataset",
-   "recent": 325,
-   "total": 325,
-   "burst_score": 1.0,
-   "recent_share": 0.1456
+   "keyword": "visuomotor",
+   "recent": 63,
+   "total": 83,
+   "burst_score": 1.16,
+   "recent_share": 0.0226
   },
   {
-   "keyword": "navigation",
-   "recent": 269,
-   "total": 269,
-   "burst_score": 1.0,
-   "recent_share": 0.1205
-  },
-  {
-   "keyword": "vision-language-action",
-   "recent": 262,
-   "total": 262,
-   "burst_score": 1.0,
-   "recent_share": 0.1174
-  },
-  {
-   "keyword": "dexterous",
-   "recent": 253,
-   "total": 253,
-   "burst_score": 1.0,
-   "recent_share": 0.1134
+   "keyword": "slam",
+   "recent": 25,
+   "total": 35,
+   "burst_score": 1.09,
+   "recent_share": 0.009
   },
   {
    "keyword": "generalization",
-   "recent": 245,
-   "total": 245,
-   "burst_score": 1.0,
-   "recent_share": 0.1098
+   "recent": 304,
+   "total": 430,
+   "burst_score": 1.08,
+   "recent_share": 0.1091
   },
   {
-   "keyword": "locomotion",
-   "recent": 218,
-   "total": 218,
-   "burst_score": 1.0,
-   "recent_share": 0.0977
+   "keyword": "whole-body",
+   "recent": 99,
+   "total": 142,
+   "burst_score": 1.07,
+   "recent_share": 0.0355
+  },
+  {
+   "keyword": "dataset",
+   "recent": 396,
+   "total": 579,
+   "burst_score": 1.05,
+   "recent_share": 0.1421
+  },
+  {
+   "keyword": "multimodal",
+   "recent": 291,
+   "total": 424,
+   "burst_score": 1.05,
+   "recent_share": 0.1044
+  },
+  {
+   "keyword": "aerial",
+   "recent": 198,
+   "total": 290,
+   "burst_score": 1.05,
+   "recent_share": 0.071
   },
   {
    "keyword": "sim-to-real",
-   "recent": 216,
-   "total": 216,
-   "burst_score": 1.0,
-   "recent_share": 0.0968
-  },
-  {
-   "keyword": "imitation learning",
-   "recent": 214,
-   "total": 214,
-   "burst_score": 1.0,
-   "recent_share": 0.0959
-  },
-  {
-   "keyword": "tactile",
-   "recent": 206,
-   "total": 206,
-   "burst_score": 1.0,
-   "recent_share": 0.0923
+   "recent": 290,
+   "total": 429,
+   "burst_score": 1.04,
+   "recent_share": 0.1041
   }
  ]
 }
