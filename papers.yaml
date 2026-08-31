@@ -112784,3 +112784,531 @@ papers:
     errors and linguistic ambiguities. Furthermore, we validate our system on a Husky
     robot in both indoor and outdoor scenes, demonstrating its real-world robustness
     and applicability. Supplementary videos are available at https://trailab.github.io/OpenNav-website/
+- title: 'Autonomous Multi-Rotor UAVs: A Holistic Approach to Design, Optimization,
+    and Fabrication'
+  date: 2024-01
+  url: https://arxiv.org/abs/2401.02541v1
+  category: locomotion
+  subcategory: application
+  authors:
+  - Aniruth A
+  - Chirag Satpathy
+  - Jothika K
+  - Nitteesh M
+  - Gokulraj M
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Unmanned Aerial Vehicles (UAVs) have become pivotal in domains spanning
+    military, agriculture, surveillance, and logistics, revolutionizing data collection
+    and environmental interaction. With the advancement in drone technology, there
+    is a compelling need to develop a holistic methodology for designing UAVs. This
+    research focuses on establishing a procedure encompassing conceptual design, use
+    of composite materials, weight optimization, stability analysis, avionics integration,
+    advanced manufacturing, and incorporation of autonomous payload delivery through
+    object detection models tailored to satisfy specific applications while maintaining
+    cost efficiency. The study conducts a comparative assessment of potential composite
+    materials and various quadcopter frame configurations. The novel features include
+    a payload-dropping mechanism, a unibody arm fixture, and the utilization of carbon-fibre-balsa
+    composites. A quadcopter is designed and analyzed using the proposed methodology,
+    followed by its fabrication using additive manufacturing and vacuum bagging techniques.
+    A computer vision-based deep learning model enables precise delivery of payloads
+    by autonomously detecting targets.
+- title: Robust Predictive Motion Planning by Learning Obstacle Uncertainty
+  date: 2024-03
+  url: https://arxiv.org/abs/2403.06222v2
+  category: planning
+  subcategory: method
+  authors:
+  - Jian Zhou
+  - Yulong Gao
+  - Ola Johansson
+  - Björn Olofsson
+  - Erik Frisk
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Safe motion planning for robotic systems in dynamic environments is nontrivial
+    in the presence of uncertain obstacles, where estimation of obstacle uncertainties
+    is crucial in predicting future motions of dynamic obstacles. The worst-case characterization
+    gives a conservative uncertainty prediction and may result in infeasible motion
+    planning for the ego robotic system. In this paper, an efficient, robust, and
+    safe motion-planing algorithm is developed by learning the obstacle uncertainties
+    online. More specifically, the unknown yet intended control set of obstacles is
+    efficiently computed by solving a linear programming problem. The learned control
+    set is used to compute forward reachable sets of obstacles that are less conservative
+    than the worst-case prediction. Based on the forward prediction, a robust model
+    predictive controller is designed to compute a safe reference trajectory for the
+    ego robotic system that remains outside the reachable sets of obstacles over the
+    prediction horizon. The method is applied to a car-like mobile robot in both simulations
+    and hardware experiments to demonstrate its effectiveness.
+- title: Autonomous Wheel Loader Navigation Using Goal-Conditioned Actor-Critic MPC
+  date: 2024-09
+  url: https://arxiv.org/abs/2409.15717v3
+  category: planning
+  subcategory: method
+  authors:
+  - Aleksi Mäki-Penttilä
+  - Naeim Ebrahimi Toulkani
+  - Reza Ghabcheloo
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: This paper proposes a novel control method for an autonomous wheel loader,
+    enabling time-efficient navigation to an arbitrary goal pose. Unlike prior works
+    which combine high-level trajectory planners with Model Predictive Control (MPC),
+    we directly enhance the planning capabilities of MPC by incorporating a cost function
+    derived from Actor-Critic Reinforcement Learning (RL). Specifically, we first
+    train an RL agent to solve the pose reaching task in simulation, then transfer
+    the learned planning knowledge to an MPC by incorporating the trained neural network
+    critic as both the stage and terminal cost. We show through comprehensive simulations
+    that the resulting MPC inherits the time-efficient behavior of the RL agent, generating
+    trajectories that compare favorably against those found using trajectory optimization.
+    We also deploy our method on a real-world wheel loader, where we demonstrate successful
+    navigation in various scenarios.
+- title: Force-Sensitive Underactuated Three-Finger Robot Hand
+  date: 2026-07
+  url: https://doi.org/10.1115/1.4072408
+  category: manipulation
+  subcategory: theory
+  authors:
+  - Srdan Savić
+  - Andrej Čilag
+  - Srđan Apostolović
+  abstract: Abstract This article presents the design, prototyping, and evaluation
+    of a novel underactuated, three-fingered robotic hand engineered to simultaneously
+    satisfy the requirements of high-power adaptive grasping and delicate material
+    handling. Driven by four DC motors across a total of 10 degrees-of-freedom, the
+    mechatronic system features a compact underactuated layout with a reconfigurable
+    thumb. By incorporating an additional rotational degree-of-freedom at the thumb
+    base, the hand enables multiple opposition configurations and diverse grasp topologies,
+    including precision, power, and key-type grasps. Each finger integrates a custom-designed
+    fingertip force-sensing unit embedded into a compliant fingertip structure, providing
+    the underlying hardware necessary for future advanced dexterous manipulation.
+    To eliminate the industry-wide bottleneck of wire routing accumulation and progressive
+    mechanical fatigue across moving linkages, a novel slip-ring-based communication
+    architecture is introduced. This framework enables cable-less signal transmission
+    through rotating finger joints, utilizing localized sensory digitization directly
+    on the phalanges, allowing custom slip-ring units embedded within the rotating
+    joints to pass a minimal six-wire interface. Finally, this work details a formal
+    kinematic and static analysis of the proposed finger transmission mechanism, presenting
+    loop-closure equations, Jacobian derivation, transmission analysis, contact force
+    modeling, and spring force analysis. Experimental grasping validations demonstrate
+    the hand’s structural adaptability and payload variation.
+  venue: Journal of Mechanisms and Robotics
+- title: A vision-based tactile sensor with in-sensor computing paradigm for seamless
+    tactile sensing and perception
+  date: 2026-08
+  url: https://hdl.handle.net/10044/1/132314
+  category: perception
+  subcategory: development
+  authors:
+  - Fan, WEN
+  - Zheng, Jiajian
+  - Liu, Yanan
+  abstract: —Vision-based tactile sensors (VBTSs) offer high resolution, multimodal
+    tactile sensing capabilities, supporting precise and dexterous robotic manipulation.
+    However, the physical separation of sensing and perception modules necessitates
+    frequent data transfer, introducing communication overhead and potentially constraining
+    real-time performance. In biological tac tile systems, sensory transduction and
+    preliminary signal processing occur at the periphery before information is transmitted
+    to the central nervous system, thereby enabling efficient and timely tactile perception.
+    Inspired by this principle, we present PixelTac, a VBTS designed under an in-sensor
+    computing paradigm. PixelTac integrates sensing, memory, and computation within
+    a single in-situ vision processor that combines a computational pixel matrix and
+    a microcontroller. This architecture enables local compression of tactile data
+    and fully on-chip processing from pixel-level sensing to force inference. Here,
+    we show that PixelTac reproduces key features of human mechanoreception in real
+    time while maintaining efficient power consumption, providing a scalable and energy-efficient
+    route to seamless tactile sensing and perception.
+  venue: Spiral (Imperial College London)
+- title: A Multimodal Tactile Measurement Approach via a Micropillar-Enhanced FBG
+    Fingertip Sensor
+  date: 2026-08
+  url: https://doi.org/10.1016/j.sna.2026.118408
+  category: perception
+  subcategory: method
+  authors:
+  - Wanying Wang
+  - Xiaolong Qin
+  - Muyun Qian
+  abstract: ''
+  venue: Sensors and Actuators A Physical
+- title: Research on robotic mechanical power sensing model based on multimodal sensor
+    fusion
+  date: 2025-01
+  url: https://doi.org/10.2478/amns-2025-0312
+  category: perception
+  subcategory: method
+  authors:
+  - Jianjia Qi
+  abstract: Abstract There is an increasing demand for multimodal sensor fusion in
+    the field of robot fine manipulation, but how to design efficient and convenient
+    perception prediction modules is still a challenging problem. The model designed
+    in this paper focuses on fully exploiting the complementarity and common distribution
+    of audio-visual and tactile modal data, and combines with generative adversarial
+    networks to realize multimodal collaborative generation of perception. As the
+    dictionary size K increases, the recognition accuracies of the model in this paper
+    are higher than the baseline model OSLSR at different K stages, and the generalization
+    ability of the model under different parameters is verified. And regardless of
+    sparsity, the recognition of this paper’s model is significantly better than JKSC
+    and AMDL. When T=5, the maximum recognition result is 0.953, which is higher than
+    the recognition performance of the remaining two models. When T>5, this paper’s
+    model begins to show a decreasing trend, but still higher than the other algorithms.
+    Combining the results of all the experiments, it can be concluded that the model
+    in this paper better embodies the multimodal co-generative perception of the robot.
+  venue: Applied Mathematics and Nonlinear Sciences
+- title: Design, control and computational strategies for unstructured robotic applications
+  date: 2026-04
+  url: https://amsdottorato.unibo.it/view/dottorati/DOT547/>,
+  category: perception
+  subcategory: method
+  authors:
+  - Govoni, Andrea <1991>
+  abstract: 'Modern robotics has moved from tightly scripted, structured workcells
+    to unstructured, open-world settings. This shift replaces fixed fixtures and repeatable
+    parts with deformable objects, occlusions, and changing contacts. As a result,
+    manipulation now hinges on perception-driven control, uncertainty handling, and
+    learning from data. We embrace this transition and show how combining model-based
+    priors with adaptive policies enables reliable performance beyond the lab. The
+    main contribution focuses on deformable linear objects manipulation: industrial
+    appli-cations are developed for wire harness assembly, hose manipulation, and
+    cable storage using a multimodal system that combines vision and tactile sensing.
+    Then, a tactile approach is pro-posed, where tactile readings are given physical
+    meaning through a Hertzian contact model with Bayesian parameter estimation, enabling
+    reliable force regulation and alignment during grasping. This work explores 3D-printing
+    applications integrated with Wire Arc Additive Manufactur-ing . A 14-degree-of-freedom
+    climbing robot is developed: it can anchor to the printed structure with variable
+    geometries to preserve process continuity. A library for capability maps is developed,
+    encompassing maps of reachability, manipula-bility, and collision that directly
+    feed motion planning. In unstructured environments, bridging the Sim2Real gap
+    is essential to transition from laboratory tuning to stable production. We adopt
+    parameter identification, targeted random-ization, and progressive validation
+    to make simulation predictive within known limits. The final work to guide robot
+    in unstructured environments converges into a Task-Priority control framework
+    that actively manages robot limits and constraints while leveraging Robotic Distance
+    Functions, a differentiable distance representations of geometry, to achieve gradient-consistent
+    collision avoidance. In unstructured scenarios, this framework becomes crucial:
+    dy-namic task activation and coherent gradient use make planning mistakes less
+    likely and execu-tion more robust.'
+  venue: AMS Dottorato Institutional Doctoral Theses Repository (University of Bologna)
+- title: Multi-Variable Control Theory Based Robot Motion Planning
+  date: 2026-08
+  url: https://doi.org/10.5281/zenodo.22158412
+  category: planning
+  subcategory: theory
+  authors:
+  - Jincheng Zhang
+  abstract: This paper presents a novel approach to robot motion planning leveraging
+    the principles of multi-variable control theory. Traditional robot motion planning
+    methods often rely on rule-based or heuristic algorithms, resulting in suboptimal
+    and potentially unstable trajectories. This work addresses these limitations by
+    formulating the robot motion planning problem as a multi-variable control problem,
+    enabling precise modeling and optimization. The core mechanism involves translating
+    the robot motion planning into a multi-variable control framework, utilizing optimization
+    techniques to design smooth and stable trajectories. The integration of robot
+    kinematics and dynamics models is employed for simulation validation. The resulting
+    system offers a significant improvement in trajectory quality and control stability
+    compared to conventional methods. The key contributions lie in the rigorous mathematical
+    framework provided by multi-variable control, allowing for a systematic and optimized
+    approach to robot motion planning. This approach demonstrates enhanced performance
+    and robustness in complex robotic environments.
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Multi-Variable Optimization and Distributed Robot Collaborative Control
+  date: 2026-08
+  url: https://doi.org/10.5281/zenodo.22156591
+  category: planning
+  subcategory: method
+  authors:
+  - Jincheng Zhang
+  abstract: This paper presents a novel approach to distributed robot collaborative
+    control utilizing multi-variable optimization. The core idea is to formulate the
+    complex problem of coordinating multiple robots into a multi-variable optimization
+    framework. This allows for the application of established optimization algorithms
+    to generate efficient and robust motion plans for the robot swarm. Unlike traditional
+    methods that often rely on local optimization strategies, our approach aims to
+    find globally optimal solutions, enhancing the overall performance and reliability
+    of the coordinated system. The system dynamically adjusts the trajectories based
+    on real-time environmental feedback, ensuring adaptability and robustness in dynamic
+    environments. The primary contributions of this work lie in the methodology for
+    translating robot motion planning into a solvable optimization problem and the
+    utilization of optimization techniques for achieving superior collaborative control.
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: Multi-Joint Coordinated Motion Planning and Energy Efficiency Optimization
+    of Unitree G1 Robot for Stage Performances
+  date: 2024-11
+  url: https://dx.doi.org/10.54097/ngpkdd57
+  category: planning
+  subcategory: theory
+  authors:
+  - Taojun Qin
+  abstract: To meet the motion planning and energy optimization requirements for the
+    dance performance of the Unitree G1 humanoid robot, this paper systematically
+    constructs mathematical models for four core issues and proposes corresponding
+    optimization strategies. Firstly, a Cartesian coordinate system with the shoulder
+    joint as the origin is established, and the final coordinates of the left arm
+    endpoint are calculated to be (292.4, -84.5, 169.0) millimeters through rotation
+    matrix transformation and D-H parameter verification. The safety of the motor
+    is confirmed by verifying that both joint angles and torque (4.3 N·m) are within
+    the safe threshold range. Then, a fifth-order polynomial interpolation model is
+    adopted to establish the relationship between the joint angle of a single leg
+    and time, determining the total motion time T=5.2 seconds, and identifying t=1.8
+    seconds as the moment when the rate of change of the knee joint angle is the largest
+    (3.2°/s). Simultaneously, the rotation of the body to the left by 45° is described
+    using Euler angles, and the parametric equation for the arm's reverse circular
+    motion (ω=1.57 rad/s) is established. A leg balance adjustment model based on
+    center of gravity offset compensation is designed to ensure that the center of
+    gravity remains within the support plane. The total energy consumption for all
+    actions is calculated to be 127.0 Wh using the motor power formula P=τω/η. An
+    optimization scheme combining S-curve trajectory smoothing, joint load balancing,
+    and J5 joint constraint control is proposed, which reduces energy consumption
+    to 2.06 Wh (a reduction of 15.36%) while maintaining performance quality. Simulation
+    results and sensitivity analysis confirm that these models exhibit good smoothness,
+    safety, and energy efficiency, providing a reliable theoretical foundation for
+    the actual performance of the robot.
+  venue: Journal of Computing and Electronic Information Management
+- title: Control-oriented multi-objective optimization for percussive massage robots
+    using an enhanced NSGA-II
+  date: 2026-08
+  url: https://doi.org/10.1007/s12065-026-01258-4
+  category: planning
+  subcategory: theory
+  authors:
+  - Jie Xu
+  - Huan Liu
+  - Zhifeng Wang
+  abstract: ''
+  venue: Evolutionary Intelligence
+- title: Reinforcement Learning for Robotic Manipulation with Model-Free Imitation
+    Learning and Bayesian Optimization
+  date: 2026-08
+  url: https://doi.org/10.5281/zenodo.22137115
+  category: learning
+  subcategory: theory
+  authors:
+  - Jincheng Zhang
+  abstract: This paper presents a novel approach to robotic manipulation training
+    leveraging the strengths of model-free imitation learning and Bayesian optimization.
+    Traditional reinforcement learning methods often struggle with the complexity
+    and high sample requirements of robotic tasks. Our approach addresses this challenge
+    by first learning from expert demonstrations via model-free imitation learning.
+    Subsequently, Bayesian optimization is employed to efficiently tune the robot's
+    control parameters, accelerating the learning process and achieving superior performance.
+    The core claim is that combining these techniques drastically reduces the training
+    time and difficulty associated with robotic manipulation. We detail the framework,
+    outlining the integration of both methods and explore the potential for significant
+    advancements in robot control. The presented methodology offers a practical and
+    robust solution for training robots to perform complex manipulation tasks in a
+    significantly reduced timeframe.
+  venue: Zenodo (CERN European Organization for Nuclear Research)
+- title: '1135 - TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse
+    Reinforcement Learning'
+  date: 2026-01
+  url: https://doi.org/10.48448/p6hw-4w13
+  category: learning
+  subcategory: method
+  authors:
+  - Association for Artificial Intelligence 2026
+  - Yicheng Gao
+  - Yuxuan Li
+  abstract: Episodic tasks in Reinforcement Learning (RL) often pose challenges due
+    to sparse reward signals and high-dimensional state spaces, which hinder efficient
+    learning. Additionally, these tasks often feature hidden “trap states”—irreversible
+    failures that prevent task completion but do not provide explicit negative rewards
+    to guide agents away from repeated errors. To address these issues, we propose
+    Time-Weighted Contrastive Reward Learning (TW-CRL), an Inverse Reinforcement Learning
+    (IRL) framework that leverages both successful and failed demonstrations. By incorporating
+    temporal information, TW-CRL learns a dense reward function that identifies critical
+    states associated with success or failure. This approach not only enables agents
+    to avoid trap states but also encourages meaningful exploration beyond simple
+    imitation of expert trajectories. Empirical evaluations on navigation tasks and
+    robotic manipulation benchmarks demonstrate that TW-CRL surpasses state-of-the-art
+    methods, achieving improved efficiency and robustness.
+  venue: Underline Science Inc.
+- title: Enhancing Stable Behavioral Imitation through Adaptive Reward Weighting in
+    TD3-SAC-GAIL
+  date: 2026-08
+  url: https://doi.org/10.63544/tvffe878
+  category: learning
+  subcategory: theory
+  authors:
+  - Mehran ALI
+  - Zia Ullah
+  - Aliza Ashfaq
+  abstract: 'Imitation learning enables reinforcement learning agents to acquire complex
+    behaviors from expert demonstrations, but its performance remains strongly influenced
+    by the quality of expert data and the balance between imitation and exploration
+    during policy optimization. In particular, TD3-SAC-GAIL enhances the exploration
+    capability of Generative Adversarial Imitation Learning (GAIL) by combining deterministic
+    policy smoothing from Twin Delayed Deep Deterministic Policy Gradient (TD3) with
+    entropy-driven exploration from Soft Actor-Critic (SAC). However, the use of fixed
+    reward or exploration weighting can lead to an inappropriate exploration–exploitation
+    balance across different training stages and environments. To address this limitation,
+    this paper proposes an adaptive reward weighting mechanism to enhance imitation
+    learning stability within the TD3-SAC-GAIL framework. The proposed mechanism dynamically
+    adjusts the contribution of exploration and imitation signals according to the
+    current learning condition, encouraging exploration when learning progress is
+    limited while placing greater emphasis on policy quality as the training process
+    becomes stable. The proposed framework is evaluated in four continuous-control
+    environments, namely Half Cheetah, Walker2d, Hopper, and Lunar Lander Continuous.
+    Experimental evaluation considers expert-surpassing performance, training behavior,
+    reward stability, and the effect of adaptive weighting. The results demonstrate
+    the potential of adaptive reward weighting to provide a systematic mechanism for
+    controlling the exploration–imitation trade-off and enhancing the stability and
+    robustness of GAIL-based policy learning while retaining the exploration advantages
+    of the TD3-SAC hybrid framework. REFERENCES [1] M. Ayyildiz and Ö. Polat, “ES-SAC:
+    A hybrid evolution strategy and reinforcement learning approach for humanoid locomotion
+    control,” Bulletin of the Polish Academy of Sciences Technical Sciences, vol.
+    74, no. 4, pp. e158974, 2026. [2] M. Zare, P. M. Kebria, A. Khosravi, and S. Nahavandi,
+    “A survey of imitation learning: Algorithms, recent developments, and challenges,”
+    IEEE Transactions on Cybernetics, vol. 54, no. 12, pp. 7173–7186, 2024. [3] T.
+    Osa, J. Pajarinen, G. Neumann, J. A. Bagnell, P. Abbeel, and J. Peters, “An algorithmic
+    perspective on imitation learning,” Foundations and Trends in Robotics, vol. 7,
+    nos. 1–2, pp. 1–179, 2018. [4] U. Imtiaz, “Ghost Signals: Ethical RF adversarial
+    testing of consumer alarm ecosystems,” in Proc. Int. Conf. Data Science, Computation
+    and Security, Cham, Switzerland: Springer Nature Switzerland, Nov. 2025, pp. 240–253.
+    [5] A. Khan, F. Amin, and U. Imtiaz, “SENTINEL-WHEEL: Entropy-compressed edge
+    intelligence for explainable self-healing cyber defense in connected vehicles,”
+    International Journal of Innovative Research, vol. 4, no. 1, pp. 227–237, 2026.
+    [6] J. Ho and S. Ermon, “Generative adversarial imitation learning,” in Advances
+    in Neural Information Processing Systems, vol. 29, 2016. [7] S. B. Amarat, C.
+    Shi, and Y. Wang, “Generative adversarial imitation learning method based on TD3-SAC
+    hybrid algorithm for robot motion control,” in Proc. 2025 8th Int. Conf. Artificial
+    Intelligence and Big Data (ICAIBD), May 2025, pp. 846–852. [8] H. Zhang, B. Li,
+    J. Huang, C. Song, P. He, and E. Neretin, “A parallel multi-demonstrations generative
+    adversarial imitation learning approach on UAV target tracking decision,” Chinese
+    Journal of Electronics, vol. 34, no. 4, pp. 1185–1198, 2025. [9] D. Patel, “Time
+    aware intelligence for efficient and resilient control,” 2025. [10] N. Bunzeck,
+    P. Dayan, R. J. Dolan, and E. Duzel, “A common mechanism for adaptive scaling
+    of reward and novelty,” Human Brain Mapping, vol. 31, no. 9, pp. 1380–1394, 2010.
+    [11] M. Danaei, M. Akbarpour Shirazi, and A. Sheikh, “An ensemble deep reinforcement
+    learning framework for multi-channel advertising budget optimization: A practical
+    AI approach,” Applied Artificial Intelligence, vol. 40, no. 1, Art. no. 2684155,
+    2026. [12] Z. Shang, R. Li, C. Zheng, H. Li, and Y. Cui, “Relative entropy regularized
+    sample-efficient reinforcement learning with continuous actions,” IEEE Transactions
+    on Neural Networks and Learning Systems, vol. 36, no. 1, pp. 475–485, 2025. [13]
+    M. I. K. Jabed, M. P. Ahmed, F. M. Tofa, M. F. Islam, C. A. Gomes, and R. M. Sirazy,
+    “Federated intrusion detection for Internet of Medical Things networks: Differential
+    privacy, non-IID robustness, and cross-device generalization,” Journal of Computer
+    Science and Technology Studies, vol. 8, no. 8, pp. 303–315, 2026. [14] S. Liu,
+    “An evaluation of DDPG, TD3, SAC, and PPO: Deep reinforcement learning algorithms
+    for controlling continuous system,” in Proc. 2023 Int. Conf. Data Science, Advanced
+    Algorithm and Intelligent Computing (DAI 2023), Feb. 2024, pp. 15–24. [15] M.
+    I. K. Jabed, M. A. Manzoor, F. M. Tofa, and M. H. Khan, “Interpretable ensemble
+    learning approach for breast cancer diagnosis using SHAP-based explainable AI,”
+    Journal of Computer Science and Technology Studies, vol. 8, no. 8, pp. 244–255,
+    2026. [16] U. Iqbal and Y. Bhutto, “Digital transformation through artificial
+    intelligence and advance business analytic in American operational management,”
+    Journal of Theoretical and Applied Econometrics, vol. 3, no. 1, pp. 37–50, 2026.
+    [17] U. Iqbal, S. Bekmez, and F. A. Qurashi, “Operational risk management through
+    machine learning and business intelligence in U.S. businesses,” Spanish Journal
+    of Innovation and Integrity, vol. 54, pp. 239–253, 2026. [Online]. Available:
+    https://www.sjii.es/index.php/journal/article/view/1140 [18] M. A. Rahman, R.
+    K. Devnath, S. B. Niloy, C. M. Mehedi, T. H. Chowdhury, and M. I. K. Jabed, “A
+    stacking ensemble framework for predicting employee turnover: Explainable AI with
+    SHAP,” in Proc. 2025 IEEE 2nd Int. Conf. Computing, Applications and Systems (COMPAS),
+    Oct. 2025, pp. 1–6. [19] M. I. K. Jabed, M. R. M. Sirazy, S. Mandal, S. A. Akter,
+    A. Hassan, and H. Esa, “Developing AI-based financial forecasting and cybersecurity
+    systems for the U.S. digital economy,” Frontiers in Computer Science and Artificial
+    Intelligence, vol. 5, no. 5, pp. 30–38, 2026. [20] M. I. K. Jabed, M. Imran, A.
+    A. Khan, M. Mehedi, A. Islam, and R. Pervez, “Explainable machine learning framework
+    for early heart disease detection using SMOTE and SHAP,” Vascular and Endovascular
+    Review, vol. 9, no. 1, pp. 316–324, 2026. [21] J. Huang, H. Chen, J. Ren, S. Peng,
+    and L. Deng, “A general adaptive dual-level weighting mechanism for remote sensing
+    pansharpening,” in Proc. 2025 IEEE/CVF Conf. Computer Vision and Pattern Recognition
+    (CVPR), Jun. 2025, pp. 7447–7456. [22] R. M. Kretchmar, P. M. Young, C. W. Anderson,
+    D. C. Hittle, M. L. Anderson, and C. C. Delnero, “Robust reinforcement learning
+    control with static and dynamic stability,” International Journal of Robust and
+    Nonlinear Control, vol. 11, no. 15, pp. 1469–1500, 2001. [23] U. Iqbal, “AI-powered
+    supplier risk intelligence: Predicting financial and geopolitical supply chain
+    disruptions in U.S. critical industries,” Journal of Engineering and Computational
+    Intelligence Review, vol. 3, no. 2, pp. 173–193, 2025. [24] F. Bertolotti, “Practical
+    evaluation of DDPG, TD3, and SAC for HVAC control: A comparative study of training
+    methods and deployment strategies,” Ph.D. dissertation, Politecnico di Torino,
+    2025. [25] P. Probst, M. N. Wright, and A. L. Boulesteix, “Hyperparameters and
+    tuning strategies for random forest,” Wiley Interdisciplinary Reviews: Data Mining
+    and Knowledge Discovery, vol. 9, no. 3, Art. no. e1301, 2019. [26] K. Dutta, P.
+    Gupta, and D. Bajaj, “Robo-Net: A novel reinforced walking biped design using
+    an augmented random search approach,” in Proc. 2024 Int. Conf. Augmented Reality,
+    Intelligent Systems, and Industrial Automation (ARIIA), Dec. 2024, pp. 1–9. [27]
+    S. Dey, P. Dasgupta, and S. Dey, “Safe reinforcement learning through phasic safety-oriented
+    policy optimization,” in Proc. SafeAI@AAAI, 2023. [28] U. Imtiaz, “Dynamic security
+    certification framework for evolving distributed architectures,” in Proc. Int.
+    Conf. Data Science, Computation and Security, Cham, Switzerland: Springer Nature
+    Switzerland, Nov. 2025, pp. 347–363. [29] F. Amin, U. Imtiaz, and A. Khan, “FALCON-Guard:
+    A lightweight explainable framework for real-time cyber threat detection and adaptive
+    risk mitigation in intelligent driving networks,” Multidisciplinary Research in
+    Computing Information Systems, vol. 5, no. 12, pp. 1223–1235, 2025. [30] U. Iqbal,
+    “AI-driven predictive maintenance for U.S. smart manufacturing: Deep learning
+    models for equipment failure prediction and operational resilience,” Journal of
+    Engineering and Computational Intelligence Review, vol. 3, no. 1, 2025. [31] U.
+    Iqbal, “AI-enhanced network optimization for electric vehicle charging infrastructure
+    expansion in the United States using graph theory and demand analytics,” Journal
+    of Engineering and Computational Intelligence Review, vol. 2, no. 2, pp. 112–129,
+    2024.'
+  venue: Journal of Engineering and Computational Intelligence Review
+- title: Research on collaborative task scheduling and cooperative control strategy
+    for construction robots based on improved particle swarm optimization algorithm
+  date: 2024-01
+  url: https://doi.org/10.2478/amns-2024-3460
+  category: multi-robot
+  subcategory: method
+  authors:
+  - Jin Chen
+  - Xiaoliu Li
+  - Yulong Zhou
+  abstract: Abstract A research program based on collaboration and cooperative control
+    of construction robots is important for the development of the construction industry.
+    This paper aims to develop and design a program based on collaborative construction
+    robots and cooperative control technology to improve construction productivity.
+    We construct a task planning and execution system for construction robots under
+    distributed architecture, design the structure of the information management module,
+    incorporate a hybrid network topology combining star and ring, improve the BEB
+    algorithm to solve the channel collision problem, and form a multi-robot cooperative
+    communication network system. Establish a multi-robot coordination model based
+    on task division, adopt the idea of two-level division, propose a hierarchical
+    distributed coordination method, and establish a hierarchical distributed coordination
+    system framework. Use linearly varying inertia weights and acceleration factors
+    to balance the global exploration and local search abilities of particles to form
+    an intelligent path planning algorithm for construction robots. The simulation
+    experiment environment is chosen, and each algorithm’s performance is analyzed.
+    The simulation experiments involving collaboration and cooperative control of
+    construction robots demonstrate the efficiency and practical application value
+    of the optimization scheme designed and proposed in this paper.
+  venue: Applied Mathematics and Nonlinear Sciences
+- title: 'Federated Learning for Robotic and Autonomous Systems: A Survey on Architectures,
+    Synergies with Distributed Ledger Technologies, and Future Directions'
+  date: 2025-01
+  url: https://doi.org/10.64943/jkc.2025.030216
+  category: survey
+  subcategory: mechanism
+  authors:
+  - Abdelrazak A. Yousef Elbunan
+  - Nuradeen K. Emhemed Fethalla
+  - Badriya Abdullah Altarhuni
+  abstract: The rapid proliferation of autonomous robotic systems, ranging from nano-drones
+    to industrial collaborative robots (cobots), is generating massive, distributed
+    datasets. While deep learning (DL) serves as the cornerstone of modern robotic
+    intelligence, the conventional approach of centralizing this data for training
+    poses insurmountable challenges related to privacy, security, bandwidth, and latency.
+    Federated Learning (FL) has emerged as a disruptive paradigm that enables collaborative
+    model training across distributed devices without the need for raw data exchange.
+    However, the integration of FL into real-world robotic swarms—characterized by
+    extreme heterogeneity, dynamic connectivity, and stringent resource constraints—introduces
+    a unique set of complexities that extend far beyond those of conventional edge
+    devices. This survey provides a comprehensive and critical examination of the
+    burgeoning field of FL within robotic and autonomous systems. We move beyond a
+    mere overview to present a novel taxonomy that classifies FL architectures for
+    robotics based on communication topology, learning paradigm, and application criticality.
+    A significant portion of our analysis is dedicated to the potent synergy between
+    FL and Distributed Ledger Technologies (DLTs), particularly blockchain, for achieving
+    decentralized trust, auditability, and robust aggregation in the presence of potentially
+    malicious agents. We extensively review applications across perception, control,
+    and collaborative tasks, highlighting pioneering works in multi-robot SLAM, federated
+    reinforcement learning, and human-robot interaction. Furthermore, we identify
+    and discuss pressing open challenges, including communication efficiency in mobile
+    swarms, energy-aware client selection, personalized learning for non-IID data,
+    and defense mechanisms against sophisticated adversarial attacks. This paper serves
+    as a foundational reference for researchers and practitioners aiming to develop
+    the next generation of private, secure, and collectively intelligent robotic systems.
+  venue: Taj Al-Ma rifa journal
