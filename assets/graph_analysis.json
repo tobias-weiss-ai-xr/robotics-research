@@ -14,188 +14,188 @@
     "id": "human-robot",
     "name": "Human Robot",
     "total": 268,
-    "recent": 192,
-    "prior": 53,
-    "growth_pct": 262.3,
-    "recent_share": 0.716,
-    "papers_per_month": 16.0,
-    "score": 333.9
+    "recent": 187,
+    "prior": 55,
+    "growth_pct": 240.0,
+    "recent_share": 0.698,
+    "papers_per_month": 15.6,
+    "score": 309.8
    }
   },
   {
    "id": "learning",
    "name": "Learning & Adaptation",
-   "count": 606,
+   "count": 609,
    "trajectory": {
     "2023": 36,
     "2024": 105,
     "2025": 202,
-    "2026": 263
+    "2026": 266
    },
    "momentum": {
     "id": "learning",
     "name": "Learning",
-    "total": 606,
-    "recent": 375,
-    "prior": 138,
-    "growth_pct": 171.7,
-    "recent_share": 0.619,
-    "papers_per_month": 31.2,
-    "score": 233.6
+    "total": 609,
+    "recent": 364,
+    "prior": 146,
+    "growth_pct": 149.3,
+    "recent_share": 0.598,
+    "papers_per_month": 30.3,
+    "score": 209.1
    }
   },
   {
    "id": "locomotion",
    "name": "Locomotion & Mobility",
-   "count": 459,
+   "count": 460,
    "trajectory": {
     "2023": 18,
-    "2024": 78,
+    "2024": 79,
     "2025": 121,
     "2026": 242
    },
    "momentum": {
     "id": "locomotion",
     "name": "Locomotion",
-    "total": 459,
-    "recent": 316,
-    "prior": 87,
-    "growth_pct": 263.2,
-    "recent_share": 0.688,
-    "papers_per_month": 26.3,
-    "score": 332.0
+    "total": 460,
+    "recent": 307,
+    "prior": 92,
+    "growth_pct": 233.7,
+    "recent_share": 0.667,
+    "papers_per_month": 25.6,
+    "score": 300.4
    }
   },
   {
    "id": "manipulation",
    "name": "Manipulation & Grasping",
-   "count": 589,
+   "count": 591,
    "trajectory": {
     "2023": 22,
     "2024": 86,
     "2025": 201,
-    "2026": 280
+    "2026": 282
    },
    "momentum": {
     "id": "manipulation",
     "name": "Manipulation",
-    "total": 589,
-    "recent": 392,
-    "prior": 126,
-    "growth_pct": 211.1,
-    "recent_share": 0.666,
-    "papers_per_month": 32.7,
-    "score": 277.7
+    "total": 591,
+    "recent": 379,
+    "prior": 138,
+    "growth_pct": 174.6,
+    "recent_share": 0.641,
+    "papers_per_month": 31.6,
+    "score": 238.7
    }
   },
   {
    "id": "multi-robot",
    "name": "Multi-Robot Systems",
-   "count": 266,
+   "count": 267,
    "trajectory": {
     "2023": 12,
-    "2024": 35,
+    "2024": 36,
     "2025": 81,
     "2026": 138
    },
    "momentum": {
     "id": "multi-robot",
     "name": "Multi Robot",
-    "total": 266,
-    "recent": 187,
-    "prior": 47,
-    "growth_pct": 297.9,
-    "recent_share": 0.703,
-    "papers_per_month": 15.6,
-    "score": 368.2
+    "total": 267,
+    "recent": 181,
+    "prior": 52,
+    "growth_pct": 248.1,
+    "recent_share": 0.678,
+    "papers_per_month": 15.1,
+    "score": 315.9
    }
   },
   {
    "id": "perception",
    "name": "Perception & Sensing",
-   "count": 344,
+   "count": 349,
    "trajectory": {
     "2023": 8,
     "2024": 40,
-    "2025": 96,
-    "2026": 200
+    "2025": 97,
+    "2026": 204
    },
    "momentum": {
     "id": "perception",
     "name": "Perception",
-    "total": 344,
-    "recent": 245,
-    "prior": 72,
-    "growth_pct": 240.3,
-    "recent_share": 0.712,
-    "papers_per_month": 20.4,
-    "score": 311.5
+    "total": 349,
+    "recent": 242,
+    "prior": 77,
+    "growth_pct": 214.3,
+    "recent_share": 0.693,
+    "papers_per_month": 20.2,
+    "score": 283.6
    }
   },
   {
    "id": "planning",
    "name": "Planning & Control",
-   "count": 867,
+   "count": 875,
    "trajectory": {
     "2023": 53,
-    "2024": 186,
-    "2025": 290,
-    "2026": 338
+    "2024": 190,
+    "2025": 291,
+    "2026": 341
    },
    "momentum": {
     "id": "planning",
     "name": "Planning",
-    "total": 867,
-    "recent": 478,
-    "prior": 238,
-    "growth_pct": 100.8,
-    "recent_share": 0.551,
-    "papers_per_month": 39.8,
-    "score": 155.9
+    "total": 875,
+    "recent": 457,
+    "prior": 253,
+    "growth_pct": 80.6,
+    "recent_share": 0.522,
+    "papers_per_month": 38.1,
+    "score": 132.8
    }
   },
   {
    "id": "simulation",
    "name": "Simulation & World Models",
-   "count": 588,
+   "count": 590,
    "trajectory": {
     "2023": 26,
     "2024": 83,
     "2025": 180,
-    "2026": 299
+    "2026": 301
    },
    "momentum": {
     "id": "simulation",
     "name": "Simulation",
-    "total": 588,
-    "recent": 389,
-    "prior": 128,
-    "growth_pct": 203.9,
-    "recent_share": 0.662,
-    "papers_per_month": 32.4,
-    "score": 270.1
+    "total": 590,
+    "recent": 382,
+    "prior": 135,
+    "growth_pct": 183.0,
+    "recent_share": 0.647,
+    "papers_per_month": 31.8,
+    "score": 247.7
    }
   },
   {
    "id": "survey",
    "name": "Surveys & Taxonomies",
-   "count": 278,
+   "count": 280,
    "trajectory": {
     "2023": 13,
     "2024": 34,
-    "2025": 84,
-    "2026": 147
+    "2025": 85,
+    "2026": 148
    },
    "momentum": {
     "id": "survey",
     "name": "Survey",
-    "total": 278,
-    "recent": 212,
-    "prior": 32,
-    "growth_pct": 562.5,
-    "recent_share": 0.763,
-    "papers_per_month": 17.7,
-    "score": 638.8
+    "total": 280,
+    "recent": 205,
+    "prior": 40,
+    "growth_pct": 412.5,
+    "recent_share": 0.732,
+    "papers_per_month": 17.1,
+    "score": 485.7
    }
   }
  ],
@@ -203,12 +203,12 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 493
+   "count": 494
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 31
+   "count": 32
   },
   {
    "id": "evaluation",
@@ -218,17 +218,17 @@
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 205
+   "count": 206
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 2434
+   "count": 2448
   },
   {
    "id": "review",
    "name": "Reviews & Surveys",
-   "count": 165
+   "count": 166
   },
   {
    "id": "systems",
@@ -238,7 +238,7 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 538
+   "count": 544
   }
  ],
  "timeline": [
@@ -1265,6 +1265,11 @@
   [
    "2024-01",
    "locomotion",
+   "application"
+  ],
+  [
+   "2024-01",
+   "locomotion",
    "theory"
   ],
   [
@@ -1361,6 +1366,11 @@
    "2024-01",
    "manipulation",
    "theory"
+  ],
+  [
+   "2024-01",
+   "multi-robot",
+   "method"
   ],
   [
    "2024-01",
@@ -1980,6 +1990,11 @@
   [
    "2024-03",
    "perception",
+   "method"
+  ],
+  [
+   "2024-03",
+   "planning",
    "method"
   ],
   [
@@ -3540,6 +3555,11 @@
   [
    "2024-09",
    "planning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "planning",
    "theory"
   ],
   [
@@ -4211,6 +4231,16 @@
    "2024-11",
    "planning",
    "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "planning",
+   "theory"
   ],
   [
    "2024-11",
@@ -4960,6 +4990,11 @@
   [
    "2025-01",
    "perception",
+   "method"
+  ],
+  [
+   "2025-01",
+   "perception",
    "systems"
   ],
   [
@@ -5281,6 +5316,11 @@
    "2025-01",
    "survey",
    "application"
+  ],
+  [
+   "2025-01",
+   "survey",
+   "mechanism"
   ],
   [
    "2025-01",
@@ -6616,6 +6656,11 @@
    "2025-05",
    "planning",
    "mechanism"
+  ],
+  [
+   "2025-05",
+   "planning",
+   "method"
   ],
   [
    "2025-05",
@@ -11520,6 +11565,11 @@
   [
    "2026-01",
    "learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "learning",
    "theory"
   ],
   [
@@ -15730,6 +15780,11 @@
   [
    "2026-04",
    "perception",
+   "method"
+  ],
+  [
+   "2026-04",
+   "perception",
    "systems"
   ],
   [
@@ -19914,6 +19969,11 @@
   ],
   [
    "2026-07",
+   "manipulation",
+   "theory"
+  ],
+  [
+   "2026-07",
    "multi-robot",
    "development"
   ],
@@ -20809,6 +20869,16 @@
   ],
   [
    "2026-08",
+   "learning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "learning",
+   "theory"
+  ],
+  [
+   "2026-08",
    "locomotion",
    "application"
   ],
@@ -20886,6 +20956,11 @@
    "2026-08",
    "manipulation",
    "mechanism"
+  ],
+  [
+   "2026-08",
+   "manipulation",
+   "method"
   ],
   [
    "2026-08",
@@ -21095,7 +21170,7 @@
   [
    "2026-08",
    "perception",
-   "mechanism"
+   "development"
   ],
   [
    "2026-08",
@@ -21111,6 +21186,21 @@
    "2026-08",
    "perception",
    "mechanism"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "mechanism"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "method"
+  ],
+  [
+   "2026-08",
+   "perception",
+   "method"
   ],
   [
    "2026-08",
@@ -21340,6 +21430,21 @@
   [
    "2026-08",
    "planning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "planning",
    "theory"
   ],
   [
@@ -21435,6 +21540,16 @@
   [
    "2026-08",
    "simulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "simulation",
+   "method"
+  ],
+  [
+   "2026-08",
+   "simulation",
    "systems"
   ],
   [
@@ -21511,6 +21626,11 @@
    "2026-08",
    "survey",
    "method"
+  ],
+  [
+   "2026-08",
+   "survey",
+   "review"
   ],
   [
    "2026-08",
@@ -21583,7 +21703,7 @@
   },
   {
    "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 34
+   "papers": 37
   },
   {
    "name": "IEEE Transactions on Automation Science and Engineering",
@@ -21633,108 +21753,108 @@
  "keyword_bursts": [
   {
    "keyword": "vision-language-action",
-   "recent": 285,
-   "total": 312,
+   "recent": 277,
+   "total": 314,
    "burst_score": 1.4,
-   "recent_share": 0.1023
+   "recent_share": 0.1024
   },
   {
    "keyword": "world model",
-   "recent": 180,
-   "total": 215,
-   "burst_score": 1.28,
-   "recent_share": 0.0646
+   "recent": 178,
+   "total": 216,
+   "burst_score": 1.31,
+   "recent_share": 0.0658
   },
   {
    "keyword": "diffusion policy",
-   "recent": 48,
+   "recent": 47,
    "total": 60,
-   "burst_score": 1.22,
-   "recent_share": 0.0172
-  },
-  {
-   "keyword": "contact-rich",
-   "recent": 171,
-   "total": 222,
-   "burst_score": 1.18,
-   "recent_share": 0.0614
+   "burst_score": 1.24,
+   "recent_share": 0.0174
   },
   {
    "keyword": "shared autonomy",
    "recent": 34,
    "total": 44,
-   "burst_score": 1.18,
-   "recent_share": 0.0122
+   "burst_score": 1.23,
+   "recent_share": 0.0126
+  },
+  {
+   "keyword": "contact-rich",
+   "recent": 172,
+   "total": 223,
+   "burst_score": 1.22,
+   "recent_share": 0.0636
   },
   {
    "keyword": "benchmark",
-   "recent": 428,
-   "total": 560,
-   "burst_score": 1.17,
-   "recent_share": 0.1536
-  },
-  {
-   "keyword": "foundation model",
-   "recent": 162,
-   "total": 212,
-   "burst_score": 1.17,
-   "recent_share": 0.0581
+   "recent": 422,
+   "total": 563,
+   "burst_score": 1.19,
+   "recent_share": 0.1561
   },
   {
    "keyword": "visuomotor",
-   "recent": 63,
+   "recent": 62,
    "total": 83,
-   "burst_score": 1.16,
-   "recent_share": 0.0226
+   "burst_score": 1.18,
+   "recent_share": 0.0229
+  },
+  {
+   "keyword": "foundation model",
+   "recent": 154,
+   "total": 213,
+   "burst_score": 1.15,
+   "recent_share": 0.057
   },
   {
    "keyword": "slam",
    "recent": 25,
-   "total": 34,
-   "burst_score": 1.13,
-   "recent_share": 0.009
+   "total": 36,
+   "burst_score": 1.1,
+   "recent_share": 0.0092
   },
   {
    "keyword": "generalization",
-   "recent": 304,
-   "total": 429,
+   "recent": 294,
+   "total": 432,
    "burst_score": 1.08,
-   "recent_share": 0.1091
+   "recent_share": 0.1087
   },
   {
    "keyword": "whole-body",
-   "recent": 99,
-   "total": 142,
-   "burst_score": 1.07,
-   "recent_share": 0.0355
-  },
-  {
-   "keyword": "dataset",
-   "recent": 396,
-   "total": 578,
+   "recent": 95,
+   "total": 143,
    "burst_score": 1.05,
-   "recent_share": 0.1421
-  },
-  {
-   "keyword": "multimodal",
-   "recent": 291,
-   "total": 423,
-   "burst_score": 1.05,
-   "recent_share": 0.1045
-  },
-  {
-   "keyword": "aerial",
-   "recent": 198,
-   "total": 290,
-   "burst_score": 1.05,
-   "recent_share": 0.0711
+   "recent_share": 0.0351
   },
   {
    "keyword": "manipulation",
-   "recent": 995,
-   "total": 1481,
-   "burst_score": 1.03,
-   "recent_share": 0.3571
+   "recent": 977,
+   "total": 1491,
+   "burst_score": 1.04,
+   "recent_share": 0.3613
+  },
+  {
+   "keyword": "dataset",
+   "recent": 382,
+   "total": 580,
+   "burst_score": 1.04,
+   "recent_share": 0.1413
+  },
+  {
+   "keyword": "sim-to-real",
+   "recent": 282,
+   "total": 429,
+   "burst_score": 1.04,
+   "recent_share": 0.1043
+  },
+  {
+   "keyword": "multimodal",
+   "recent": 280,
+   "total": 427,
+   "burst_score": 1.04,
+   "recent_share": 0.1036
   }
  ]
 }

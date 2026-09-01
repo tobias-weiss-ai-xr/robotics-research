@@ -113312,3 +113312,234 @@ papers:
     as a foundational reference for researchers and practitioners aiming to develop
     the next generation of private, secure, and collectively intelligent robotic systems.
   venue: Taj Al-Ma rifa journal
+- title: Collision Probability Estimation for Optimization-based Vehicular Motion
+    Planning
+  date: 2025-05
+  url: https://arxiv.org/abs/2505.21161v3
+  category: planning
+  subcategory: method
+  authors:
+  - Leon Tolksdorf
+  - Arturo Tejada
+  - Christian Birkner
+  - Nathan van de Wouw
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Many motion planning algorithms for automated driving require estimating
+    the probability of collision (POC) to account for uncertainties in the measurement
+    and estimation of the motion of road users. Common POC estimation techniques often
+    utilize sampling-based methods that suffer from computational inefficiency and
+    a non-deterministic estimation, i.e., each estimation result for the same inputs
+    is slightly different. In contrast, optimization-based motion planning algorithms
+    require computationally efficient POC estimation, ideally using deterministic
+    estimation, such that typical optimization algorithms for motion planning retain
+    feasibility. Estimating the POC analytically, however, is challenging because
+    it depends on understanding the collision conditions (e.g., vehicle's shape) and
+    characterizing the uncertainty in motion prediction. In this paper, we propose
+    an approach in which we estimate the POC between two vehicles by over-approximating
+    their shapes by a multi-circular shape approximation. The position and heading
+    of the predicted vehicle are modelled as random variables, contrasting with the
+    literature, where the heading angle is often neglected. We guarantee that the
+    provided POC is an over-approximation, which is essential in providing safety
+    guarantees. For the particular case of Gaussian uncertainty in the position and
+    heading, we present a computationally efficient algorithm for computing the POC
+    estimate. This algorithm is then used in a path-following stochastic model predictive
+    controller (SMPC) for motion planning. With the proposed algorithm, the SMPC generates
+    reproducible trajectories while the controller retains its feasibility in the
+    presented test cases and demonstrates the ability to handle varying levels of
+    uncertainty.
+- title: Energy-Aware Predictive Motion Planning for Autonomous Vehicles Using a Hybrid
+    Zonotope Constraint Representation
+  date: 2024-11
+  url: https://arxiv.org/abs/2411.03189v2
+  category: planning
+  subcategory: method
+  authors:
+  - Joshua A. Robbins
+  - Andrew F. Thompson
+  - Sean Brennan
+  - Herschel C. Pangborn
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Uncrewed aerial systems have tightly coupled energy and motion dynamics
+    which must be accounted for by onboard planning algorithms. This work proposes
+    a strategy for coupled motion and energy planning using model predictive control
+    (MPC). A reduced-order linear time-invariant model of coupled energy and motion
+    dynamics is presented. Constrained zonotopes are used to represent state and input
+    constraints, and hybrid zonotopes are used to represent non-convex constraints
+    tied to a map of the environment. The structures of these constraint representations
+    are exploited within a mixed-integer quadratic program solver tailored to MPC
+    motion planning problems. Results apply the proposed methodology to coupled motion
+    and energy utilization planning problems for 1) a hybrid-electric vehicle that
+    must restrict engine usage when flying over regions with noise restrictions, and
+    2) an electric package delivery drone that must track waysets with both position
+    and battery state of charge requirements. By leveraging the structure-exploiting
+    solver, the proposed mixed-integer MPC formulations can be implemented in real
+    time.
+- title: 'Motus2: A Self-Evolving General World Model for Dexterous Manipulation'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.30237v1
+  category: simulation
+  subcategory: method
+  authors:
+  - Hongzhe Bi
+  - Zihao Zhou
+  - Yihang Tang
+  - Jingrui Pang
+  - Shuhe Huang
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'General embodied agents should perceive, predict, act, evaluate, and
+    improve within a unified system. World models have shown great promise in building
+    such agents, yet existing models typically append an action output head to a world
+    simulator, without coupling them into a closed decision-and-learning loop for
+    policy improvement. We present Motus2, a self-evolving general world model for
+    dexterous manipulation. Motus2 advances world modeling through model scaling and
+    data scaling. For model scaling, a single model with shared weights exposes three
+    control interfaces: a policy (world-action model), a simulator (action-conditioned
+    world model), and an evaluator (value model). The policy proposes candidate action
+    chunks, the simulator predicts their visual consequences, and the evaluator assesses
+    the predicted outcomes. Their coupling forms a closed decision-and-learning loop
+    for policy improvement. This formulation uses curated expert demonstrations for
+    action learning, while failed and suboptimal interactions provide valuable evidence
+    for dynamics modeling and value learning. For data scaling, Motus2 progresses
+    from large-scale monocular egocentric data to synchronized stereo egocentric data,
+    followed by robot-domain adaptation with robot trajectories and supplementary
+    human-robot alignment data. Motus2 further studies global-autoregressive and hybrid-memory
+    extensions of its sliding-window context, adds tactile feedback for contact-aware
+    control, and is instantiated on a fully biomimetic platform with stereo vision,
+    dual arms, dual dexterous hands, and tactile sensing. Together, egocentric data
+    scaling and closed-loop general world model scaling provide a general path toward
+    self-evolving dexterous manipulation.'
+- title: Toward Trustworthy Robot-Assisted Sliding Palpation for Shallow Vessel Localisation
+    with a Calibrated Digital Twin
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.29396v1
+  category: simulation
+  subcategory: method
+  authors:
+  - Piotr Blaszyk
+  - Wen Fan
+  - Kaizhong Deng
+  - Daniel Elson
+  - Dandan Zhang
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Reliable localisation of shallow subsurface vessels is important for
+    safe robot-assisted venous access and vessel-aware manipulation, but collecting
+    diverse tactile data on physical hardware is costly, time-consuming, and can degrade
+    soft vision-based tactile sensors. We present a robot-assisted sliding-palpation
+    framework in which a calibrated digital twin generates labelled tactile sequences,
+    reducing reliance on real-world data. The twin models sensor-vessel contact, is
+    calibrated against real palpation trajectories using Bayesian-optimisation-based
+    domain adaptation, and is randomised over sliding direction and contact conditions.
+    A spatio-temporal graph neural network trained on simulated marker trajectories
+    performs per-node vessel classification and produces a human-verifiable top-view
+    localisation map through 2D-to-3D-to-2D geometric projection. We evaluate three
+    datasets: Sim, Silicone, and Meat, the latter a raw-meat phantom with vessel models
+    at nominal depths of 0 to 30 mm, using four train-to-test configurations: Sim
+    to Sim, Sim to Silicone, Sim to Meat, and Meat to Silicone. The calibrated twin
+    achieves a simulated-to-real marker-alignment mean absolute error of 0.50 mm at
+    deepest contact across four canonical interactions. After reprojection onto a
+    1 mm top-view grid, predicted vessel pixels lie on average 1.05 to 5.49 mm from
+    the nearest true vessel pixel across the four models, with 1.05 to 1.31 mm for
+    all except Sim to Meat. The larger error for Sim to Meat reflects the greater
+    domain shift and current limit of simulation transfer. These results demonstrate
+    progress toward trustworthy tactile palpation through calibrated simulation, interpretable
+    localisation, and transparent cross-domain evaluation. Code, model weights, and
+    data are publicly available on GitHub and Zenodo.'
+- title: 'Blind Dexterity: Whole-Body Humanoid Manipulation via Pure Proprioception'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.29487v1
+  category: perception
+  subcategory: method
+  authors:
+  - Aditya Bhatt
+  - Oleg Kaidanov
+  - Puze Liu
+  - Jan Peters
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'We present blind, whole-body manipulation skills on a Unitree G1 humanoid
+    using only onboard proprioception, without cameras, markers, force-torque, or
+    tactile sensors. Despite this minimal sensing, the trained policies exhibit surprising
+    capability across qualitatively different tasks: push-resilient bipedal walking
+    without IMU feedback, active soccer ball trapping with a foot, seeking and lifting
+    a suitcase by its handle, and mounting a randomly positioned skateboard. We argue
+    that these capabilities arise from a key underappreciated signal: the way the
+    joint encoder readouts evolve under purposeful compliant contact, effectively
+    forming a whole-body tactile channel. By generating contact-rich motions, the
+    trained policies actively probe the environment; as a result, task-relevant object
+    state (e.g., pose) becomes increasingly decodable from short proprioceptive histories.
+    We expose this information using compact task-specific state estimators trained
+    alongside, but fully separately from, the policies; their prediction errors decrease
+    rapidly after informative contact. Our results indicate that joint encoder-based
+    proprioception, combined with compliant actuation (now widely available on commercial
+    robots and low-cost motors) is already a strong, practical substrate for whole-body
+    dexterous manipulation and interactive perception, and therefore a natural foundation
+    on which richer sensing can be layered.'
+- title: 'AGM: Achievement-Grounded Memory for Closed-Loop Agents with Frozen VLA
+    Policies'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.29537v1
+  category: manipulation
+  subcategory: method
+  authors:
+  - Hongbo Gao
+  - Zeyu Ni
+  - Xin Wen
+  - Siyu Xu
+  - Ruifeng Li
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: Frozen vision-language-action (VLA) policies offer broad manipulation
+    skills but execute open-loop action chunks without tracking task progress, so
+    the agent cannot reliably decide whether to continue, retry, or terminate. External
+    memory is a natural remedy, yet it can be harmful when attempted actions are treated
+    as completed progress, turning local execution errors into persistent task-state
+    errors. We propose Achievement-Grounded Memory (AGM), a lightweight closed-loop
+    framework for frozen VLA policies that represents a task as a subgoal sequence
+    with a progress pointer and advances this memory only after the current subgoal
+    is verified by physical evidence. Proprioceptive interaction cues decide when
+    to verify, while coherent point tracking and language-conditioned cross-view comparison,
+    sourced from frozen foundation models through a single 2.43M-parameter verification
+    head, decide what was achieved. AGM thereby converts open-loop execution into
+    a closed loop of execution, verification, and progress, keeping the policy frozen
+    without test-time large-model inference. On the RoboMME Counting benchmark, AGM
+    reaches on PickXTimes and on BinFill, surpassing the strongest memory-augmented
+    baseline by points on average, and the framework yields equally decisive gains
+    on a physical robot. Reliable embodied memory thus depends more on disciplined
+    state updates than on memory capacity.
+- title: 'Rethinking Language''s Role in Efficient VLA for Autonomous Vehicles: Toward
+    Smarter, Trustworthy Driving'
+  date: 2026-08
+  url: https://arxiv.org/abs/2608.30144v1
+  category: survey
+  subcategory: review
+  authors:
+  - Tongfei Guo
+  - Lili Su
+  venue: ''
+  code_url: ''
+  project_url: ''
+  abstract: 'Vision-Language-Action (VLA) models are reshaping autonomous driving
+    (AD) by unifying perception, reasoning, and control through language, enabling
+    semantic grounding, interpretable decisions, and better long-tail generalization.
+    But language is expensive onboard: latency and memory budgets are tight, and autoregressive
+    decoding is inherently sequential. This work reframes the central question as
+    when and where language should act at inference, since inference cost recurs at
+    every deployed frame while training cost is paid once. We introduce the Language
+    Residue taxonomy to organize methods by their inference-time use of language:
+    train-time-only supervision (L1), latent non-textual reasoning (L2), conditional
+    invocation (L3), and full per-frame generation (L4). We review representative
+    methods and tag each across five deployment axes (latency, parameters, memory,
+    FLOPs, tokens), analyzing them on major open- and closed-loop driving benchmarks
+    (e.g., nuScenes, NAVSIM, Bench2Drive). We further trace how efficient methods
+    from NLP/LLM are adapted in AD, identifying the constraints and motivations driving
+    these adaptations. A continuously updated repository will be available at Github.'
