@@ -10,7 +10,7 @@ topic:
   name: "Robotics Research"
   short: "robotics"
   description: "Robotics research corpus: manipulation, locomotion, perception, planning, learning, and human-robot interaction."
-  openalex_mailto: "research@tobias-weiss-ai-xr.de"
+  openalex_mailto: "tobias@tobias-weiss.org"
 
 # ── Taxonomy ─────────────────────────────────────────────────────────────────
 # Categories = the main axis (robotics subfields).
